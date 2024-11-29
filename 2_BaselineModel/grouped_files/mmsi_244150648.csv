@@ -1,0 +1,5 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 01:40:53,Class A,244150648,53.959667,14.245483,At anchor,0.0,0.0,196.0,215.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:47,Class A,244150648,53.959667,14.245483,At anchor,0.0,0.0,196.0,215.0,9772606,PCTZ,ARKLOW VIKING,Cargo,,15.0,87.0,GPS,4.2,DERSK,26/11/2024 07:00:00,AIS,75.0,12.0,7.0,8.0
+26/11/2024 09:31:51,Class A,244150648,53.959683,14.245617,At anchor,-2.2,0.1,321.5,223.0,9772606,PCTZ,ARKLOW VIKING,Cargo,,15.0,87.0,GPS,4.2,DERSK,26/11/2024 07:00:00,AIS,75.0,12.0,7.0,8.0
+26/11/2024 10:13:52,Class A,244150648,53.959767,14.245517,At anchor,0.0,0.0,115.8,214.0,9772606,PCTZ,ARKLOW VIKING,Cargo,,15.0,87.0,GPS,4.2,DERSK,26/11/2024 07:00:00,AIS,75.0,12.0,7.0,8.0

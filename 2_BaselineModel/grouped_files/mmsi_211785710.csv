@@ -1,0 +1,4 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 08:33:54,Class A,211785710,54.68215,9.991067,Under way using engine,0.0,0.0,,281.0,Unknown,DK3849,HELLMUT MANTHEY,SAR,,2.0,9.0,Undefined,0.9,SAR ON DUTY,,AIS,4.0,5.0,1.0,1.0
+26/11/2024 08:33:57,Class A,211785710,54.68215,9.991067,Under way using engine,0.0,0.0,,281.0,Unknown,DK3849,HELLMUT MANTHEY,SAR,,2.0,9.0,Internal,0.9,SAR ON DUTY,,AIS,4.0,5.0,1.0,1.0
+26/11/2024 08:34:04,Class A,211785710,54.68215,9.991052,Under way using engine,0.0,0.0,,281.0,Unknown,DK3849,HELLMUT MANTHEY,SAR,,2.0,9.0,Internal,0.9,SAR ON DUTY,,AIS,4.0,5.0,1.0,1.0

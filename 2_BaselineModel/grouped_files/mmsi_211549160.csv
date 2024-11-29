@@ -1,0 +1,738 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 00:00:51,Class A,211549160,54.179718,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:01:51,Class A,211549160,54.179718,12.087477,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:02:51,Class A,211549160,54.17972,12.087482,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:06:51,Class A,211549160,54.179718,12.087447,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:11:27,Class A,211549160,54.179747,12.087483,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:11:47,Class A,211549160,54.179747,12.087475,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:12:58,Class A,211549160,54.179713,12.087433,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:13:07,Class A,211549160,54.179715,12.087432,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:13:28,Class A,211549160,54.179713,12.087447,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:13:38,Class A,211549160,54.179718,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:13:48,Class A,211549160,54.179717,12.087452,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:14:48,Class A,211549160,54.17972,12.087437,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:16:08,Class A,211549160,54.179715,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:16:19,Class A,211549160,54.17972,12.087475,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:16:28,Class A,211549160,54.179725,12.087477,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:17:29,Class A,211549160,54.17971,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:17:48,Class A,211549160,54.179708,12.087453,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:18:48,Class A,211549160,54.179725,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:18:58,Class A,211549160,54.17973,12.087463,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:22:19,Class A,211549160,54.179727,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:22:49,Class A,211549160,54.17972,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:25:08,Class A,211549160,54.179723,12.087473,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:27:50,Class A,211549160,54.179712,12.087435,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:29:50,Class A,211549160,54.179725,12.087473,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:30:50,Class A,211549160,54.179712,12.087447,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:32:50,Class A,211549160,54.17973,12.08744,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:35:05,Class A,211549160,54.179742,12.087443,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:35:24,Class A,211549160,54.179713,12.087428,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:35:45,Class A,211549160,54.179727,12.08744,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:38:05,Class A,211549160,54.179715,12.08746,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:38:14,Class A,211549160,54.179718,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:39:24,Class A,211549160,54.179708,12.087427,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:39:56,Class A,211549160,54.179718,12.087453,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:40:56,Class A,211549160,54.17973,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:41:06,Class A,211549160,54.179717,12.087463,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:41:14,Class A,211549160,54.17971,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:42:14,Class A,211549160,54.179735,12.087483,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:42:56,Class A,211549160,54.179727,12.087455,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:44:06,Class A,211549160,54.179718,12.087448,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:47:16,Class A,211549160,54.179742,12.087438,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:48:55,Class A,211549160,54.179712,12.087438,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:50:06,Class A,211549160,54.17972,12.087463,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:50:23,Class A,211549160,54.179727,12.087462,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:50:54,Class A,211549160,54.179707,12.087403,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:51:43,Class A,211549160,54.179718,12.087408,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:51:54,Class A,211549160,54.17972,12.08742,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:53:04,Class A,211549160,54.17973,12.087467,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:54:04,Class A,211549160,54.17972,12.087442,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:59:10,Class A,211549160,54.179728,12.087467,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:59:29,Class A,211549160,54.179728,12.087455,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:01:00,Class A,211549160,54.179727,12.08744,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:01:10,Class A,211549160,54.17973,12.08744,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:02:50,Class A,211549160,54.179735,12.087457,Under way using engine,,0.0,308.1,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:03:21,Class A,211549160,54.179712,12.08742,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:08:01,Class A,211549160,54.179735,12.087455,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:13:02,Class A,211549160,54.179732,12.087465,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:14:33,Class A,211549160,54.179737,12.08746,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:15:03,Class A,211549160,54.17973,12.08746,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:15:14,Class A,211549160,54.179723,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:15:54,Class A,211549160,54.179722,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:17:14,Class A,211549160,54.179727,12.087435,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:17:42,Class A,211549160,54.179742,12.08744,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:18:14,Class A,211549160,54.17973,12.087442,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:18:34,Class A,211549160,54.179727,12.087447,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:18:54,Class A,211549160,54.179725,12.087465,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:19:34,Class A,211549160,54.179733,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:20:34,Class A,211549160,54.17972,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:21:15,Class A,211549160,54.179715,12.087443,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:21:34,Class A,211549160,54.179728,12.087472,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:24:15,Class A,211549160,54.179735,12.087458,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:24:35,Class A,211549160,54.179725,12.087475,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:25:15,Class A,211549160,54.179708,12.087495,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:26:55,Class A,211549160,54.179718,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:27:04,Class A,211549160,54.179728,12.087462,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:27:15,Class A,211549160,54.179735,12.087447,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:27:36,Class A,211549160,54.179732,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:27:55,Class A,211549160,54.179732,12.087448,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:32:05,Class A,211549160,54.179733,12.08749,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:32:16,Class A,211549160,54.179733,12.087488,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:33:56,Class A,211549160,54.17974,12.087475,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:36:57,Class A,211549160,54.179725,12.087448,Under way using engine,,0.0,25.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:38:17,Class A,211549160,54.179737,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:40:57,Class A,211549160,54.179732,12.087475,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:43:56,Class A,211549160,54.179727,12.08748,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:45:18,Class A,211549160,54.179728,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:46:18,Class A,211549160,54.17973,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:49:18,Class A,211549160,54.179708,12.087465,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:51:58,Class A,211549160,54.179743,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:54:58,Class A,211549160,54.179737,12.087453,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:02:27,Class A,211549160,54.179733,12.08747,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:02:45,Class A,211549160,54.179733,12.08748,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:03:27,Class A,211549160,54.179733,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:03:36,Class A,211549160,54.17973,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:03:55,Class A,211549160,54.179735,12.087458,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:04:26,Class A,211549160,54.179742,12.087457,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:04:36,Class A,211549160,54.179738,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:05:26,Class A,211549160,54.179725,12.087425,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:05:36,Class A,211549160,54.179722,12.087437,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:06:56,Class A,211549160,54.179738,12.087478,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:07:56,Class A,211549160,54.17974,12.08745,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:08:27,Class A,211549160,54.179748,12.087473,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:08:36,Class A,211549160,54.17975,12.087472,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:10:56,Class A,211549160,54.179718,12.087478,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:18:46,Class A,211549160,54.179748,12.087512,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:19:37,Class A,211549160,54.179747,12.087493,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:19:57,Class A,211549160,54.179735,12.087455,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:21:46,Class A,211549160,54.179743,12.087518,Under way using engine,,0.0,28.9,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:22:17,Class A,211549160,54.179735,12.087518,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:22:57,Class A,211549160,54.179728,12.087518,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:23:06,Class A,211549160,54.179733,12.087513,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:23:17,Class A,211549160,54.179742,12.087507,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:23:46,Class A,211549160,54.179745,12.087515,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:23:58,Class A,211549160,54.179745,12.08753,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:24:07,Class A,211549160,54.179748,12.087542,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:24:27,Class A,211549160,54.179743,12.087532,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:25:17,Class A,211549160,54.179725,12.087487,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:26:27,Class A,211549160,54.179717,12.087472,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:26:37,Class A,211549160,54.17972,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:27:27,Class A,211549160,54.179722,12.087507,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:28:17,Class A,211549160,54.179703,12.08753,Under way using engine,,0.0,2.5,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:28:48,Class A,211549160,54.179717,12.08751,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:30:18,Class A,211549160,54.179723,12.087527,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:30:28,Class A,211549160,54.179722,12.08752,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:30:48,Class A,211549160,54.17972,12.08751,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:31:27,Class A,211549160,54.179722,12.087498,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:31:48,Class A,211549160,54.179723,12.08751,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:33:27,Class A,211549160,54.179715,12.08752,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:33:48,Class A,211549160,54.179715,12.0875,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:34:18,Class A,211549160,54.179712,12.087503,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:34:28,Class A,211549160,54.17971,12.087503,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:36:38,Class A,211549160,54.1797,12.087493,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:36:49,Class A,211549160,54.179697,12.087483,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:39:48,Class A,211549160,54.179715,12.08751,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:40:48,Class A,211549160,54.179713,12.08751,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:41:48,Class A,211549160,54.179713,12.087533,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:42:40,Class A,211549160,54.179698,12.08749,Under way using engine,,0.0,334.2,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:48:20,Class A,211549160,54.179723,12.087487,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:53:13,Class A,211549160,54.179712,12.087503,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:55:13,Class A,211549160,54.179713,12.0875,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:56:13,Class A,211549160,54.179707,12.087502,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:56:22,Class A,211549160,54.179712,12.087503,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:59:53,Class A,211549160,54.179723,12.087505,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:01:23,Class A,211549160,54.179727,12.0875,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:02:53,Class A,211549160,54.179717,12.087477,Under way using engine,,0.0,1.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:03:13,Class A,211549160,54.179712,12.087485,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:03:53,Class A,211549160,54.17971,12.08749,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:06:15,Class A,211549160,54.179705,12.087468,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:06:53,Class A,211549160,54.179708,12.087488,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:08:24,Class A,211549160,54.179715,12.087487,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:11:54,Class A,211549160,54.179735,12.087493,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:12:12,Class A,211549160,54.179725,12.087512,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:13:32,Class A,211549160,54.179712,12.08749,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:14:32,Class A,211549160,54.179717,12.08752,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:14:53,Class A,211549160,54.17972,12.087492,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:15:12,Class A,211549160,54.179718,12.087492,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:15:32,Class A,211549160,54.17973,12.087495,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:16:32,Class A,211549160,54.179723,12.087495,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:19:13,Class A,211549160,54.179713,12.087502,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:19:54,Class A,211549160,54.179717,12.087517,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:20:24,Class A,211549160,54.179708,12.08749,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:21:34,Class A,211549160,54.179722,12.087493,Under way using engine,,0.0,356.7,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:22:34,Class A,211549160,54.17971,12.087497,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:23:03,Class A,211549160,54.179707,12.087507,Under way using engine,,0.0,1.7,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:23:14,Class A,211549160,54.179713,12.087477,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:23:53,Class A,211549160,54.179698,12.087483,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:24:03,Class A,211549160,54.179702,12.087487,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:24:34,Class A,211549160,54.179727,12.087483,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:26:24,Class A,211549160,54.179713,12.087523,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:26:34,Class A,211549160,54.179713,12.087518,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:26:53,Class A,211549160,54.17971,12.087488,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:27:15,Class A,211549160,54.17971,12.087488,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:28:04,Class A,211549160,54.179712,12.087482,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:28:15,Class A,211549160,54.179713,12.087493,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:31:05,Class A,211549160,54.179723,12.087512,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:31:15,Class A,211549160,54.179738,12.087513,Under way using engine,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:34:33,Class A,211549160,54.179738,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:35:25,Class A,211549160,54.179705,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:37:35,Class A,211549160,54.179692,12.087462,Under way using engine,,0.0,352.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:38:15,Class A,211549160,54.179705,12.087478,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:38:25,Class A,211549160,54.179705,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:39:35,Class A,211549160,54.179712,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:41:35,Class A,211549160,54.17969,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:41:57,Class A,211549160,54.17971,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:44:57,Class A,211549160,54.179717,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:47:37,Class A,211549160,54.179708,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:48:37,Class A,211549160,54.17972,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:49:38,Class A,211549160,54.179702,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:52:38,Class A,211549160,54.1797,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:52:57,Class A,211549160,54.1797,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 03:56:37,Class A,211549160,54.179712,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:04:50,Class A,211549160,54.17973,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:05:50,Class A,211549160,54.179712,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:06:41,Class A,211549160,54.179717,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:06:50,Class A,211549160,54.179718,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:08:22,Class A,211549160,54.179725,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:08:31,Class A,211549160,54.179722,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:09:31,Class A,211549160,54.17972,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:10:41,Class A,211549160,54.17971,12.087537,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:11:13,Class A,211549160,54.179713,12.08753,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:12:32,Class A,211549160,54.179717,12.08753,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:13:13,Class A,211549160,54.179715,12.087525,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:14:32,Class A,211549160,54.179713,12.087532,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:15:32,Class A,211549160,54.179708,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:16:13,Class A,211549160,54.179707,12.087532,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:16:32,Class A,211549160,54.17971,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:16:42,Class A,211549160,54.179707,12.087485,Under way using engine,,0.0,5.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:17:24,Class A,211549160,54.17971,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:17:42,Class A,211549160,54.179718,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:18:32,Class A,211549160,54.179705,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:18:42,Class A,211549160,54.179708,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:23:23,Class A,211549160,54.179733,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:26:23,Class A,211549160,54.17972,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:28:56,Class A,211549160,54.179725,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:31:06,Class A,211549160,54.179733,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:31:16,Class A,211549160,54.17973,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:34:17,Class A,211549160,54.179738,12.08749,Under way using engine,,0.0,12.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:34:37,Class A,211549160,54.179728,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:34:42,Class A,211549160,54.179728,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:41:27,Class A,211549160,54.179733,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:42:18,Class A,211549160,54.17972,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:43:38,Class A,211549160,54.179707,12.08751,Under way using engine,,0.0,22.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:43:58,Class A,211549160,54.179715,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:44:38,Class A,211549160,54.179705,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:45:38,Class A,211549160,54.179705,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:46:59,Class A,211549160,54.179725,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:50:49,Class A,211549160,54.179708,12.087505,Under way using engine,,0.0,42.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:51:40,Class A,211549160,54.179708,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:52:40,Class A,211549160,54.179708,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:52:50,Class A,211549160,54.179717,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:53:40,Class A,211549160,54.179698,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:56:00,Class A,211549160,54.179723,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:56:29,Class A,211549160,54.17971,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:56:49,Class A,211549160,54.17969,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:57:49,Class A,211549160,54.179725,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:58:39,Class A,211549160,54.179718,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:58:50,Class A,211549160,54.179707,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 04:59:40,Class A,211549160,54.179702,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:02:41,Class A,211549160,54.179708,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:02:51,Class A,211549160,54.179713,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:03:41,Class A,211549160,54.179697,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:05:41,Class A,211549160,54.179705,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:06:54,Class A,211549160,54.179707,12.087515,Under way using engine,,0.0,339.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:07:45,Class A,211549160,54.179698,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:08:34,Class A,211549160,54.179707,12.087502,Under way using engine,,0.0,344.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:09:45,Class A,211549160,54.17971,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:10:05,Class A,211549160,54.179707,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:11:15,Class A,211549160,54.179698,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:12:06,Class A,211549160,54.179692,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:15:56,Class A,211549160,54.179698,12.087482,Under way using engine,,0.0,9.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:16:16,Class A,211549160,54.179715,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:17:56,Class A,211549160,54.179683,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:20:27,Class A,211549160,54.179712,12.087515,Under way using engine,,0.0,0.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:27:16,Class A,211549160,54.179715,12.087513,Under way using engine,,0.0,97.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:29:17,Class A,211549160,54.179703,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:39:28,Class A,211549160,54.179688,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:40:03,Class A,211549160,54.179712,12.087467,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:41:45,Class A,211549160,54.179723,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:43:23,Class A,211549160,54.17971,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:50:45,Class A,211549160,54.179725,12.087467,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:52:45,Class A,211549160,54.179713,12.087453,Under way using engine,,0.0,187.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 05:57:16,Class A,211549160,54.179703,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:06:53,Class A,211549160,54.179705,12.087443,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:11:02,Class A,211549160,54.179712,12.087447,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:14:02,Class A,211549160,54.179733,12.087458,Under way using engine,,0.0,214.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:17:44,Class A,211549160,54.179722,12.087462,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:18:03,Class A,211549160,54.179715,12.087453,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:23:44,Class A,211549160,54.179702,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:25:45,Class A,211549160,54.179717,12.087467,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:28:05,Class A,211549160,54.179697,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:34:46,Class A,211549160,54.179698,12.087492,Under way using engine,,0.0,179.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:47:07,Class A,211549160,54.1797,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:52:15,Class A,211549160,54.179707,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:55:46,Class A,211549160,54.179712,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 06:58:45,Class A,211549160,54.17972,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:05:47,Class A,211549160,54.179738,12.087478,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:07:56,Class A,211549160,54.179722,12.087485,Under way using engine,,0.0,193.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:08:35,Class A,211549160,54.17973,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:12:26,Class A,211549160,54.179708,12.0875,Under way using engine,,0.0,161.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:14:36,Class A,211549160,54.179733,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:14:57,Class A,211549160,54.179722,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:15:16,Class A,211549160,54.179732,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:15:36,Class A,211549160,54.17973,12.08746,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:16:16,Class A,211549160,54.17973,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:23:38,Class A,211549160,54.179703,12.087525,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:24:39,Class A,211549160,54.179738,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:24:48,Class A,211549160,54.179728,12.087507,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:27:59,Class A,211549160,54.179728,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:29:59,Class A,211549160,54.179725,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:38:00,Class A,211549160,54.179738,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:41:45,Class A,211549160,54.179723,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:41:56,Class A,211549160,54.179725,12.087495,Under way using engine,,0.0,179.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:42:46,Class A,211549160,54.179743,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:53:57,Class A,211549160,54.179725,12.087495,Under way using engine,,0.1,124.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:54:16,Class A,211549160,54.179725,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:54:46,Class A,211549160,54.179742,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:54:57,Class A,211549160,54.179737,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:56:58,Class A,211549160,54.17973,12.087483,Under way using engine,,0.0,100.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:57:39,Class A,211549160,54.179735,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 07:57:47,Class A,211549160,54.17974,12.087493,Under way using engine,,0.0,97.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:01:59,Class A,211549160,54.17973,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:02:18,Class A,211549160,54.179738,12.087485,Under way using engine,,0.0,153.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:03:49,Class A,211549160,54.179723,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:04:59,Class A,211549160,54.17972,12.08745,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:06:48,Class A,211549160,54.17974,12.087467,Under way using engine,,0.0,91.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:09:10,Class A,211549160,54.179737,12.087477,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:09:51,Class A,211549160,54.179723,12.087483,Under way using engine,,0.0,130.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:11:00,Class A,211549160,54.179742,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:11:20,Class A,211549160,54.17973,12.087467,Under way using engine,,0.0,150.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:11:39,Class A,211549160,54.179743,12.087467,Under way using engine,,0.0,153.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:12:10,Class A,211549160,54.179748,12.087457,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:15:59,Class A,211549160,54.179737,12.087453,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:25:13,Class A,211549160,54.17975,12.087455,Under way using engine,,0.0,132.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:25:34,Class A,211549160,54.179742,12.087458,Under way using engine,,0.0,124.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:28:34,Class A,211549160,54.179727,12.087462,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:28:45,Class A,211549160,54.179735,12.08745,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:28:54,Class A,211549160,54.17974,12.087442,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:29:25,Class A,211549160,54.17974,12.087453,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:34:56,Class A,211549160,54.179763,12.087437,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:35:56,Class A,211549160,54.179733,12.087457,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:37:16,Class A,211549160,54.179748,12.087447,Under way using engine,,0.0,137.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:37:56,Class A,211549160,54.17973,12.08745,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:41:57,Class A,211549160,54.17974,12.087458,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:42:07,Class A,211549160,54.179728,12.087455,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:42:57,Class A,211549160,54.179735,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:51:48,Class A,211549160,54.179722,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:52:19,Class A,211549160,54.179712,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:52:29,Class A,211549160,54.179715,12.08746,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:54:49,Class A,211549160,54.179697,12.087492,Under way using engine,,0.0,159.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 08:55:49,Class A,211549160,54.179718,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:00:50,Class A,211549160,54.179717,12.08746,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:01:50,Class A,211549160,54.179722,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:16:02,Class A,211549160,54.179723,12.087482,Under way using engine,,0.0,141.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:19:01,Class A,211549160,54.17971,12.087477,Under way using engine,,0.0,58.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:22:37,Class A,211549160,54.179713,12.087463,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:23:57,Class A,211549160,54.179728,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:24:57,Class A,211549160,54.179728,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:25:16,Class A,211549160,54.179732,12.087468,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:32:17,Class A,211549160,54.179713,12.08746,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:32:38,Class A,211549160,54.179712,12.087468,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:33:58,Class A,211549160,54.179717,12.087478,Under way using engine,,0.0,347.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:34:59,Class A,211549160,54.179713,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:36:58,Class A,211549160,54.179713,12.087478,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:43:58,Class A,211549160,54.179712,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:47:34,Class A,211549160,54.179708,12.087478,Under way using engine,,0.0,340.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:49:54,Class A,211549160,54.179695,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 09:53:26,Class A,211549160,54.179703,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:05:07,Class A,211549160,54.179697,12.087472,Under way using engine,,0.0,33.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:29:22,Class A,211549160,54.17971,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:30:31,Class A,211549160,54.179692,12.087467,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:34:22,Class A,211549160,54.179698,12.087478,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:45:40,Class A,211549160,54.179703,12.087452,Under way using engine,,0.0,18.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:47:27,Class A,211549160,54.179703,12.087452,Under way using engine,,0.0,18.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:47:30,Class A,211549160,54.17971,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:48:51,Class A,211549160,54.17971,12.08746,Under way using engine,,0.0,1.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:49:20,Class A,211549160,54.179707,12.087458,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:51:41,Class A,211549160,54.179702,12.087455,Under way using engine,,0.0,49.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:54:11,Class A,211549160,54.17971,12.087482,Under way using engine,,0.0,14.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:55:22,Class A,211549160,54.179692,12.08748,Under way using engine,,0.0,24.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:55:40,Class A,211549160,54.179697,12.087478,Under way using engine,,0.0,17.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:56:01,Class A,211549160,54.179683,12.08747,Under way using engine,,0.0,6.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:58:40,Class A,211549160,54.179698,12.087452,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 10:59:48,Class A,211549160,54.179698,12.087452,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:00:00,Class A,211549160,54.179702,12.087472,Under way using engine,,0.0,4.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:04:42,Class A,211549160,54.179693,12.087447,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:08:42,Class A,211549160,54.17969,12.087448,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:12:42,Class A,211549160,54.179725,12.08745,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:21:44,Class A,211549160,54.179688,12.087468,Under way using engine,,0.0,146.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:22:03,Class A,211549160,54.179702,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:25:03,Class A,211549160,54.179695,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:25:45,Class A,211549160,54.17969,12.087462,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:27:04,Class A,211549160,54.179678,12.087518,Under way using engine,,0.3,108.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:37:05,Class A,211549160,54.177008,12.093858,Under way using engine,,6.7,160.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:37:45,Class A,211549160,54.175813,12.0945,Under way using engine,,6.7,164.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:42:05,Class A,211549160,54.167752,12.097088,Under way using engine,,6.9,179.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:45:05,Class A,211549160,54.161918,12.096532,Under way using engine,,6.9,196.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:55:40,Class A,211549160,54.159378,12.108178,Under way using engine,,7.3,74.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:57:20,Class A,211549160,54.159647,12.113852,Under way using engine,,7.3,86.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:58:21,Class A,211549160,54.159387,12.117292,Under way using engine,,7.0,120.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:58:41,Class A,211549160,54.159017,12.118153,Under way using engine,,7.1,131.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:58:52,Class A,211549160,54.158765,12.118605,Under way using engine,,7.1,135.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 11:59:40,Class A,211549160,54.157358,12.119935,Under way using engine,,7.1,162.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:01:00,Class A,211549160,54.154903,12.121313,Under way using engine,,6.9,160.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:03:21,Class A,211549160,54.155438,12.122823,Under way using engine,,7.2,340.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:03:52,Class A,211549160,54.156458,12.122172,Under way using engine,,7.2,335.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:05:21,Class A,211549160,54.159022,12.119628,Under way using engine,,7.1,315.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:06:21,Class A,211549160,54.159782,12.116623,Under way using engine,,7.1,275.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:07:21,Class A,211549160,54.159958,12.113187,Under way using engine,,7.3,275.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:10:36,Class A,211549160,54.162922,12.103798,Under way using engine,,7.0,337.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:18:27,Class A,211549160,54.17857,12.09472,Under way using engine,,7.8,328.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:32:48,Class A,211549160,54.179693,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:33:08,Class A,211549160,54.179698,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:33:39,Class A,211549160,54.1797,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:34:08,Class A,211549160,54.179705,12.087525,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:36:08,Class A,211549160,54.179703,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:37:50,Class A,211549160,54.179693,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:40:09,Class A,211549160,54.179698,12.087518,Under way using engine,,0.0,286.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:43:09,Class A,211549160,54.179692,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:50:09,Class A,211549160,54.179708,12.087498,Under way using engine,,0.0,352.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:52:11,Class A,211549160,54.179692,12.087507,Under way using engine,,0.0,14.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:52:51,Class A,211549160,54.179702,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:53:52,Class A,211549160,54.179707,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:54:11,Class A,211549160,54.179703,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 12:56:10,Class A,211549160,54.179698,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:04:12,Class A,211549160,54.17969,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:07:12,Class A,211549160,54.179697,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:09:49,Class A,211549160,54.179718,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:11:09,Class A,211549160,54.179708,12.087507,Under way using engine,,0.0,345.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:11:49,Class A,211549160,54.179693,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:14:49,Class A,211549160,54.179685,12.087528,Under way using engine,,0.0,359.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:24:30,Class A,211549160,54.17619,12.09486,Under way using engine,,7.0,163.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:27:31,Class A,211549160,54.170543,12.097052,Under way using engine,,6.9,179.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:28:31,Class A,211549160,54.168585,12.097163,Under way using engine,,7.1,181.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:32:52,Class A,211549160,54.16035,12.095633,Under way using engine,,6.9,202.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:33:52,Class A,211549160,54.158485,12.094555,Under way using engine,,7.1,194.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:36:31,Class A,211549160,54.153572,12.095265,Under way using engine,,6.8,141.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:42:31,Class A,211549160,54.159623,12.111868,Under way using engine,,7.0,87.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:43:31,Class A,211549160,54.159713,12.11523,Under way using engine,,7.1,87.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:43:53,Class A,211549160,54.159673,12.116407,Under way using engine,,7.0,103.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:44:53,Class A,211549160,54.158478,12.118955,Under way using engine,,7.1,140.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:45:53,Class A,211549160,54.15671,12.120477,Under way using engine,,7.2,161.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:47:52,Class A,211549160,54.15316,12.122503,Under way using engine,,4.9,121.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:48:32,Class A,211549160,54.153538,12.123468,Under way using engine,,5.3,10.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:50:52,Class A,211549160,54.157798,12.120925,Under way using engine,,7.2,329.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:51:33,Class A,211549160,54.158945,12.11965,Under way using engine,,7.2,320.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:56:33,Class A,211549160,54.162328,12.104607,Under way using engine,,7.2,323.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 13:57:53,Class A,211549160,54.164827,12.102882,Under way using engine,,7.4,341.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:01:53,Class A,211549160,54.172707,12.09828,Under way using engine,,7.4,342.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:07:35,Class A,211549160,54.18367,12.089932,Under way using engine,,7.4,322.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:11:56,Class A,211549160,54.179457,12.087728,Under way using engine,,0.0,184.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:12:56,Class A,211549160,54.179682,12.087538,Under way using engine,,0.2,333.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:13:56,Class A,211549160,54.179703,12.087538,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:20:56,Class A,211549160,54.179697,12.087542,Under way using engine,,0.0,197.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:25:37,Class A,211549160,54.179715,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:25:57,Class A,211549160,54.1797,12.087547,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:26:57,Class A,211549160,54.179705,12.087518,Under way using engine,,0.0,156.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:28:38,Class A,211549160,54.179692,12.087543,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:31:37,Class A,211549160,54.179722,12.087552,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:32:38,Class A,211549160,54.179702,12.087532,Under way using engine,,0.0,139.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:35:58,Class A,211549160,54.179717,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:38:37,Class A,211549160,54.179708,12.087512,Under way using engine,,0.0,155.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:39:37,Class A,211549160,54.17971,12.087527,Under way using engine,,0.0,153.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:41:38,Class A,211549160,54.179713,12.087517,Under way using engine,,0.0,186.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:41:58,Class A,211549160,54.179717,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:42:38,Class A,211549160,54.179722,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:43:38,Class A,211549160,54.179718,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:43:58,Class A,211549160,54.179735,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:44:38,Class A,211549160,54.179742,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:44:58,Class A,211549160,54.179737,12.087532,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:45:38,Class A,211549160,54.179737,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:47:38,Class A,211549160,54.179767,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:49:39,Class A,211549160,54.179802,12.087528,Under way using engine,,0.0,113.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:51:39,Class A,211549160,54.179782,12.087508,Under way using engine,,0.0,109.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:54:58,Class A,211549160,54.179775,12.087537,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:55:29,Class A,211549160,54.179783,12.087542,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:55:40,Class A,211549160,54.179787,12.08754,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:56:20,Class A,211549160,54.179783,12.08752,Under way using engine,,0.0,111.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:56:58,Class A,211549160,54.179792,12.08754,Under way using engine,,0.0,99.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:58:09,Class A,211549160,54.17978,12.087537,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:58:30,Class A,211549160,54.17977,12.08752,Under way using engine,,0.0,139.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:58:40,Class A,211549160,54.17976,12.087508,Under way using engine,,0.0,158.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 14:59:19,Class A,211549160,54.17977,12.087537,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:00:19,Class A,211549160,54.179767,12.087522,Under way using engine,,0.0,186.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:00:59,Class A,211549160,54.17978,12.087543,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:02:10,Class A,211549160,54.179753,12.087528,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:02:30,Class A,211549160,54.179727,12.087515,Under way using engine,,0.0,211.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:03:41,Class A,211549160,54.179773,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:06:00,Class A,211549160,54.179747,12.087525,Under way using engine,,0.0,267.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:08:00,Class A,211549160,54.17975,12.087532,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:09:41,Class A,211549160,54.179727,12.087538,Under way using engine,,0.0,222.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:10:41,Class A,211549160,54.179745,12.08754,Under way using engine,,0.0,214.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:13:22,Class A,211549160,54.179733,12.087548,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:13:42,Class A,211549160,54.179735,12.087548,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:15:22,Class A,211549160,54.179728,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:15:42,Class A,211549160,54.179713,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:16:00,Class A,211549160,54.17972,12.087522,Under way using engine,,0.0,206.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:17:31,Class A,211549160,54.179733,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:22:01,Class A,211549160,54.179733,12.087563,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:22:22,Class A,211549160,54.179753,12.087565,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:22:32,Class A,211549160,54.179755,12.087558,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:23:01,Class A,211549160,54.17976,12.08756,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:23:23,Class A,211549160,54.179755,12.087563,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:23:32,Class A,211549160,54.179758,12.08757,Under way using engine,,0.0,178.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:23:42,Class A,211549160,54.17975,12.087543,Under way using engine,,0.0,185.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:23:57,Class A,211549160,54.17975,12.087543,Under way using engine,,0.0,185.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:25:23,Class A,211549160,54.179745,12.087552,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:26:33,Class A,211549160,54.179747,12.087548,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:27:43,Class A,211549160,54.1797,12.087538,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:29:33,Class A,211549160,54.179747,12.087538,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:29:43,Class A,211549160,54.179745,12.087537,Under way using engine,,0.0,189.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:29:52,Class A,211549160,54.179745,12.087537,Under way using engine,,0.0,189.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:31:43,Class A,211549160,54.179728,12.087528,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:32:43,Class A,211549160,54.179743,12.087533,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:33:43,Class A,211549160,54.17976,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:34:37,Class A,211549160,54.179732,12.087532,Under way using engine,,0.0,202.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:35:17,Class A,211549160,54.179743,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:35:47,Class A,211549160,54.179737,12.087505,Under way using engine,,0.0,225.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:35:57,Class A,211549160,54.179725,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:36:38,Class A,211549160,54.179713,12.087517,Under way using engine,,0.0,190.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:36:47,Class A,211549160,54.17971,12.087515,Under way using engine,,0.0,214.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:37:17,Class A,211549160,54.179715,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:37:27,Class A,211549160,54.179707,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:37:38,Class A,211549160,54.179702,12.087507,Under way using engine,,0.0,238.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:38:38,Class A,211549160,54.179718,12.087503,Under way using engine,,0.0,282.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:38:47,Class A,211549160,54.17972,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:40:48,Class A,211549160,54.179725,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:40:57,Class A,211549160,54.179723,12.087502,Under way using engine,,0.0,334.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:41:37,Class A,211549160,54.179725,12.087515,Under way using engine,,0.0,345.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:42:18,Class A,211549160,54.179713,12.087507,Under way using engine,,0.0,11.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:42:37,Class A,211549160,54.179717,12.087512,Under way using engine,,0.0,45.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:43:48,Class A,211549160,54.179715,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:44:18,Class A,211549160,54.179713,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:45:39,Class A,211549160,54.179708,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:45:48,Class A,211549160,54.1797,12.087507,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:46:39,Class A,211549160,54.179725,12.0875,Under way using engine,,0.0,20.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:46:48,Class A,211549160,54.179715,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:47:19,Class A,211549160,54.179718,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:49:39,Class A,211549160,54.179715,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:52:28,Class A,211549160,54.179718,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:52:58,Class A,211549160,54.179712,12.087512,Under way using engine,,0.0,28.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:53:28,Class A,211549160,54.179715,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:54:38,Class A,211549160,54.179713,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:55:09,Class A,211549160,54.17974,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:56:09,Class A,211549160,54.179718,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:56:29,Class A,211549160,54.17971,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:56:49,Class A,211549160,54.179707,12.087517,Under way using engine,,0.0,4.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:58:19,Class A,211549160,54.179717,12.087513,Under way using engine,,0.0,16.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 15:59:30,Class A,211549160,54.179712,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:00:20,Class A,211549160,54.179718,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:00:30,Class A,211549160,54.179713,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:00:40,Class A,211549160,54.179713,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:01:10,Class A,211549160,54.179717,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:01:30,Class A,211549160,54.17973,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:01:50,Class A,211549160,54.179703,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:02:21,Class A,211549160,54.17971,12.087505,Under way using engine,,0.0,1.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:02:31,Class A,211549160,54.179712,12.087518,Under way using engine,,0.0,5.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:03:21,Class A,211549160,54.179713,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:04:51,Class A,211549160,54.179703,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:05:10,Class A,211549160,54.179707,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:05:20,Class A,211549160,54.179705,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:06:02,Class A,211549160,54.179705,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:06:10,Class A,211549160,54.179713,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:08:10,Class A,211549160,54.179713,12.087495,Under way using engine,,0.0,4.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:08:30,Class A,211549160,54.17971,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:09:20,Class A,211549160,54.17971,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:10:10,Class A,211549160,54.179713,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:10:20,Class A,211549160,54.179713,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:11:10,Class A,211549160,54.179718,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:13:10,Class A,211549160,54.179712,12.087498,Under way using engine,,0.0,3.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:14:46,Class A,211549160,54.179712,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:15:26,Class A,211549160,54.179715,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:15:46,Class A,211549160,54.179718,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:16:11,Class A,211549160,54.179705,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:18:03,Class A,211549160,54.17972,12.087507,Under way using engine,,0.0,85.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:19:03,Class A,211549160,54.179728,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:19:12,Class A,211549160,54.17973,12.087503,Under way using engine,,0.0,46.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:19:22,Class A,211549160,54.179727,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:19:53,Class A,211549160,54.179715,12.087498,Under way using engine,,0.0,40.5,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:20:22,Class A,211549160,54.179703,12.087488,Under way using engine,,0.0,64.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:21:04,Class A,211549160,54.179712,12.087488,Under way using engine,,0.0,19.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:21:22,Class A,211549160,54.17972,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:22:22,Class A,211549160,54.179705,12.08749,Under way using engine,,0.0,16.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:22:53,Class A,211549160,54.179727,12.087493,Under way using engine,,0.0,19.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:23:02,Class A,211549160,54.179718,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:24:02,Class A,211549160,54.179712,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:24:13,Class A,211549160,54.179715,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:24:33,Class A,211549160,54.179712,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:25:23,Class A,211549160,54.179705,12.087483,Under way using engine,,0.0,37.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:26:34,Class A,211549160,54.179725,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:27:02,Class A,211549160,54.179723,12.087493,Under way using engine,,0.0,359.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:27:24,Class A,211549160,54.179718,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:28:14,Class A,211549160,54.179717,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:29:03,Class A,211549160,54.179715,12.087512,Under way using engine,,0.0,4.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:30:14,Class A,211549160,54.179708,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:30:24,Class A,211549160,54.179712,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:31:03,Class A,211549160,54.17971,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:31:24,Class A,211549160,54.179708,12.087513,Under way using engine,,0.0,357.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:32:03,Class A,211549160,54.179717,12.087512,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:35:34,Class A,211549160,54.17972,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:36:14,Class A,211549160,54.179705,12.087505,Under way using engine,,0.0,10.2,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:45:52,Class A,211549160,54.17973,12.087497,Under way using engine,,0.0,24.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:48:41,Class A,211549160,54.179738,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:49:01,Class A,211549160,54.179728,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:51:22,Class A,211549160,54.179723,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:51:41,Class A,211549160,54.179723,12.087492,Under way using engine,,0.0,357.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:52:31,Class A,211549160,54.179727,12.087513,Under way using engine,,0.0,26.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:56:53,Class A,211549160,54.179735,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:58:03,Class A,211549160,54.179733,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 16:58:42,Class A,211549160,54.179733,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:00:52,Class A,211549160,54.179738,12.087527,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:05:54,Class A,211549160,54.17974,12.087538,Under way using engine,,0.0,24.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:26:35,Class A,211549160,54.179742,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:31:56,Class A,211549160,54.179728,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:41:41,Class A,211549160,54.179737,12.087465,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:53:33,Class A,211549160,54.179685,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:54:53,Class A,211549160,54.179708,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:55:53,Class A,211549160,54.17968,12.087493,Under way using engine,,0.0,140.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 17:59:53,Class A,211549160,54.179718,12.087522,Under way using engine,,0.0,151.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:00:34,Class A,211549160,54.179718,12.087518,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:03:34,Class A,211549160,54.179697,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:04:23,Class A,211549160,54.179717,12.087513,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:05:35,Class A,211549160,54.179705,12.087497,Under way using engine,,0.0,185.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:06:33,Class A,211549160,54.179707,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:06:53,Class A,211549160,54.179715,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:07:44,Class A,211549160,54.17971,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:08:53,Class A,211549160,54.179698,12.087473,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:09:34,Class A,211549160,54.179717,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:09:44,Class A,211549160,54.179712,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:11:34,Class A,211549160,54.179715,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:12:34,Class A,211549160,54.17971,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:16:35,Class A,211549160,54.179718,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:31:05,Class A,211549160,54.17972,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:37:22,Class A,211549160,54.179728,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:37:32,Class A,211549160,54.179725,12.087492,Under way using engine,,0.0,171.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:37:41,Class A,211549160,54.179727,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:38:32,Class A,211549160,54.179742,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:45:11,Class A,211549160,54.179715,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:49:40,Class A,211549160,54.17972,12.087497,Under way using engine,,0.0,149.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:49:49,Class A,211549160,54.179735,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:50:29,Class A,211549160,54.179717,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:51:30,Class A,211549160,54.179717,12.087503,Under way using engine,,0.0,193.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:51:40,Class A,211549160,54.17972,12.087508,Under way using engine,,0.0,182.6,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:52:30,Class A,211549160,54.179732,12.087495,Under way using engine,,0.0,228.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:52:49,Class A,211549160,54.179727,12.087512,Under way using engine,,0.0,200.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:54:41,Class A,211549160,54.179707,12.08749,Under way using engine,,0.0,165.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 18:55:50,Class A,211549160,54.179715,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:12:51,Class A,211549160,54.179735,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:13:51,Class A,211549160,54.179702,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:16:31,Class A,211549160,54.17972,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:17:31,Class A,211549160,54.17971,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:18:41,Class A,211549160,54.17972,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:19:31,Class A,211549160,54.179708,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:20:32,Class A,211549160,54.179702,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:21:32,Class A,211549160,54.179715,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:22:32,Class A,211549160,54.179705,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:26:33,Class A,211549160,54.179705,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:26:42,Class A,211549160,54.1797,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:27:33,Class A,211549160,54.179715,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:27:42,Class A,211549160,54.179717,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:28:02,Class A,211549160,54.179732,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:28:33,Class A,211549160,54.179725,12.087503,Under way using engine,,0.0,193.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:28:42,Class A,211549160,54.179722,12.0875,Under way using engine,,0.0,189.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:29:02,Class A,211549160,54.17972,12.087487,Under way using engine,,0.0,247.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:29:34,Class A,211549160,54.179723,12.087507,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:30:42,Class A,211549160,54.179723,12.0875,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:31:34,Class A,211549160,54.179718,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:31:43,Class A,211549160,54.179715,12.087505,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:32:58,Class A,211549160,54.179715,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:33:09,Class A,211549160,54.179717,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:33:29,Class A,211549160,54.179722,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:33:39,Class A,211549160,54.17972,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:33:58,Class A,211549160,54.179708,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:34:09,Class A,211549160,54.179703,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:34:18,Class A,211549160,54.179707,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:34:29,Class A,211549160,54.179708,12.087487,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:34:48,Class A,211549160,54.17972,12.08749,Under way using engine,,0.0,248.7,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:35:09,Class A,211549160,54.179722,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:35:39,Class A,211549160,54.179688,12.087477,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:36:09,Class A,211549160,54.179713,12.087493,Under way using engine,,0.0,241.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:36:39,Class A,211549160,54.179713,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:36:49,Class A,211549160,54.179718,12.087487,Under way using engine,,0.0,259.3,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:37:09,Class A,211549160,54.179717,12.087478,Under way using engine,,0.0,237.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:37:28,Class A,211549160,54.179717,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:37:39,Class A,211549160,54.179718,12.087483,Under way using engine,,0.0,210.1,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:37:58,Class A,211549160,54.179722,12.087485,Under way using engine,,0.0,214.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:38:09,Class A,211549160,54.17972,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:38:18,Class A,211549160,54.179722,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:38:28,Class A,211549160,54.17972,12.087482,Under way using engine,,0.0,207.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:38:49,Class A,211549160,54.179718,12.087472,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:38:59,Class A,211549160,54.179722,12.08748,Under way using engine,,0.0,212.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:39:19,Class A,211549160,54.179717,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:39:39,Class A,211549160,54.179708,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:39:59,Class A,211549160,54.179715,12.087495,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:40:08,Class A,211549160,54.179713,12.08749,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:40:19,Class A,211549160,54.179708,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:40:39,Class A,211549160,54.179717,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:40:48,Class A,211549160,54.179715,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:41:19,Class A,211549160,54.179727,12.08749,Under way using engine,,0.0,206.8,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:41:39,Class A,211549160,54.179718,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:42:08,Class A,211549160,54.17972,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:42:39,Class A,211549160,54.179717,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:44:59,Class A,211549160,54.179733,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:45:59,Class A,211549160,54.179723,12.087465,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:47:59,Class A,211549160,54.179725,12.087473,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:48:09,Class A,211549160,54.179728,12.087482,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:48:21,Class A,211549160,54.179723,12.087477,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:48:29,Class A,211549160,54.179723,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:48:59,Class A,211549160,54.179717,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:49:09,Class A,211549160,54.179713,12.087478,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:49:29,Class A,211549160,54.179713,12.087473,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:50:40,Class A,211549160,54.179728,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:52:21,Class A,211549160,54.179715,12.087492,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:52:30,Class A,211549160,54.179718,12.087488,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:53:21,Class A,211549160,54.179722,12.087465,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:53:41,Class A,211549160,54.179717,12.087468,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:54:51,Class A,211549160,54.179702,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:55:30,Class A,211549160,54.17974,12.087472,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:55:51,Class A,211549160,54.179727,12.087483,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:56:11,Class A,211549160,54.179713,12.087475,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 19:56:41,Class A,211549160,54.17972,12.08748,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:01:52,Class A,211549160,54.179725,12.087473,Under way using engine,,0.0,225.4,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:07:12,Class A,211549160,54.17971,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:09:12,Class A,211549160,54.179698,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:11:11,Class A,211549160,54.179697,12.087497,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:12:11,Class A,211549160,54.1797,12.087485,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:18:54,Class A,211549160,54.17973,12.087507,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:19:33,Class A,211549160,54.179742,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:21:24,Class A,211549160,54.179728,12.08752,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:21:33,Class A,211549160,54.17972,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:22:33,Class A,211549160,54.179748,12.087527,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:23:55,Class A,211549160,54.179708,12.08753,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:24:25,Class A,211549160,54.179702,12.087523,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:24:33,Class A,211549160,54.179702,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:27:33,Class A,211549160,54.17973,12.087525,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:27:54,Class A,211549160,54.179723,12.087503,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:32:15,Class A,211549160,54.179757,12.08753,Under way using engine,,0.1,233.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:39:15,Class A,211549160,54.179718,12.087515,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:39:55,Class A,211549160,54.179717,12.08755,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:47:16,Class A,211549160,54.17974,12.087502,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 20:49:16,Class A,211549160,54.17972,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:00:38,Class A,211549160,54.179743,12.087537,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:03:38,Class A,211549160,54.179732,12.087498,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:07:18,Class A,211549160,54.179723,12.087508,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:23:19,Class A,211549160,54.179737,12.087477,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:49:38,Class A,211549160,54.179733,12.087532,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:52:17,Class A,211549160,54.179743,12.087512,Under way using engine,,0.0,214.9,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:56:58,Class A,211549160,54.179723,12.08751,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 21:59:19,Class A,211549160,54.179732,12.087517,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 22:32:57,Class A,211549160,54.179725,12.087522,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:03:06,Class A,211549160,54.1797,12.087493,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:27:36,Class A,211549160,54.179708,12.087465,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:41:59,Class A,211549160,54.179748,12.087467,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:43:18,Class A,211549160,54.179768,12.087465,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:53:42,Class A,211549160,54.179723,12.087457,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:55:01,Class A,211549160,54.179715,12.087458,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:55:42,Class A,211549160,54.179728,12.087472,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:56:51,Class A,211549160,54.17971,12.087437,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0
+26/11/2024 23:57:22,Class A,211549160,54.179718,12.087452,Under way using engine,,0.0,0.0,,Unknown,DB7715,MARKGRAFENHEIDE,Passenger,No additional information,6.0,24.0,Internal,0.2,CRUISING,,AIS,5.0,19.0,2.0,4.0

@@ -1,0 +1,275 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 00:07:41,Class A,244860678,54.65466,11.348322,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:13:42,Class A,244860678,54.654653,11.348313,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:19:42,Class A,244860678,54.654672,11.348317,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:22:40,Class A,244860678,54.654675,11.348275,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:26:38,Class A,244860678,54.654728,11.348218,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:32:41,Class A,244860678,54.65478,11.348367,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:48:40,Class A,244860678,54.65464,11.348218,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:54:40,Class A,244860678,54.654618,11.348255,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:57:40,Class A,244860678,54.654628,11.348233,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:03:42,Class A,244860678,54.654635,11.348213,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:06:39,Class A,244860678,54.65463,11.348233,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:09:39,Class A,244860678,54.65463,11.348212,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:17:42,Class A,244860678,54.654643,11.347998,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:17:43,Class A,244860678,54.65461,11.348142,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:20:40,Class A,244860678,54.654585,11.348203,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:23:41,Class A,244860678,54.654603,11.348168,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:26:43,Class A,244860678,54.654628,11.34824,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:29:43,Class A,244860678,54.654603,11.348278,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:32:41,Class A,244860678,54.654612,11.348152,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:35:40,Class A,244860678,54.654715,11.348338,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:38:42,Class A,244860678,54.65463,11.348092,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:46:40,Class A,244860678,54.654625,11.348152,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:46:44,Class A,244860678,54.654622,11.34818,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:52:38,Class A,244860678,54.654658,11.348222,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:10:39,Class A,244860678,54.654623,11.34794,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:13:41,Class A,244860678,54.654617,11.348087,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:19:40,Class A,244860678,54.654632,11.348172,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:25:40,Class A,244860678,54.654653,11.348135,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:28:41,Class A,244860678,54.65462,11.348195,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:39:41,Class A,244860678,54.654633,11.348162,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:43:45,Class A,244860678,54.654588,11.348302,Moored,,0.1,219.4,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:46:41,Class A,244860678,54.654592,11.348243,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:49:43,Class A,244860678,54.654637,11.348243,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:52:43,Class A,244860678,54.654635,11.348217,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:55:40,Class A,244860678,54.654642,11.348213,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:08:40,Class A,244860678,54.654682,11.348177,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:11:41,Class A,244860678,54.654638,11.348165,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:14:41,Class A,244860678,54.65463,11.348112,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:22:43,Class A,244860678,54.654717,11.348277,Moored,,0.1,219.4,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:25:42,Class A,244860678,54.654637,11.348292,Moored,,0.1,219.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:31:42,Class A,244860678,54.654687,11.348328,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:34:41,Class A,244860678,54.654668,11.348287,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:34:41,Class A,244860678,54.654668,11.348287,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:47:41,Class A,244860678,54.654618,11.348203,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:50:39,Class A,244860678,54.654603,11.348225,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:54:39,Class A,244860678,54.654602,11.348127,Moored,,0.1,219.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:54:43,Class A,244860678,54.654602,11.348127,Moored,,0.1,219.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 03:54:44,Class A,244860678,54.654597,11.348137,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:02:38,Class A,244860678,54.654643,11.348137,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:02:46,Class A,244860678,54.65463,11.348163,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:10:39,Class A,244860678,54.654652,11.348185,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:10:45,Class A,244860678,54.654637,11.348198,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:13:39,Class A,244860678,54.654647,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:19:39,Class A,244860678,54.654775,11.348377,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:22:39,Class A,244860678,54.65466,11.348213,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:25:42,Class A,244860678,54.654622,11.348107,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:28:39,Class A,244860678,54.654722,11.348345,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:37:40,Class A,244860678,54.654623,11.348298,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:43:40,Class A,244860678,54.65468,11.34827,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:46:41,Class A,244860678,54.654657,11.348252,Moored,,0.1,219.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:52:42,Class A,244860678,54.65469,11.348348,Moored,,0.1,219.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 04:55:39,Class A,244860678,54.654645,11.348368,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:10:42,Class A,244860678,54.654633,11.348317,Moored,,0.1,219.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:16:41,Class A,244860678,54.654613,11.348218,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:25:42,Class A,244860678,54.654645,11.348282,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:31:39,Class A,244860678,54.654648,11.348247,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:43:39,Class A,244860678,54.654655,11.34821,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:47:40,Class A,244860678,54.654668,11.348273,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:47:45,Class A,244860678,54.654655,11.348288,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:55:39,Class A,244860678,54.654643,11.348283,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 05:55:44,Class A,244860678,54.654647,11.348283,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:03:43,Class A,244860678,54.654662,11.348303,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:15:42,Class A,244860678,54.654622,11.348295,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:18:41,Class A,244860678,54.654647,11.34838,Moored,,0.1,218.9,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:27:40,Class A,244860678,54.654683,11.348357,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:33:42,Class A,244860678,54.65469,11.34837,Moored,,0.1,218.5,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:37:44,Class A,244860678,54.654665,11.348312,Moored,,0.1,218.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:46:41,Class A,244860678,54.654615,11.348203,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:52:41,Class A,244860678,54.65465,11.348243,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:55:41,Class A,244860678,54.654702,11.348363,Moored,,0.1,218.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 06:58:42,Class A,244860678,54.654593,11.34812,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:01:40,Class A,244860678,54.654657,11.348188,Moored,,0.1,218.2,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:04:41,Class A,244860678,54.654647,11.348188,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:19:40,Class A,244860678,54.654667,11.348193,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:25:42,Class A,244860678,54.654657,11.3483,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:28:42,Class A,244860678,54.654635,11.348227,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:37:40,Class A,244860678,54.654652,11.348278,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:46:40,Class A,244860678,54.654577,11.348032,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:49:40,Class A,244860678,54.65461,11.348233,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:52:40,Class A,244860678,54.654663,11.34825,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 07:58:40,Class A,244860678,54.654628,11.348278,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:10:40,Class A,244860678,54.654642,11.348105,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:22:42,Class A,244860678,54.654667,11.348308,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:25:40,Class A,244860678,54.654633,11.348315,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:28:39,Class A,244860678,54.654653,11.348303,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:31:40,Class A,244860678,54.654653,11.348295,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:37:41,Class A,244860678,54.654568,11.348192,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:43:42,Class A,244860678,54.65464,11.348248,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:46:40,Class A,244860678,54.654602,11.348192,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:52:39,Class A,244860678,54.654557,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 08:58:39,Class A,244860678,54.654677,11.348218,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:04:40,Class A,244860678,54.654737,11.348455,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:07:40,Class A,244860678,54.654668,11.348285,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:10:40,Class A,244860678,54.654627,11.348228,Moored,,0.1,218.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:16:39,Class A,244860678,54.65471,11.348307,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:19:39,Class A,244860678,54.654645,11.348238,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:22:40,Class A,244860678,54.654685,11.348282,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:30:40,Class A,244860678,54.654657,11.348198,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:30:44,Class A,244860678,54.654628,11.348275,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:33:40,Class A,244860678,54.654675,11.348255,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:36:41,Class A,244860678,54.654675,11.348248,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:39:41,Class A,244860678,54.654658,11.348207,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:46:41,Class A,244860678,54.654682,11.348305,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:49:40,Class A,244860678,54.654723,11.34838,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:52:42,Class A,244860678,54.654648,11.348352,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:55:42,Class A,244860678,54.654662,11.348345,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 09:58:41,Class A,244860678,54.654668,11.348267,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:01:41,Class A,244860678,54.654637,11.348147,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:07:40,Class A,244860678,54.65461,11.348078,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:10:41,Class A,244860678,54.654673,11.348235,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:13:42,Class A,244860678,54.654703,11.348345,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:16:40,Class A,244860678,54.65466,11.348207,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:22:41,Class A,244860678,54.654638,11.348255,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:25:40,Class A,244860678,54.654632,11.348225,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:28:41,Class A,244860678,54.654612,11.348173,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:31:42,Class A,244860678,54.654638,11.348255,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:34:41,Class A,244860678,54.654625,11.348222,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:37:43,Class A,244860678,54.654618,11.348177,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:40:41,Class A,244860678,54.654613,11.348282,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:43:41,Class A,244860678,54.654658,11.34828,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:46:41,Class A,244860678,54.654628,11.348298,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:49:42,Class A,244860678,54.654662,11.348272,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:52:43,Class A,244860678,54.654668,11.348357,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:55:40,Class A,244860678,54.654657,11.348292,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 10:59:41,Class A,244860678,54.654652,11.348287,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:02:42,Class A,244860678,54.654638,11.348287,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:09:40,Class A,244860678,54.654573,11.348262,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:12:41,Class A,244860678,54.654647,11.348377,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:15:42,Class A,244860678,54.65468,11.348412,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:18:41,Class A,244860678,54.654655,11.348268,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:21:41,Class A,244860678,54.654638,11.348327,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:24:39,Class A,244860678,54.654648,11.348332,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:27:39,Class A,244860678,54.654652,11.348245,Moored,,0.1,218.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:30:40,Class A,244860678,54.65463,11.348283,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:33:42,Class A,244860678,54.654625,11.348315,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:39:39,Class A,244860678,54.654608,11.348232,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:42:42,Class A,244860678,54.65461,11.348133,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:45:42,Class A,244860678,54.654613,11.348173,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:51:42,Class A,244860678,54.65459,11.3481,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:54:42,Class A,244860678,54.65463,11.348297,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 11:57:40,Class A,244860678,54.654593,11.348232,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:03:40,Class A,244860678,54.654617,11.348285,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:06:41,Class A,244860678,54.654595,11.348258,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:09:40,Class A,244860678,54.65463,11.348273,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:12:42,Class A,244860678,54.654627,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:21:39,Class A,244860678,54.654643,11.348223,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:24:40,Class A,244860678,54.654648,11.348285,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:36:39,Class A,244860678,54.654677,11.348337,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:42:42,Class A,244860678,54.654633,11.348273,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:45:40,Class A,244860678,54.654607,11.348222,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 12:51:40,Class A,244860678,54.654627,11.348182,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:01:41,Class A,244860678,54.654647,11.34825,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:01:45,Class A,244860678,54.654655,11.348272,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:04:41,Class A,244860678,54.654638,11.348222,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:07:40,Class A,244860678,54.654663,11.348158,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:13:41,Class A,244860678,54.654627,11.348277,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:16:42,Class A,244860678,54.654607,11.34814,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:19:43,Class A,244860678,54.654612,11.34816,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:22:40,Class A,244860678,54.654618,11.348192,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:25:40,Class A,244860678,54.654625,11.348238,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:28:39,Class A,244860678,54.654567,11.34814,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:34:43,Class A,244860678,54.654623,11.34824,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:40:42,Class A,244860678,54.654612,11.34822,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:43:43,Class A,244860678,54.654682,11.347922,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:46:39,Class A,244860678,54.654632,11.348172,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 13:52:42,Class A,244860678,54.654613,11.348182,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:07:40,Class A,244860678,54.65464,11.348105,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:10:43,Class A,244860678,54.654627,11.34809,Moored,,0.1,218.2,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:16:42,Class A,244860678,54.654665,11.348168,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:19:40,Class A,244860678,54.654662,11.348187,Moored,,0.1,218.1,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:22:42,Class A,244860678,54.654658,11.348417,Moored,,0.1,218.0,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:25:43,Class A,244860678,54.654685,11.348425,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:28:40,Class A,244860678,54.654655,11.348367,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:35:39,Class A,244860678,54.654595,11.348157,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:47:41,Class A,244860678,54.654653,11.348238,Moored,,0.1,217.9,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:50:41,Class A,244860678,54.654652,11.348217,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:58:39,Class A,244860678,54.654627,11.348333,Moored,,0.1,218.6,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 14:58:45,Class A,244860678,54.654627,11.348295,Moored,,0.2,218.6,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:01:40,Class A,244860678,54.654602,11.3483,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:16:41,Class A,244860678,54.65465,11.34837,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:16:45,Class A,244860678,54.6546,11.34829,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:19:40,Class A,244860678,54.654572,11.348313,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:22:40,Class A,244860678,54.654602,11.348258,Moored,,0.1,220.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:28:43,Class A,244860678,54.654712,11.3483,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:49:43,Class A,244860678,54.65464,11.348323,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:52:40,Class A,244860678,54.654642,11.348198,Moored,,0.1,220.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 15:58:43,Class A,244860678,54.654677,11.3482,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:10:40,Class A,244860678,54.654612,11.348207,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:13:42,Class A,244860678,54.654638,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:19:40,Class A,244860678,54.654662,11.348192,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:22:42,Class A,244860678,54.654605,11.348298,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:25:41,Class A,244860678,54.654585,11.348135,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:47:41,Class A,244860678,54.654667,11.348325,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:50:40,Class A,244860678,54.654682,11.348287,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 16:53:40,Class A,244860678,54.654682,11.348362,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:16:39,Class A,244860678,54.654677,11.348228,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:16:44,Class A,244860678,54.654658,11.348272,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:19:42,Class A,244860678,54.65464,11.348242,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:25:43,Class A,244860678,54.654648,11.348267,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:28:41,Class A,244860678,54.654643,11.348328,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:40:39,Class A,244860678,54.654658,11.348378,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:52:43,Class A,244860678,54.654642,11.348203,Moored,,0.1,220.4,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 17:58:39,Class A,244860678,54.654657,11.348305,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:01:42,Class A,244860678,54.65464,11.3482,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:13:40,Class A,244860678,54.654627,11.348227,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:19:40,Class A,244860678,54.654632,11.348272,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:25:40,Class A,244860678,54.65466,11.34819,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:37:41,Class A,244860678,54.654628,11.348252,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:40:42,Class A,244860678,54.654655,11.348182,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:46:40,Class A,244860678,54.65463,11.348213,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:49:42,Class A,244860678,54.654662,11.34818,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:52:39,Class A,244860678,54.654657,11.348337,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:55:41,Class A,244860678,54.654652,11.348247,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 18:58:42,Class A,244860678,54.65466,11.348243,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:10:40,Class A,244860678,54.654597,11.348212,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:13:42,Class A,244860678,54.654615,11.348207,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:16:41,Class A,244860678,54.65465,11.348237,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:19:41,Class A,244860678,54.654603,11.348198,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:25:39,Class A,244860678,54.654642,11.348193,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:28:41,Class A,244860678,54.65459,11.348037,Moored,,0.2,220.7,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:31:42,Class A,244860678,54.654605,11.347995,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:55:41,Class A,244860678,54.654588,11.34819,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 19:58:39,Class A,244860678,54.65462,11.34823,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:07:40,Class A,244860678,54.654613,11.348253,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:10:42,Class A,244860678,54.654592,11.348157,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:16:41,Class A,244860678,54.654577,11.348147,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:19:41,Class A,244860678,54.654695,11.34854,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:27:42,Class A,244860678,54.654495,11.348,Moored,,0.1,221.3,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:30:43,Class A,244860678,54.654273,11.347898,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:33:44,Class A,244860678,54.654595,11.348203,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:36:43,Class A,244860678,54.654668,11.34827,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:44:43,Class A,244860678,54.654623,11.34829,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:50:41,Class A,244860678,54.654633,11.348185,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 20:59:40,Class A,244860678,54.654632,11.348202,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:02:41,Class A,244860678,54.654618,11.348243,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:14:40,Class A,244860678,54.654665,11.34826,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:17:42,Class A,244860678,54.654692,11.348295,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:20:42,Class A,244860678,54.654663,11.348325,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:26:41,Class A,244860678,54.65469,11.348382,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:30:42,Class A,244860678,54.654607,11.348087,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:45:41,Class A,244860678,54.654685,11.348273,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:48:42,Class A,244860678,54.654647,11.348315,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:54:42,Class A,244860678,54.654618,11.348093,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 21:57:40,Class A,244860678,54.654678,11.348202,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:00:40,Class A,244860678,54.654657,11.348265,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:06:41,Class A,244860678,54.65462,11.348147,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:09:40,Class A,244860678,54.654633,11.348233,Moored,,0.1,221.1,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:12:40,Class A,244860678,54.654653,11.348242,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:20:41,Class A,244860678,54.654647,11.348257,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:26:42,Class A,244860678,54.654582,11.348108,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:32:41,Class A,244860678,54.654622,11.348202,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:38:43,Class A,244860678,54.654603,11.348188,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:44:40,Class A,244860678,54.65463,11.34822,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 22:51:45,Class A,244860678,54.654698,11.348138,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:03:41,Class A,244860678,54.654643,11.348258,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:09:43,Class A,244860678,54.65462,11.348163,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:15:42,Class A,244860678,54.654675,11.348257,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:21:41,Class A,244860678,54.654673,11.348293,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:27:42,Class A,244860678,54.654677,11.348318,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:33:42,Class A,244860678,54.654758,11.348368,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:39:39,Class A,244860678,54.654652,11.348162,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:46:41,Class A,244860678,54.654637,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:46:44,Class A,244860678,54.654647,11.348245,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0
+26/11/2024 23:52:41,Class A,244860678,54.654635,11.34828,Moored,,0.0,,,Unknown,PB7739,ROCKY,Dredging,,2.0,8.0,Internal,1.0,Unknown,23/10/2025 10:00:00,AIS,5.0,3.0,1.0,1.0

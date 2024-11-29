@@ -1,0 +1,6 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 16:58:15,Class A,265579090,57.707197,11.958133,Under way using engine,0.0,0.0,343.8,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 19:14:16,Class A,265579090,57.70719,11.958078,Under way using engine,0.0,0.0,229.5,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 19:26:56,Class A,265579090,57.707193,11.958077,Under way using engine,0.0,0.0,3.3,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 20:50:35,Class A,265579090,57.707193,11.958122,Under way using engine,0.0,0.0,249.1,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 21:25:55,Class A,265579090,57.707203,11.95811,Under way using engine,0.0,0.0,322.0,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,

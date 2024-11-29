@@ -1,0 +1,992 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 04:40:04,Class A,231859000,57.685363,11.887212,Under way using engine,,0.2,127.0,285.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:40:53,Class A,231859000,57.685463,11.88734,Under way using engine,,1.2,47.3,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:40:58,Class A,231859000,57.685483,11.887388,Under way using engine,,1.6,48.6,224.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:01,Class A,231859000,57.685502,11.887427,Under way using engine,,1.8,48.6,222.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:04,Class A,231859000,57.685522,11.88747,Under way using engine,,2.0,50.1,220.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:17,Class A,231859000,57.685607,11.8876,Under way using engine,,1.7,37.4,191.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:20,Class A,231859000,57.685632,11.887615,Under way using engine,,1.6,32.1,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:24,Class A,231859000,57.685647,11.887622,Under way using engine,,1.3,23.9,165.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:30,Class A,231859000,57.685673,11.887628,Under way using engine,,0.9,17.2,144.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:34,Class A,231859000,57.685678,11.887632,Under way using engine,,0.6,21.0,133.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:40,Class A,231859000,57.68568,11.887653,Under way using engine,,0.3,69.1,115.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:41:45,Class A,231859000,57.685672,11.887682,Under way using engine,,0.5,102.3,103.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:04,Class A,231859000,57.685648,11.887907,Under way using engine,,1.9,94.2,80.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:07,Class A,231859000,57.68565,11.887973,Under way using engine,,2.2,90.9,80.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:15,Class A,231859000,57.685658,11.888192,Under way using engine,,3.1,87.1,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:24,Class A,231859000,57.685678,11.888527,Under way using engine,,3.9,82.7,70.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:28,Class A,231859000,57.685688,11.888638,Under way using engine,,4.1,80.4,66.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:31,Class A,231859000,57.685703,11.888753,Under way using engine,,4.3,78.0,64.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:39,Class A,231859000,57.685762,11.88906,Under way using engine,,4.7,70.4,62.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:45,Class A,231859000,57.685828,11.889333,Under way using engine,0.0,4.9,67.3,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:48,Class A,231859000,57.68586,11.889453,Under way using engine,0.0,5.0,66.0,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:51,Class A,231859000,57.685882,11.889535,Under way using engine,0.0,5.1,65.5,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:42:53,Class A,231859000,57.685915,11.889658,Under way using engine,,5.2,64.8,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:01,Class A,231859000,57.686007,11.88999,Under way using engine,,5.4,62.5,55.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:04,Class A,231859000,57.686032,11.890075,Under way using engine,,5.5,61.5,53.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:09,Class A,231859000,57.6861,11.890282,Under way using engine,,5.6,59.0,51.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:11,Class A,231859000,57.686143,11.890405,Under way using engine,,5.6,58.0,49.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:17,Class A,231859000,57.68624,11.890643,Under way using engine,,5.7,54.6,44.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:44:01,Class A,231859000,57.687145,11.892052,Under way using engine,,6.1,32.5,27.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:44:15,Class A,231859000,57.68751,11.892397,Under way using engine,,6.3,25.5,9.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:44:24,Class A,231859000,57.687803,11.892495,Under way using engine,,6.4,9.8,343.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:45:04,Class A,231859000,57.688315,11.890717,Under way using engine,0.0,7.7,270.8,265.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:45:12,Class A,231859000,57.688298,11.890137,Under way using engine,0.0,8.3,267.9,265.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:45:15,Class A,231859000,57.688295,11.889912,Under way using engine,,8.5,268.3,263.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:45:18,Class A,231859000,57.688287,11.88961,Under way using engine,,8.6,267.9,262.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:45:50,Class A,231859000,57.688102,11.887097,Under way using engine,0.0,9.3,260.3,256.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:48:25,Class A,231859000,57.686968,11.874897,Under way using engine,0.0,9.0,260.1,257.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:48:34,Class A,231859000,57.686905,11.874205,Under way using engine,0.0,9.0,260.2,256.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:48:54,Class A,231859000,57.686763,11.872675,Under way using engine,0.0,9.0,260.2,256.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:50:24,Class A,231859000,57.686175,11.865832,Under way using engine,0.0,8.9,260.3,257.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:52:45,Class A,231859000,57.685205,11.855437,Under way using engine,0.0,8.6,260.8,256.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:54:04,Class A,231859000,57.684698,11.849582,Under way using engine,0.0,8.7,259.4,254.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:54:54,Class A,231859000,57.684308,11.845897,Under way using engine,0.0,8.7,258.2,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:55:04,Class A,231859000,57.684218,11.845088,Under way using engine,0.0,8.7,258.2,254.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:55:35,Class A,231859000,57.683967,11.8429,Under way using engine,0.0,8.6,257.5,254.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:55:45,Class A,231859000,57.68388,11.842172,Under way using engine,0.0,8.6,257.4,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:55:54,Class A,231859000,57.683797,11.841518,Under way using engine,0.0,8.6,256.8,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:56:24,Class A,231859000,57.683513,11.839257,Under way using engine,0.0,8.7,256.4,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:57:45,Class A,231859000,57.682793,11.833437,Under way using engine,0.0,8.4,257.3,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:57:54,Class A,231859000,57.682725,11.832872,Under way using engine,0.0,8.4,257.2,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:59:15,Class A,231859000,57.68207,11.827278,Under way using engine,0.0,7.7,258.0,255.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:00:45,Class A,231859000,57.681473,11.821575,Under way using engine,0.0,7.3,258.6,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:02:54,Class A,231859000,57.680613,11.814087,Under way using engine,,5.4,255.7,248.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:03:15,Class A,231859000,57.680477,11.813228,Under way using engine,0.0,4.8,253.5,248.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:03:42,Class A,231859000,57.680302,11.812165,Under way using engine,,4.5,253.7,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:04:15,Class A,231859000,57.680128,11.810978,Under way using engine,0.0,4.5,254.7,247.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:04:55,Class A,231859000,57.679863,11.809517,Under way using engine,0.0,4.4,250.3,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:04:58,Class A,231859000,57.679843,11.809413,Under way using engine,,4.3,250.1,242.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:02,Class A,231859000,57.679822,11.809307,Under way using engine,,4.3,249.8,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:12,Class A,231859000,57.679747,11.808963,Under way using engine,,4.3,248.1,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:15,Class A,231859000,57.679723,11.80886,Under way using engine,,4.3,247.8,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:32,Class A,231859000,57.679607,11.808297,Under way using engine,,4.0,249.7,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:44,Class A,231859000,57.679532,11.807947,Under way using engine,,3.4,247.6,229.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:51,Class A,231859000,57.679487,11.807788,Under way using engine,,3.0,243.6,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:05:55,Class A,231859000,57.679458,11.807705,Under way using engine,,2.9,240.0,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:08,Class A,231859000,57.679363,11.807457,Under way using engine,,2.7,234.8,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:10,Class A,231859000,57.679352,11.807422,Under way using engine,,2.6,236.1,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:14,Class A,231859000,57.679323,11.80735,Under way using engine,,2.6,235.2,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:22,Class A,231859000,57.679285,11.807232,Under way using engine,,2.3,237.9,235.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:25,Class A,231859000,57.679272,11.80719,Under way using engine,,2.2,238.2,236.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:29,Class A,231859000,57.679253,11.807138,Under way using engine,,1.9,238.6,237.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:30,Class A,231859000,57.679247,11.80711,Under way using engine,,1.9,240.5,237.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:38,Class A,231859000,57.679227,11.807033,Under way using engine,0.0,1.5,242.8,237.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:42,Class A,231859000,57.679218,11.806992,Under way using engine,,1.4,253.0,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:44,Class A,231859000,57.679218,11.806957,Under way using engine,,1.3,257.1,225.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:48,Class A,231859000,57.679215,11.806933,Under way using engine,,1.2,257.2,219.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:06:51,Class A,231859000,57.679213,11.806897,Under way using engine,,1.1,260.0,212.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:02,Class A,231859000,57.67921,11.806823,Under way using engine,,0.9,265.2,177.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:07,Class A,231859000,57.679207,11.806783,Under way using engine,,0.8,262.8,158.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:14,Class A,231859000,57.679192,11.806763,Under way using engine,,0.6,234.8,138.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:20,Class A,231859000,57.679173,11.80678,Under way using engine,,0.6,165.1,132.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:25,Class A,231859000,57.679155,11.806807,Under way using engine,,1.1,145.2,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:28,Class A,231859000,57.679135,11.806848,Under way using engine,,1.7,138.3,126.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:32,Class A,231859000,57.67909,11.806933,Under way using engine,,2.5,135.8,125.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:39,Class A,231859000,57.678987,11.807167,Under way using engine,,4.7,130.2,118.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:41,Class A,231859000,57.678935,11.807297,Under way using engine,,5.0,129.0,114.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:44,Class A,231859000,57.67888,11.80744,Under way using engine,,5.8,127.1,108.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:49,Class A,231859000,57.678818,11.807657,Under way using engine,,6.5,121.7,100.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:52,Class A,231859000,57.678778,11.807837,Under way using engine,,6.9,117.4,96.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:07:58,Class A,231859000,57.67872,11.808318,Under way using engine,,7.9,105.7,90.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:08,Class A,231859000,57.678697,11.809128,Under way using engine,,9.3,93.8,83.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:14,Class A,231859000,57.67871,11.809648,Under way using engine,,9.8,89.5,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:17,Class A,231859000,57.678722,11.809823,Under way using engine,,10.0,86.3,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:22,Class A,231859000,57.678757,11.81027,Under way using engine,,10.3,83.5,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:25,Class A,231859000,57.678785,11.81054,Under way using engine,,10.4,81.5,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:31,Class A,231859000,57.678847,11.811082,Under way using engine,,10.6,79.2,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:38,Class A,231859000,57.67894,11.811718,Under way using engine,0.0,10.8,75.9,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:41,Class A,231859000,57.67898,11.811992,Under way using engine,0.0,10.9,75.9,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:44,Class A,231859000,57.679033,11.812355,Under way using engine,0.0,10.9,75.4,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:51,Class A,231859000,57.679108,11.812902,Under way using engine,0.0,10.9,75.6,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:08:55,Class A,231859000,57.679177,11.813348,Under way using engine,0.0,10.8,75.0,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:09:20,Class A,231859000,57.67949,11.815552,Under way using engine,,10.5,74.7,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:09:25,Class A,231859000,57.679538,11.815903,Under way using engine,,10.5,75.6,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:09:44,Class A,231859000,57.679782,11.817643,Under way using engine,0.0,10.4,74.5,71.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:09:55,Class A,231859000,57.679915,11.818512,Under way using engine,0.0,10.4,74.9,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:04,Class A,231859000,57.680028,11.819292,Under way using engine,0.0,10.4,74.4,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:15,Class A,231859000,57.680165,11.820242,Under way using engine,0.0,10.4,75.2,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:25,Class A,231859000,57.680293,11.8211,Under way using engine,0.0,10.3,73.5,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:31,Class A,231859000,57.680383,11.821687,Under way using engine,0.0,10.1,73.7,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:35,Class A,231859000,57.680422,11.821935,Under way using engine,0.0,10.1,73.9,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:44,Class A,231859000,57.680545,11.82274,Under way using engine,0.0,9.7,74.0,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:51,Class A,231859000,57.680628,11.823288,Under way using engine,,9.5,74.2,75.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:10:59,Class A,231859000,57.680707,11.823833,Under way using engine,,9.4,74.4,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:00,Class A,231859000,57.680737,11.823985,Under way using engine,0.0,9.4,73.5,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:04,Class A,231859000,57.680768,11.824213,Under way using engine,0.0,9.2,74.4,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:09,Class A,231859000,57.680827,11.824572,Under way using engine,0.0,8.9,74.2,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:18,Class A,231859000,57.680913,11.825212,Under way using engine,,8.6,76.4,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:28,Class A,231859000,57.681022,11.82591,Under way using engine,0.0,8.4,75.0,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:30,Class A,231859000,57.681038,11.826047,Under way using engine,,8.4,75.7,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:44,Class A,231859000,57.681193,11.827017,Under way using engine,0.0,7.7,73.9,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:52,Class A,231859000,57.681275,11.827513,Under way using engine,,7.6,73.3,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:11:55,Class A,231859000,57.681297,11.827642,Under way using engine,,7.6,73.6,74.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:12:15,Class A,231859000,57.681478,11.828917,Under way using engine,0.0,7.5,75.0,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:12:18,Class A,231859000,57.681513,11.829163,Under way using engine,,7.4,75.4,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:12:22,Class A,231859000,57.681542,11.829343,Under way using engine,,7.3,74.9,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:12:35,Class A,231859000,57.681637,11.830115,Under way using engine,,7.1,77.0,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:12:55,Class A,231859000,57.68181,11.831258,Under way using engine,0.0,6.8,73.0,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:13:15,Class A,231859000,57.682008,11.832375,Under way using engine,0.0,6.7,71.8,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:13:24,Class A,231859000,57.682092,11.832865,Under way using engine,0.0,6.6,71.7,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:13:34,Class A,231859000,57.682188,11.833407,Under way using engine,0.0,6.5,72.2,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:13:44,Class A,231859000,57.68229,11.833975,Under way using engine,0.0,6.4,72.0,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:13:55,Class A,231859000,57.682382,11.834478,Under way using engine,0.0,6.2,71.6,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:14:15,Class A,231859000,57.68257,11.83548,Under way using engine,0.0,6.1,71.4,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:14:24,Class A,231859000,57.682652,11.835918,Under way using engine,0.0,6.0,71.9,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:14:34,Class A,231859000,57.682737,11.836398,Under way using engine,0.0,5.9,71.9,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:14:44,Class A,231859000,57.682822,11.836868,Under way using engine,0.0,5.8,71.0,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:14:55,Class A,231859000,57.682925,11.837383,Under way using engine,0.0,5.8,70.0,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:15:15,Class A,231859000,57.683105,11.838303,Under way using engine,0.0,5.7,70.9,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:15:24,Class A,231859000,57.683183,11.838713,Under way using engine,0.0,5.6,70.7,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:15:55,Class A,231859000,57.683453,11.840108,Under way using engine,0.0,5.5,70.4,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:16:15,Class A,231859000,57.68362,11.840998,Under way using engine,0.0,5.4,71.1,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:16:34,Class A,231859000,57.68378,11.841825,Under way using engine,0.0,5.4,69.8,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:16:44,Class A,231859000,57.683873,11.8423,Under way using engine,0.0,5.3,69.5,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:16:55,Class A,231859000,57.683953,11.842728,Under way using engine,0.0,5.3,70.6,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:17:14,Class A,231859000,57.68409,11.843538,Under way using engine,,5.2,72.6,75.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:17:30,Class A,231859000,57.684217,11.844208,Under way using engine,,5.1,70.4,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:17:34,Class A,231859000,57.684252,11.844375,Under way using engine,,5.1,69.6,71.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:17:38,Class A,231859000,57.68429,11.844543,Under way using engine,,5.2,68.9,70.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:17:55,Class A,231859000,57.684458,11.845235,Under way using engine,,5.2,65.2,67.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:18:02,Class A,231859000,57.684533,11.845513,Under way using engine,,5.2,63.2,66.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:18:34,Class A,231859000,57.684915,11.846788,Under way using engine,0.0,5.2,60.6,68.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:18:55,Class A,231859000,57.685173,11.847607,Under way using engine,0.0,5.3,59.1,68.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:18:56,Class A,231859000,57.685185,11.847647,Under way using engine,,5.3,59.1,69.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:19:14,Class A,231859000,57.68541,11.848412,Under way using engine,0.0,5.2,62.5,70.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:19:34,Class A,231859000,57.68563,11.849168,Under way using engine,0.0,5.3,61.0,70.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:19:55,Class A,231859000,57.68588,11.850008,Under way using engine,,5.3,60.9,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:19:55,Class A,231859000,57.68588,11.850008,Under way using engine,,5.3,60.9,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:19:55,Class A,231859000,57.685892,11.85005,Under way using engine,,5.3,60.9,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:20:00,Class A,231859000,57.68595,11.850252,Under way using engine,,5.4,61.3,73.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:20:14,Class A,231859000,57.686097,11.850823,Under way using engine,,5.3,64.4,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:20:22,Class A,231859000,57.686163,11.851118,Under way using engine,0.0,5.2,66.7,79.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:20:31,Class A,231859000,57.686255,11.851535,Under way using engine,0.0,5.2,67.8,79.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:21:14,Class A,231859000,57.68659,11.853347,Under way using engine,0.0,5.1,73.7,82.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:21:44,Class A,231859000,57.686782,11.854605,Under way using engine,0.0,5.0,74.1,83.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:21:55,Class A,231859000,57.686847,11.85501,Under way using engine,0.0,4.9,73.8,83.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:22:44,Class A,231859000,57.687127,11.856893,Under way using engine,0.0,4.3,77.0,87.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:23:04,Class A,231859000,57.687197,11.857555,Under way using engine,0.0,4.1,79.8,88.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:23:24,Class A,231859000,57.68726,11.858258,Under way using engine,0.0,3.9,81.0,88.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:23:55,Class A,231859000,57.687335,11.859213,Under way using engine,0.0,3.7,82.0,87.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:24:04,Class A,231859000,57.687358,11.859498,Under way using engine,0.0,3.7,81.7,87.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:24:14,Class A,231859000,57.687383,11.859855,Under way using engine,0.0,3.8,82.5,87.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:24:24,Class A,231859000,57.687405,11.860188,Under way using engine,0.0,3.9,83.6,87.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 05:24:33,Class A,231859000,57.687405,11.860188,Under way using engine,0.0,3.9,83.6,87.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:24:33,Class A,231859000,57.687405,11.860188,Under way using engine,0.0,3.9,83.6,87.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:24:43,Class A,231859000,57.68744,11.860833,Under way using engine,0.0,4.0,83.9,87.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:24:55,Class A,231859000,57.68746,11.861217,Under way using engine,0.0,4.0,84.3,87.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:25:14,Class A,231859000,57.687503,11.861902,Under way using engine,0.0,3.9,83.2,88.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:25:34,Class A,231859000,57.687555,11.862518,Under way using engine,0.0,3.8,80.9,89.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:00,Class A,231859000,57.687632,11.863367,Under way using engine,,3.6,80.0,93.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:01,Class A,231859000,57.687632,11.863367,Under way using engine,,3.6,80.0,93.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:05,Class A,231859000,57.687643,11.863488,Under way using engine,,3.6,79.9,94.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:05,Class A,231859000,57.687643,11.863488,Under way using engine,,3.6,79.9,94.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:09,Class A,231859000,57.687653,11.863607,Under way using engine,,3.6,79.8,95.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:18,Class A,231859000,57.687675,11.863877,Under way using engine,,3.5,80.8,97.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:21,Class A,231859000,57.687682,11.863965,Under way using engine,,3.5,80.9,97.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:32,Class A,231859000,57.687705,11.864285,Under way using engine,,3.4,82.3,99.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:26:54,Class A,231859000,57.687763,11.864952,Under way using engine,,3.3,81.7,112.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:27:00,Class A,231859000,57.687778,11.865122,Under way using engine,,3.3,82.0,117.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:27:31,Class A,231859000,57.687828,11.86585,Under way using engine,,2.7,80.0,137.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:27:43,Class A,231859000,57.68786,11.86614,Under way using engine,,2.6,79.8,154.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:28:11,Class A,231859000,57.687918,11.866685,Under way using engine,,2.4,77.1,182.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:32:59,Class A,231859000,57.68954,11.867785,Under way using engine,,1.5,2.3,276.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:33:44,Class A,231859000,57.689795,11.867778,Under way using engine,,1.2,359.6,277.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:35:04,Class A,231859000,57.690123,11.867802,Under way using engine,0.0,0.7,5.9,288.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:36:34,Class A,231859000,57.69035,11.867868,Under way using engine,0.0,0.5,4.5,295.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:36:45,Class A,231859000,57.690372,11.86787,Under way using engine,0.0,0.5,3.5,295.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:38:24,Class A,231859000,57.69051,11.86784,Under way using engine,0.0,0.2,52.0,284.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:38:34,Class A,231859000,57.690515,11.867852,Under way using engine,,0.1,51.8,286.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:39:16,Class A,231859000,57.690542,11.867852,Under way using engine,,0.1,348.5,283.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:39:20,Class A,231859000,57.690542,11.867853,Under way using engine,,0.1,348.5,284.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:40:02,Class A,231859000,57.690553,11.867857,Under way using engine,,0.1,348.5,279.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:41:00,Class A,231859000,57.690562,11.867862,Under way using engine,,0.2,348.5,287.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:43:55,Class A,231859000,57.690627,11.867872,Under way using engine,0.0,0.1,15.7,285.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:47:41,Class A,231859000,57.689602,11.868347,Under way using engine,,5.6,191.3,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:47:45,Class A,231859000,57.68951,11.86829,Under way using engine,,5.4,195.6,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:47:55,Class A,231859000,57.689337,11.868118,Under way using engine,,4.8,206.6,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:47:57,Class A,231859000,57.689285,11.868055,Under way using engine,0.0,4.7,209.8,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:48:07,Class A,231859000,57.689118,11.86783,Under way using engine,0.0,4.5,214.3,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:48:25,Class A,231859000,57.688837,11.867435,Under way using engine,0.0,4.4,217.2,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:48:42,Class A,231859000,57.688562,11.867035,Under way using engine,,4.4,217.8,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:49:12,Class A,231859000,57.688113,11.866245,Under way using engine,,4.5,229.3,234.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:50:15,Class A,231859000,57.687587,11.863877,Under way using engine,0.0,5.0,253.5,248.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:51:46,Class A,231859000,57.68697,11.859957,Under way using engine,,5.4,254.5,249.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:53:44,Class A,231859000,57.68614,11.854603,Under way using engine,0.0,5.7,255.4,250.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:54:04,Class A,231859000,57.685997,11.85363,Under way using engine,0.0,5.9,254.6,249.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:54:15,Class A,231859000,57.685913,11.853093,Under way using engine,0.0,5.9,254.0,248.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:54:44,Class A,231859000,57.685687,11.851677,Under way using engine,0.0,5.9,254.2,250.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:56:04,Class A,231859000,57.685105,11.847697,Under way using engine,0.0,6.0,254.8,249.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:57:25,Class A,231859000,57.684495,11.843658,Under way using engine,0.0,6.0,253.0,250.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 05:57:54,Class A,231859000,57.684285,11.84221,Under way using engine,0.0,6.0,254.9,249.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:02:54,Class A,231859000,57.682145,11.826718,Under way using engine,0.0,6.2,257.9,254.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:06:03,Class A,231859000,57.681068,11.816932,Under way using engine,0.0,6.1,259.4,253.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:06:25,Class A,231859000,57.68095,11.815847,Under way using engine,0.0,6.1,258.6,254.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:06:45,Class A,231859000,57.680832,11.814805,Under way using engine,0.0,6.2,257.7,253.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:07:25,Class A,231859000,57.680588,11.812727,Under way using engine,0.0,6.2,258.6,254.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:07:34,Class A,231859000,57.680533,11.812257,Under way using engine,0.0,6.1,258.0,253.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:08:03,Class A,231859000,57.68035,11.810723,Under way using engine,0.0,6.1,257.7,253.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:08:59,Class A,231859000,57.680113,11.808123,Under way using engine,,5.0,263.9,256.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:09:37,Class A,231859000,57.680023,11.806567,Under way using engine,,4.5,261.1,249.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:09:54,Class A,231859000,57.679953,11.805923,Under way using engine,,4.5,257.6,242.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:09:58,Class A,231859000,57.679937,11.805817,Under way using engine,,4.5,255.5,241.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:08,Class A,231859000,57.679867,11.805433,Under way using engine,0.0,4.3,251.7,239.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:18,Class A,231859000,57.679798,11.805087,Under way using engine,,4.3,249.9,238.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:27,Class A,231859000,57.679733,11.804773,Under way using engine,,4.3,248.6,236.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:31,Class A,231859000,57.679703,11.804638,Under way using engine,,4.3,248.0,235.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:34,Class A,231859000,57.679688,11.804568,Under way using engine,,4.3,247.6,235.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:45,Class A,231859000,57.679597,11.8042,Under way using engine,0.0,4.2,245.0,234.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:52,Class A,231859000,57.679537,11.803967,Under way using engine,,4.3,243.9,232.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:10:54,Class A,231859000,57.67951,11.803868,Under way using engine,,4.3,243.3,232.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:15,Class A,231859000,57.679315,11.803225,Under way using engine,0.0,4.3,239.6,231.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:25,Class A,231859000,57.679213,11.802905,Under way using engine,0.0,4.3,239.4,231.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:34,Class A,231859000,57.679125,11.802618,Under way using engine,0.0,4.2,240.1,231.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:37,Class A,231859000,57.679098,11.802523,Under way using engine,,4.2,240.6,230.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:39,Class A,231859000,57.679077,11.80246,Under way using engine,,4.2,239.7,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:45,Class A,231859000,57.679005,11.802243,Under way using engine,0.0,4.2,238.6,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:11:55,Class A,231859000,57.678913,11.801968,Under way using engine,0.0,4.2,237.6,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:15,Class A,231859000,57.678692,11.801357,Under way using engine,,4.3,235.5,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:18,Class A,231859000,57.678658,11.801265,Under way using engine,,4.3,234.5,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:25,Class A,231859000,57.678573,11.80106,Under way using engine,,4.3,232.8,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:29,Class A,231859000,57.678525,11.800942,Under way using engine,0.0,4.3,233.1,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:33,Class A,231859000,57.678525,11.800942,Under way using engine,0.0,4.3,233.1,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:34,Class A,231859000,57.678467,11.800793,Under way using engine,0.0,4.3,233.0,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:42,Class A,231859000,57.678372,11.800552,Under way using engine,,4.3,233.6,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:45,Class A,231859000,57.678335,11.800463,Under way using engine,,4.4,233.0,226.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:51,Class A,231859000,57.678262,11.800287,Under way using engine,,4.3,232.5,224.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:55,Class A,231859000,57.678212,11.800175,Under way using engine,,4.3,231.1,223.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:12:58,Class A,231859000,57.678175,11.800095,Under way using engine,,4.1,230.2,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:04,Class A,231859000,57.678108,11.799945,Under way using engine,,3.8,229.6,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:07,Class A,231859000,57.678062,11.79986,Under way using engine,,3.7,228.4,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:12,Class A,231859000,57.678022,11.79978,Under way using engine,,3.5,227.4,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:15,Class A,231859000,57.67798,11.799707,Under way using engine,,3.2,224.9,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:17,Class A,231859000,57.67797,11.79969,Under way using engine,,3.1,223.8,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:29,Class A,231859000,57.67786,11.799503,Under way using engine,,2.7,220.2,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:32,Class A,231859000,57.677835,11.799465,Under way using engine,0.0,2.5,220.9,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:34,Class A,231859000,57.677817,11.799443,Under way using engine,0.0,2.5,219.1,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:42,Class A,231859000,57.677752,11.799352,Under way using engine,0.0,2.1,219.0,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:45,Class A,231859000,57.677722,11.79931,Under way using engine,0.0,2.1,215.6,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:50,Class A,231859000,57.677692,11.799278,Under way using engine,,1.9,214.0,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:51,Class A,231859000,57.677685,11.799268,Under way using engine,,1.9,214.0,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:55,Class A,231859000,57.677658,11.799237,Under way using engine,,1.8,214.4,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:13:58,Class A,231859000,57.67764,11.799215,Under way using engine,,1.7,213.9,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:04,Class A,231859000,57.677605,11.799172,Under way using engine,,1.6,213.9,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:15,Class A,231859000,57.677548,11.799092,Under way using engine,,1.3,214.8,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:17,Class A,231859000,57.677542,11.799077,Under way using engine,,1.2,217.1,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:22,Class A,231859000,57.677525,11.799055,Under way using engine,,1.2,218.5,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:25,Class A,231859000,57.677515,11.799037,Under way using engine,,1.1,219.6,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:27,Class A,231859000,57.677505,11.79902,Under way using engine,0.0,1.0,220.9,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:30,Class A,231859000,57.6775,11.799007,Under way using engine,0.0,1.0,222.7,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:34,Class A,231859000,57.677488,11.798983,Under way using engine,0.0,0.9,225.3,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:41,Class A,231859000,57.677468,11.79894,Under way using engine,0.0,0.8,229.5,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:45,Class A,231859000,57.677463,11.798923,Under way using engine,,0.8,234.1,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:51,Class A,231859000,57.677453,11.798892,Under way using engine,,0.7,236.6,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:55,Class A,231859000,57.677447,11.798872,Under way using engine,,0.7,238.8,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:14:58,Class A,231859000,57.677442,11.798858,Under way using engine,,0.7,239.6,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:00,Class A,231859000,57.677438,11.798843,Under way using engine,,0.6,243.8,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:04,Class A,231859000,57.677435,11.79883,Under way using engine,,0.6,242.7,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:11,Class A,231859000,57.67743,11.7988,Under way using engine,,0.6,245.2,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:15,Class A,231859000,57.677428,11.798783,Under way using engine,,0.5,247.2,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:21,Class A,231859000,57.677425,11.798762,Under way using engine,,0.5,252.5,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:25,Class A,231859000,57.677423,11.798747,Under way using engine,,0.4,259.9,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:27,Class A,231859000,57.677422,11.798738,Under way using engine,,0.4,257.8,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:31,Class A,231859000,57.677422,11.798728,Under way using engine,,0.4,260.2,206.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:34,Class A,231859000,57.677422,11.798718,Under way using engine,,0.3,264.2,205.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:38,Class A,231859000,57.67742,11.798703,Under way using engine,,0.3,266.3,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:42,Class A,231859000,57.67742,11.798698,Under way using engine,,0.3,257.7,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:45,Class A,231859000,57.67742,11.798688,Under way using engine,,0.3,271.2,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:47,Class A,231859000,57.677418,11.798687,Under way using engine,,0.3,255.8,200.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:51,Class A,231859000,57.677417,11.79868,Under way using engine,,0.3,255.1,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:55,Class A,231859000,57.677417,11.798673,Under way using engine,,0.1,278.0,198.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:15:58,Class A,231859000,57.677417,11.798665,Under way using engine,,0.2,271.6,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:04,Class A,231859000,57.677413,11.798655,Under way using engine,,0.3,246.3,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:08,Class A,231859000,57.677413,11.79865,Under way using engine,0.0,0.2,230.2,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:11,Class A,231859000,57.677413,11.798643,Under way using engine,0.0,0.2,243.9,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:15,Class A,231859000,57.677412,11.79864,Under way using engine,0.0,0.1,224.7,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:21,Class A,231859000,57.677408,11.798635,Under way using engine,,0.2,233.1,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:21,Class A,231859000,57.677407,11.798633,Under way using engine,0.0,0.2,233.1,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:25,Class A,231859000,57.677407,11.79863,Under way using engine,0.0,0.1,233.1,198.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:28,Class A,231859000,57.677405,11.798628,Under way using engine,,0.1,233.1,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:31,Class A,231859000,57.677403,11.798623,Under way using engine,0.0,0.2,233.1,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:34,Class A,231859000,57.677402,11.798625,Under way using engine,,0.2,233.1,200.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:42,Class A,231859000,57.677403,11.798613,Under way using engine,,0.2,233.1,202.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:45,Class A,231859000,57.677402,11.798613,Under way using engine,,0.1,233.1,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:47,Class A,231859000,57.677402,11.798605,Under way using engine,,0.2,233.1,204.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:55,Class A,231859000,57.677402,11.798597,Under way using engine,,0.2,233.1,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:16:58,Class A,231859000,57.677402,11.798595,Under way using engine,,0.1,233.1,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:02,Class A,231859000,57.677403,11.798588,Under way using engine,,0.2,233.1,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:15,Class A,231859000,57.677405,11.798572,Under way using engine,,0.2,285.3,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:18,Class A,231859000,57.677405,11.79857,Under way using engine,,0.2,285.3,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:20,Class A,231859000,57.677408,11.798563,Under way using engine,,0.2,298.3,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:25,Class A,231859000,57.677407,11.798557,Under way using engine,,0.2,283.8,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:27,Class A,231859000,57.677408,11.798547,Under way using engine,,0.3,285.3,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:30,Class A,231859000,57.677408,11.798542,Under way using engine,,0.3,272.4,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:34,Class A,231859000,57.67741,11.798532,Under way using engine,0.0,0.3,288.1,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:17:53,Class A,231859000,57.677413,11.798462,Under way using engine,,0.5,275.7,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:00,Class A,231859000,57.677412,11.798422,Under way using engine,,0.6,266.5,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:04,Class A,231859000,57.677412,11.798405,Under way using engine,,0.6,268.9,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:12,Class A,231859000,57.677408,11.798358,Under way using engine,,0.7,259.5,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:25,Class A,231859000,57.677403,11.798303,Under way using engine,,0.5,259.0,204.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:30,Class A,231859000,57.6774,11.798282,Under way using engine,,0.5,254.2,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:38,Class A,231859000,57.677398,11.798263,Under way using engine,0.0,0.3,259.1,202.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:42,Class A,231859000,57.677397,11.798253,Under way using engine,0.0,0.3,257.4,202.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:47,Class A,231859000,57.677395,11.79824,Under way using engine,0.0,0.3,262.0,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:52,Class A,231859000,57.677395,11.798232,Under way using engine,0.0,0.3,267.9,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:18:55,Class A,231859000,57.677393,11.798223,Under way using engine,0.0,0.3,256.3,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:05,Class A,231859000,57.677393,11.798203,Under way using engine,0.0,0.2,273.8,200.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:08,Class A,231859000,57.677392,11.7982,Under way using engine,,0.2,258.0,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:08,Class A,231859000,57.677392,11.7982,Under way using engine,,0.2,258.0,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:11,Class A,231859000,57.677393,11.798192,Under way using engine,,0.2,269.1,198.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:15,Class A,231859000,57.677393,11.798188,Under way using engine,,0.2,278.7,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:21,Class A,231859000,57.677395,11.798178,Under way using engine,,0.2,270.6,195.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:25,Class A,231859000,57.677395,11.798172,Under way using engine,,0.1,286.7,194.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:28,Class A,231859000,57.677397,11.798163,Under way using engine,,0.2,287.6,193.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:30,Class A,231859000,57.677397,11.798162,Under way using engine,,0.1,287.6,193.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:38,Class A,231859000,57.677397,11.798153,Under way using engine,,0.1,284.0,190.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:47,Class A,231859000,57.6774,11.798138,Under way using engine,,0.2,283.7,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:51,Class A,231859000,57.6774,11.798137,Under way using engine,,0.2,283.7,183.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:55,Class A,231859000,57.6774,11.798133,Under way using engine,,0.1,283.7,182.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:19:58,Class A,231859000,57.677402,11.798128,Under way using engine,,0.1,283.7,180.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:01,Class A,231859000,57.677402,11.798127,Under way using engine,,0.1,283.7,178.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:05,Class A,231859000,57.677403,11.798122,Under way using engine,,0.1,283.7,176.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:07,Class A,231859000,57.677403,11.798123,Under way using engine,,0.1,283.7,175.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:15,Class A,231859000,57.677407,11.79812,Under way using engine,,0.1,283.7,170.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:18,Class A,231859000,57.677407,11.79812,Under way using engine,,0.1,283.7,168.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:20,Class A,231859000,57.677407,11.798122,Under way using engine,,0.1,283.7,166.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:25,Class A,231859000,57.677407,11.798128,Under way using engine,,0.2,65.4,163.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:28,Class A,231859000,57.677408,11.798135,Under way using engine,,0.1,67.0,161.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:30,Class A,231859000,57.67741,11.798143,Under way using engine,,0.3,70.9,160.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:37,Class A,231859000,57.67741,11.798167,Under way using engine,,0.5,83.0,158.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:44,Class A,231859000,57.677408,11.798212,Under way using engine,,0.6,92.3,162.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:48,Class A,231859000,57.677402,11.798215,Under way using engine,,0.6,107.3,165.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:52,Class A,231859000,57.677395,11.798247,Under way using engine,,0.6,126.2,170.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:55,Class A,231859000,57.677388,11.798263,Under way using engine,,0.8,120.7,174.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:20:59,Class A,231859000,57.677378,11.798283,Under way using engine,,0.8,137.3,182.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:12,Class A,231859000,57.677325,11.79833,Under way using engine,,0.9,166.8,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:15,Class A,231859000,57.677307,11.798335,Under way using engine,,1.1,169.7,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:17,Class A,231859000,57.677295,11.798323,Under way using engine,,1.0,183.7,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:21,Class A,231859000,57.677283,11.798315,Under way using engine,,1.1,190.5,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:25,Class A,231859000,57.677262,11.798282,Under way using engine,,1.2,211.7,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:38,Class A,231859000,57.6772,11.798145,Under way using engine,,1.6,231.6,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:41,Class A,231859000,57.67718,11.79811,Under way using engine,,1.8,228.3,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:44,Class A,231859000,57.677165,11.798072,Under way using engine,0.0,1.8,230.8,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:50,Class A,231859000,57.677117,11.797975,Under way using engine,0.0,2.1,228.0,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:21:55,Class A,231859000,57.677088,11.79792,Under way using engine,0.0,2.2,226.3,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:03,Class A,231859000,57.677023,11.797798,Under way using engine,,2.5,225.4,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:05,Class A,231859000,57.677005,11.797768,Under way using engine,,2.5,223.9,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:11,Class A,231859000,57.676952,11.79767,Under way using engine,0.0,2.6,223.2,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:12,Class A,231859000,57.676942,11.797653,Under way using engine,0.0,2.7,221.1,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:15,Class A,231859000,57.676912,11.797607,Under way using engine,0.0,2.8,221.2,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:25,Class A,231859000,57.676803,11.797445,Under way using engine,0.0,3.0,218.8,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:44,Class A,231859000,57.676592,11.797153,Under way using engine,,3.0,216.7,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:55,Class A,231859000,57.676473,11.796993,Under way using engine,,2.9,216.0,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:22:59,Class A,231859000,57.67643,11.79694,Under way using engine,,2.8,214.7,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:00,Class A,231859000,57.676407,11.796917,Under way using engine,0.0,2.8,214.3,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:04,Class A,231859000,57.676373,11.796878,Under way using engine,0.0,2.8,214.1,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:15,Class A,231859000,57.67626,11.796732,Under way using engine,,2.8,213.2,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:15,Class A,231859000,57.67626,11.796732,Under way using engine,,2.8,213.2,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:21,Class A,231859000,57.676198,11.796655,Under way using engine,,2.7,213.0,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:25,Class A,231859000,57.676158,11.796608,Under way using engine,,2.6,212.6,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:37,Class A,231859000,57.676042,11.796472,Under way using engine,,2.5,213.3,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:42,Class A,231859000,57.675995,11.796408,Under way using engine,,2.5,215.2,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:49,Class A,231859000,57.675935,11.79632,Under way using engine,,2.4,219.4,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:52,Class A,231859000,57.675915,11.796275,Under way using engine,0.0,2.3,221.5,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:55,Class A,231859000,57.675892,11.796237,Under way using engine,,2.3,221.3,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:23:58,Class A,231859000,57.675865,11.79618,Under way using engine,,2.2,225.2,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:07,Class A,231859000,57.675798,11.796065,Under way using engine,0.0,2.2,223.1,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:15,Class A,231859000,57.675748,11.795977,Under way using engine,0.0,2.2,224.6,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:19,Class A,231859000,57.675717,11.795932,Under way using engine,,2.2,222.5,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:19,Class A,231859000,57.675717,11.795932,Under way using engine,,2.2,222.5,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:20,Class A,231859000,57.675705,11.795902,Under way using engine,,2.2,224.8,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:25,Class A,231859000,57.675673,11.795855,Under way using engine,,2.2,223.3,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:28,Class A,231859000,57.675647,11.795802,Under way using engine,,2.1,224.1,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:34,Class A,231859000,57.675647,11.795802,Under way using engine,,2.1,224.1,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:46,Class A,231859000,57.675538,11.795543,Under way using engine,,2.1,235.6,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:46,Class A,231859000,57.675538,11.795543,Under way using engine,,2.1,235.6,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:48,Class A,231859000,57.675533,11.795532,Under way using engine,,2.0,234.6,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:24:55,Class A,231859000,57.675498,11.795422,Under way using engine,,2.1,237.8,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:11,Class A,231859000,57.675408,11.795173,Under way using engine,0.0,2.1,232.8,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:15,Class A,231859000,57.67539,11.795132,Under way using engine,0.0,2.1,229.7,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:18,Class A,231859000,57.675363,11.795077,Under way using engine,0.0,2.1,230.6,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:21,Class A,231859000,57.67534,11.79504,Under way using engine,,2.1,228.4,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:38,Class A,231859000,57.675223,11.794822,Under way using engine,,2.1,227.5,225.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:40,Class A,231859000,57.67521,11.794798,Under way using engine,,2.1,225.0,226.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:49,Class A,231859000,57.675165,11.794688,Under way using engine,0.0,2.0,232.6,224.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:25:55,Class A,231859000,57.675133,11.794605,Under way using engine,,2.0,233.9,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:04,Class A,231859000,57.675083,11.794482,Under way using engine,0.0,2.0,233.1,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:10,Class A,231859000,57.675048,11.794403,Under way using engine,,2.0,229.6,223.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:10,Class A,231859000,57.675042,11.79439,Under way using engine,,2.0,229.6,224.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:15,Class A,231859000,57.675018,11.794335,Under way using engine,,2.0,229.9,225.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:30,Class A,231859000,57.674927,11.79411,Under way using engine,,2.0,231.9,223.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:34,Class A,231859000,57.67491,11.794063,Under way using engine,,2.1,234.6,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:38,Class A,231859000,57.67488,11.793992,Under way using engine,,2.1,234.3,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:42,Class A,231859000,57.674862,11.793953,Under way using engine,,2.1,232.4,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:52,Class A,231859000,57.6748,11.793818,Under way using engine,0.0,2.0,228.5,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:55,Class A,231859000,57.674782,11.793778,Under way using engine,0.0,2.1,227.5,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:26:59,Class A,231859000,57.674757,11.79373,Under way using engine,,2.1,228.1,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:00,Class A,231859000,57.674743,11.793702,Under way using engine,,2.1,227.9,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:04,Class A,231859000,57.674718,11.793652,Under way using engine,,2.1,227.5,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:09,Class A,231859000,57.674693,11.793597,Under way using engine,,2.0,228.3,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:15,Class A,231859000,57.674657,11.793515,Under way using engine,0.0,2.1,229.2,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:25,Class A,231859000,57.674587,11.793358,Under way using engine,0.0,2.1,230.5,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:32,Class A,231859000,57.674542,11.793258,Under way using engine,,2.2,229.4,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:34,Class A,231859000,57.674535,11.793245,Under way using engine,,2.1,229.0,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:37,Class A,231859000,57.674508,11.79319,Under way using engine,,2.2,228.2,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:41,Class A,231859000,57.67448,11.793133,Under way using engine,,2.2,228.5,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:27:48,Class A,231859000,57.67444,11.793052,Under way using engine,,2.1,226.2,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:00,Class A,231859000,57.674343,11.792885,Under way using engine,0.0,2.1,223.9,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:07,Class A,231859000,57.67429,11.792805,Under way using engine,,2.1,220.1,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:12,Class A,231859000,57.674262,11.792755,Under way using engine,,2.1,221.5,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:15,Class A,231859000,57.674237,11.79272,Under way using engine,,2.2,220.0,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:18,Class A,231859000,57.674208,11.79267,Under way using engine,,2.2,220.3,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:21,Class A,231859000,57.674192,11.792648,Under way using engine,,2.2,219.8,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:25,Class A,231859000,57.674163,11.792597,Under way using engine,,2.2,221.4,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:28,Class A,231859000,57.674135,11.792548,Under way using engine,0.0,2.2,222.3,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:44,Class A,231859000,57.674028,11.792343,Under way using engine,0.0,2.1,225.3,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:28:55,Class A,231859000,57.673962,11.792213,Under way using engine,0.0,2.1,226.5,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:29:15,Class A,231859000,57.67383,11.791955,Under way using engine,0.0,2.1,226.7,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:04,Class A,231859000,57.673488,11.791342,Under way using engine,0.0,2.0,221.5,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:15,Class A,231859000,57.673408,11.791212,Under way using engine,0.0,2.1,221.1,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:25,Class A,231859000,57.673328,11.791087,Under way using engine,0.0,2.0,219.7,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:30,Class A,231859000,57.6733,11.791043,Under way using engine,,2.0,219.6,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:48,Class A,231859000,57.673175,11.790833,Under way using engine,0.0,2.0,223.5,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:30:54,Class A,231859000,57.673138,11.790765,Under way using engine,0.0,2.0,225.4,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:31:05,Class A,231859000,57.673072,11.790628,Under way using engine,0.0,1.9,227.5,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:31:15,Class A,231859000,57.673012,11.790503,Under way using engine,0.0,1.9,226.7,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:31:25,Class A,231859000,57.672943,11.790373,Under way using engine,0.0,1.9,225.3,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:31:54,Class A,231859000,57.672768,11.790057,Under way using engine,0.0,1.9,221.7,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:32:14,Class A,231859000,57.672638,11.789827,Under way using engine,0.0,1.9,223.8,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:32:25,Class A,231859000,57.672578,11.789718,Under way using engine,0.0,1.8,223.8,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:32:54,Class A,231859000,57.672407,11.789407,Under way using engine,0.0,1.8,224.8,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:33:05,Class A,231859000,57.672345,11.789288,Under way using engine,0.0,1.7,226.4,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:33:14,Class A,231859000,57.67229,11.789182,Under way using engine,0.0,1.7,226.7,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:33:25,Class A,231859000,57.672233,11.789075,Under way using engine,0.0,1.8,224.7,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:33:54,Class A,231859000,57.67206,11.788737,Under way using engine,0.0,1.9,225.3,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:05,Class A,231859000,57.671988,11.788595,Under way using engine,0.0,2.1,225.7,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:14,Class A,231859000,57.671922,11.788467,Under way using engine,0.0,2.1,227.0,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:35,Class A,231859000,57.671782,11.788178,Under way using engine,,2.1,229.8,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:38,Class A,231859000,57.671768,11.78815,Under way using engine,,2.2,227.9,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:42,Class A,231859000,57.671743,11.78809,Under way using engine,,2.2,231.0,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:45,Class A,231859000,57.671717,11.788032,Under way using engine,,2.2,230.2,223.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:51,Class A,231859000,57.67168,11.787942,Under way using engine,,2.2,232.2,224.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:54,Class A,231859000,57.671667,11.787908,Under way using engine,,2.3,231.7,225.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:34:57,Class A,231859000,57.671642,11.787847,Under way using engine,,2.2,232.6,226.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:05,Class A,231859000,57.671598,11.787732,Under way using engine,,2.3,235.3,228.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:09,Class A,231859000,57.671573,11.787667,Under way using engine,,2.3,234.8,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:11,Class A,231859000,57.671562,11.787633,Under way using engine,,2.4,236.8,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:14,Class A,231859000,57.671537,11.787565,Under way using engine,0.0,2.3,235.1,229.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:25,Class A,231859000,57.671482,11.787385,Under way using engine,,2.4,239.2,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:25,Class A,231859000,57.671475,11.787367,Under way using engine,,2.4,239.2,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:25,Class A,231859000,57.671475,11.787367,Under way using engine,,2.4,239.2,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:28,Class A,231859000,57.671465,11.787332,Under way using engine,,2.4,239.5,227.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:35,Class A,231859000,57.671423,11.787202,Under way using engine,,2.5,239.6,225.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:42,Class A,231859000,57.671385,11.787075,Under way using engine,,2.4,238.5,223.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:45,Class A,231859000,57.671362,11.786997,Under way using engine,,2.5,240.3,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:47,Class A,231859000,57.671355,11.786982,Under way using engine,,2.4,237.4,222.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:51,Class A,231859000,57.671332,11.786907,Under way using engine,,2.5,239.7,221.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:54,Class A,231859000,57.671312,11.786857,Under way using engine,,2.5,235.8,220.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:35:57,Class A,231859000,57.671293,11.786798,Under way using engine,,2.5,238.6,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:01,Class A,231859000,57.671265,11.786732,Under way using engine,,2.5,236.0,219.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:05,Class A,231859000,57.67124,11.78666,Under way using engine,,2.5,234.2,218.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:10,Class A,231859000,57.671198,11.786555,Under way using engine,,2.5,234.7,217.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:14,Class A,231859000,57.671167,11.78649,Under way using engine,,2.5,231.7,216.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:21,Class A,231859000,57.671122,11.786392,Under way using engine,,2.5,229.8,215.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:25,Class A,231859000,57.671092,11.786328,Under way using engine,,2.5,227.7,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:31,Class A,231859000,57.671043,11.786233,Under way using engine,,2.5,226.2,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:33,Class A,231859000,57.671043,11.786233,Under way using engine,,2.5,226.2,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:35,Class A,231859000,57.671003,11.786155,Under way using engine,,2.5,226.8,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:37,Class A,231859000,57.670987,11.786125,Under way using engine,,2.5,225.3,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:44,Class A,231859000,57.670928,11.78602,Under way using engine,,2.5,224.1,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:36:54,Class A,231859000,57.670843,11.78587,Under way using engine,0.0,2.5,223.5,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:05,Class A,231859000,57.670755,11.785727,Under way using engine,0.0,2.5,221.8,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:11,Class A,231859000,57.670693,11.785627,Under way using engine,,2.5,221.2,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:14,Class A,231859000,57.670668,11.78558,Under way using engine,,2.5,222.3,213.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:25,Class A,231859000,57.670582,11.78543,Under way using engine,0.0,2.6,224.0,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:35,Class A,231859000,57.670487,11.785262,Under way using engine,0.0,2.6,223.3,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:44,Class A,231859000,57.670418,11.785135,Under way using engine,0.0,2.5,224.3,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:37:54,Class A,231859000,57.670325,11.784962,Under way using engine,0.0,2.6,224.6,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:05,Class A,231859000,57.670242,11.784798,Under way using engine,0.0,2.6,226.2,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:25,Class A,231859000,57.670073,11.784473,Under way using engine,0.0,2.6,226.5,212.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:28,Class A,231859000,57.670038,11.784413,Under way using engine,,2.6,224.8,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:28,Class A,231859000,57.670038,11.784413,Under way using engine,,2.6,224.8,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:31,Class A,231859000,57.670022,11.784378,Under way using engine,,2.6,226.7,211.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:35,Class A,231859000,57.669982,11.7843,Under way using engine,,2.6,225.0,210.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:48,Class A,231859000,57.66988,11.784117,Under way using engine,,2.5,222.6,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:38:54,Class A,231859000,57.66982,11.784013,Under way using engine,0.0,2.5,222.2,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:39:14,Class A,231859000,57.669647,11.783737,Under way using engine,0.0,2.4,220.4,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:39:25,Class A,231859000,57.669562,11.783605,Under way using engine,0.0,2.4,219.6,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:39:35,Class A,231859000,57.669468,11.783475,Under way using engine,0.0,2.3,215.5,206.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:39:48,Class A,231859000,57.669372,11.783338,Under way using engine,,2.2,215.8,204.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:39:54,Class A,231859000,57.669315,11.783267,Under way using engine,0.0,2.1,213.4,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:05,Class A,231859000,57.66923,11.783163,Under way using engine,0.0,2.0,213.7,204.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:14,Class A,231859000,57.669162,11.783093,Under way using engine,0.0,1.9,208.4,205.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:25,Class A,231859000,57.669098,11.78301,Under way using engine,0.0,1.6,212.3,206.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:35,Class A,231859000,57.669033,11.782937,Under way using engine,0.0,1.5,213.8,207.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:45,Class A,231859000,57.668983,11.782873,Under way using engine,0.0,1.4,216.7,206.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:55,Class A,231859000,57.668942,11.782812,Under way using engine,,1.1,220.5,204.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:40:58,Class A,231859000,57.668933,11.782803,Under way using engine,,1.1,212.1,203.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:05,Class A,231859000,57.668903,11.782765,Under way using engine,,1.0,213.1,201.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:07,Class A,231859000,57.668902,11.782762,Under way using engine,,0.9,214.6,200.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:11,Class A,231859000,57.668888,11.78274,Under way using engine,,0.9,219.1,199.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:15,Class A,231859000,57.668877,11.782727,Under way using engine,,0.8,220.6,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:21,Class A,231859000,57.66886,11.782707,Under way using engine,,0.8,216.2,195.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:25,Class A,231859000,57.66885,11.782695,Under way using engine,,0.7,212.9,194.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:28,Class A,231859000,57.668842,11.782688,Under way using engine,,0.6,213.8,193.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:31,Class A,231859000,57.668837,11.782683,Under way using engine,,0.6,209.8,192.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:35,Class A,231859000,57.668828,11.782673,Under way using engine,,0.5,211.9,190.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:38,Class A,231859000,57.668825,11.782668,Under way using engine,,0.5,210.8,189.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:47,Class A,231859000,57.668815,11.782655,Under way using engine,,0.4,210.7,186.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:50,Class A,231859000,57.668812,11.782655,Under way using engine,,0.2,195.2,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:41:58,Class A,231859000,57.668807,11.782655,Under way using engine,0.0,0.2,197.3,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:02,Class A,231859000,57.668803,11.782662,Under way using engine,,0.2,135.8,187.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:05,Class A,231859000,57.668802,11.78266,Under way using engine,,0.1,135.8,189.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:08,Class A,231859000,57.6688,11.78267,Under way using engine,,0.2,126.6,189.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:11,Class A,231859000,57.6688,11.782667,Under way using engine,,0.1,122.8,190.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:15,Class A,231859000,57.668798,11.782675,Under way using engine,,0.1,111.9,191.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:18,Class A,231859000,57.6688,11.782673,Under way using engine,,0.2,111.9,191.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:25,Class A,231859000,57.668798,11.782683,Under way using engine,,0.2,111.9,193.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:28,Class A,231859000,57.668798,11.782685,Under way using engine,,0.1,111.9,194.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:32,Class A,231859000,57.6688,11.782687,Under way using engine,,0.2,111.9,195.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:35,Class A,231859000,57.6688,11.782687,Under way using engine,,0.1,111.9,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:37,Class A,231859000,57.668802,11.782688,Under way using engine,,0.1,111.9,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:41,Class A,231859000,57.668802,11.78269,Under way using engine,,0.1,111.9,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:41,Class A,231859000,57.668803,11.78269,Under way using engine,,0.1,111.9,197.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:42:54,Class A,231859000,57.66881,11.782695,Under way using engine,0.0,0.1,111.9,198.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:05,Class A,231859000,57.668818,11.782695,Under way using engine,0.0,0.1,111.9,198.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:15,Class A,231859000,57.668823,11.782688,Under way using engine,0.0,0.1,111.9,196.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:25,Class A,231859000,57.668822,11.78268,Under way using engine,0.0,0.2,111.9,195.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:35,Class A,231859000,57.668812,11.782665,Under way using engine,,0.3,213.6,193.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:37,Class A,231859000,57.66881,11.78266,Under way using engine,,0.3,219.6,192.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:42,Class A,231859000,57.668802,11.782653,Under way using engine,,0.4,220.3,191.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:45,Class A,231859000,57.668793,11.78265,Under way using engine,,0.4,194.2,191.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:49,Class A,231859000,57.668787,11.782638,Under way using engine,,0.5,217.2,190.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:51,Class A,231859000,57.668782,11.782638,Under way using engine,,0.5,189.3,190.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:43:54,Class A,231859000,57.668773,11.782627,Under way using engine,,0.5,216.0,189.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:15,Class A,231859000,57.668715,11.78259,Under way using engine,0.0,0.7,195.1,186.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:25,Class A,231859000,57.668677,11.782568,Under way using engine,,0.8,196.0,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:25,Class A,231859000,57.668677,11.782568,Under way using engine,,0.8,196.0,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:26,Class A,231859000,57.668672,11.782567,Under way using engine,,0.8,196.0,185.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:28,Class A,231859000,57.668662,11.78256,Under way using engine,,1.0,198.6,184.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:31,Class A,231859000,57.668648,11.782553,Under way using engine,,1.0,195.3,184.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:35,Class A,231859000,57.668628,11.782542,Under way using engine,,1.1,198.4,183.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:37,Class A,231859000,57.668617,11.782535,Under way using engine,,1.2,193.3,182.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:40,Class A,231859000,57.668593,11.782525,Under way using engine,,1.2,196.5,181.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:51,Class A,231859000,57.668528,11.7825,Under way using engine,,1.4,190.1,175.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:54,Class A,231859000,57.668498,11.78249,Under way using engine,,1.5,191.6,173.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:44:57,Class A,231859000,57.668485,11.782488,Under way using engine,,1.5,187.2,172.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:01,Class A,231859000,57.668455,11.782483,Under way using engine,,1.6,187.7,170.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:09,Class A,231859000,57.668387,11.782475,Under way using engine,,1.8,184.0,167.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:11,Class A,231859000,57.66837,11.782477,Under way using engine,,1.8,180.2,165.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:15,Class A,231859000,57.668332,11.782478,Under way using engine,,1.9,180.0,163.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:20,Class A,231859000,57.668283,11.78249,Under way using engine,,2.1,176.1,159.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:25,Class A,231859000,57.66823,11.782502,Under way using engine,,2.2,172.0,155.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:27,Class A,231859000,57.668208,11.78251,Under way using engine,,2.3,171.8,153.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:35,Class A,231859000,57.668115,11.782553,Under way using engine,,2.5,165.5,144.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:41,Class A,231859000,57.668035,11.782618,Under way using engine,,2.7,159.7,137.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:45,Class A,231859000,57.66799,11.782672,Under way using engine,,2.7,153.5,134.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:47,Class A,231859000,57.667978,11.782685,Under way using engine,,2.8,152.2,132.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:52,Class A,231859000,57.667925,11.782763,Under way using engine,,2.9,147.0,129.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:54,Class A,231859000,57.66789,11.782817,Under way using engine,,3.0,143.4,127.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:45:57,Class A,231859000,57.667868,11.782855,Under way using engine,,3.1,141.0,125.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:21,Class A,231859000,57.667643,11.783483,Under way using engine,,4.0,115.4,96.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:35,Class A,231859000,57.667583,11.784032,Under way using engine,,4.7,98.1,82.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:39,Class A,231859000,57.667582,11.784203,Under way using engine,,4.9,93.5,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:41,Class A,231859000,57.667585,11.784338,Under way using engine,,5.0,91.2,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:47,Class A,231859000,57.667607,11.784612,Under way using engine,,5.2,84.6,68.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:51,Class A,231859000,57.667627,11.784753,Under way using engine,,5.4,80.8,65.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:46:54,Class A,231859000,57.667662,11.784948,Under way using engine,,5.7,75.6,61.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:01,Class A,231859000,57.667728,11.785252,Under way using engine,,6.2,67.4,56.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:04,Class A,231859000,57.66777,11.7854,Under way using engine,,6.2,66.4,55.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:08,Class A,231859000,57.667832,11.7856,Under way using engine,,6.5,62.2,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:10,Class A,231859000,57.667883,11.785747,Under way using engine,,6.6,60.0,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:15,Class A,231859000,57.667963,11.785925,Under way using engine,,6.7,53.2,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:18,Class A,231859000,57.668048,11.786105,Under way using engine,,6.8,51.5,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:22,Class A,231859000,57.668115,11.786237,Under way using engine,,6.9,47.6,41.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:27,Class A,231859000,57.668233,11.786447,Under way using engine,,7.0,45.3,38.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:30,Class A,231859000,57.668335,11.786602,Under way using engine,,7.0,42.6,37.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:37,Class A,231859000,57.668488,11.786828,Under way using engine,,7.0,39.2,24.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:41,Class A,231859000,57.668613,11.786987,Under way using engine,,6.7,36.0,0.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:45,Class A,231859000,57.66871,11.78705,Under way using engine,,6.0,27.3,336.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:51,Class A,231859000,57.668813,11.787043,Under way using engine,,4.6,8.1,301.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:47:54,Class A,231859000,57.668878,11.786993,Under way using engine,,4.0,355.2,283.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:11,Class A,231859000,57.668992,11.78664,Under way using engine,,2.7,292.0,208.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:15,Class A,231859000,57.66898,11.78655,Under way using engine,,2.5,270.2,192.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:21,Class A,231859000,57.668932,11.786418,Under way using engine,,2.5,248.4,161.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:29,Class A,231859000,57.668843,11.786367,Under way using engine,,2.6,202.7,129.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:35,Class A,231859000,57.668745,11.786448,Under way using engine,,3.3,158.8,106.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:48,Class A,231859000,57.668633,11.786985,Under way using engine,,5.2,105.3,67.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:51,Class A,231859000,57.668647,11.787157,Under way using engine,,5.9,90.1,63.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:54,Class A,231859000,57.668682,11.78733,Under way using engine,,6.4,78.6,58.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:48:58,Class A,231859000,57.668735,11.787573,Under way using engine,,6.9,73.9,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:04,Class A,231859000,57.668848,11.787913,Under way using engine,,7.4,61.8,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:15,Class A,231859000,57.669072,11.788475,Under way using engine,,7.2,51.6,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:18,Class A,231859000,57.669138,11.788603,Under way using engine,0.0,7.1,49.9,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:21,Class A,231859000,57.669202,11.788732,Under way using engine,,7.0,48.8,49.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:24,Class A,231859000,57.66927,11.78885,Under way using engine,,6.8,47.2,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:27,Class A,231859000,57.669323,11.788978,Under way using engine,,6.6,48.8,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:30,Class A,231859000,57.6694,11.789137,Under way using engine,0.0,6.4,48.4,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:35,Class A,231859000,57.66947,11.789305,Under way using engine,,6.2,50.8,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:52,Class A,231859000,57.669763,11.789932,Under way using engine,,5.4,47.7,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:49:58,Class A,231859000,57.669865,11.790115,Under way using engine,,5.2,45.3,38.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:50:24,Class A,231859000,57.670297,11.790815,Under way using engine,,4.7,41.1,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:50:28,Class A,231859000,57.67038,11.790945,Under way using engine,,4.7,40.1,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:50:35,Class A,231859000,57.670478,11.791108,Under way using engine,0.0,4.7,41.0,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:50:37,Class A,231859000,57.670507,11.791167,Under way using engine,0.0,4.7,43.7,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:50:51,Class A,231859000,57.67072,11.791573,Under way using engine,,4.7,45.5,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:15,Class A,231859000,57.671113,11.792275,Under way using engine,0.0,4.7,44.1,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:24,Class A,231859000,57.67125,11.792518,Under way using engine,0.0,4.6,43.8,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:31,Class A,231859000,57.671322,11.792652,Under way using engine,,3.7,43.7,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:31,Class A,231859000,57.671322,11.792652,Under way using engine,,3.7,43.7,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:35,Class A,231859000,57.671367,11.792727,Under way using engine,,3.4,45.3,41.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:48,Class A,231859000,57.67152,11.793002,Under way using engine,,3.4,44.6,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:51,Class A,231859000,57.671543,11.793043,Under way using engine,,3.4,43.4,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:51:54,Class A,231859000,57.671588,11.793128,Under way using engine,0.0,3.5,44.9,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:52:08,Class A,231859000,57.671757,11.793453,Under way using engine,,3.8,46.6,40.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:52:11,Class A,231859000,57.671782,11.793498,Under way using engine,,3.8,43.5,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:52:21,Class A,231859000,57.671923,11.793717,Under way using engine,,3.9,41.0,41.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:52:41,Class A,231859000,57.67223,11.794248,Under way using engine,,4.6,43.5,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:52:54,Class A,231859000,57.672442,11.794603,Under way using engine,0.0,4.7,42.2,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:04,Class A,231859000,57.672587,11.794845,Under way using engine,,4.7,41.6,41.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:07,Class A,231859000,57.672652,11.794948,Under way using engine,,4.6,41.3,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:12,Class A,231859000,57.672712,11.79506,Under way using engine,,4.6,43.0,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:15,Class A,231859000,57.672772,11.795167,Under way using engine,,4.6,43.2,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:17,Class A,231859000,57.672785,11.795197,Under way using engine,,4.6,45.1,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:24,Class A,231859000,57.6729,11.795425,Under way using engine,0.0,4.6,46.0,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:32,Class A,231859000,57.673,11.79562,Under way using engine,,4.5,46.5,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:34,Class A,231859000,57.67303,11.795673,Under way using engine,,4.5,45.4,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:40,Class A,231859000,57.673135,11.795858,Under way using engine,,4.5,43.7,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:48,Class A,231859000,57.673238,11.796045,Under way using engine,,4.5,43.0,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:53:58,Class A,231859000,57.673388,11.796305,Under way using engine,0.0,4.5,42.5,40.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:07,Class A,231859000,57.673538,11.796558,Under way using engine,,4.4,42.4,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:07,Class A,231859000,57.673538,11.796558,Under way using engine,,4.4,42.4,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:12,Class A,231859000,57.673597,11.796667,Under way using engine,,4.4,44.0,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:15,Class A,231859000,57.673655,11.79677,Under way using engine,,4.4,43.9,47.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:18,Class A,231859000,57.673685,11.796823,Under way using engine,,4.4,44.2,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:24,Class A,231859000,57.673783,11.797015,Under way using engine,,4.4,45.3,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:32,Class A,231859000,57.673878,11.797222,Under way using engine,0.0,4.5,49.9,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:33,Class A,231859000,57.673878,11.797222,Under way using engine,0.0,4.5,49.9,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:34,Class A,231859000,57.673902,11.797287,Under way using engine,,4.5,50.9,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:42,Class A,231859000,57.674005,11.79751,Under way using engine,,4.4,48.7,32.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:54:48,Class A,231859000,57.674117,11.797675,Under way using engine,,4.4,40.8,20.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:04,Class A,231859000,57.674405,11.79799,Under way using engine,,4.5,31.7,20.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:08,Class A,231859000,57.674458,11.798045,Under way using engine,,4.4,31.6,23.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:18,Class A,231859000,57.674608,11.798272,Under way using engine,,4.2,40.1,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:20,Class A,231859000,57.674648,11.798347,Under way using engine,,4.1,40.9,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:24,Class A,231859000,57.674683,11.798427,Under way using engine,,4.1,47.4,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:31,Class A,231859000,57.674773,11.798657,Under way using engine,,4.1,52.5,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:34,Class A,231859000,57.674798,11.798717,Under way using engine,,4.2,51.9,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:42,Class A,231859000,57.674892,11.798947,Under way using engine,0.0,4.2,52.8,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:48,Class A,231859000,57.67496,11.799123,Under way using engine,,4.2,52.4,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:55:50,Class A,231859000,57.674995,11.799208,Under way using engine,,4.2,52.6,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:11,Class A,231859000,57.67527,11.799745,Under way using engine,0.0,4.3,44.8,36.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:15,Class A,231859000,57.675343,11.799868,Under way using engine,,4.3,42.9,38.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:18,Class A,231859000,57.675373,11.799923,Under way using engine,,4.4,43.3,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:22,Class A,231859000,57.675432,11.80002,Under way using engine,,4.3,42.3,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:24,Class A,231859000,57.675473,11.800102,Under way using engine,,4.3,43.9,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:31,Class A,231859000,57.675568,11.80029,Under way using engine,,4.3,46.5,50.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:34,Class A,231859000,57.675595,11.800345,Under way using engine,,4.3,47.0,52.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:37,Class A,231859000,57.675632,11.800433,Under way using engine,,4.3,49.2,54.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:40,Class A,231859000,57.675678,11.80055,Under way using engine,,4.2,51.3,55.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:48,Class A,231859000,57.675758,11.80077,Under way using engine,0.0,4.3,54.3,54.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:52,Class A,231859000,57.6758,11.800898,Under way using engine,0.0,4.3,57.2,54.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:55,Class A,231859000,57.675837,11.80099,Under way using engine,0.0,4.4,56.2,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:56:57,Class A,231859000,57.675855,11.801057,Under way using engine,0.0,4.3,57.5,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:01,Class A,231859000,57.67591,11.801217,Under way using engine,0.0,4.4,56.7,54.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:15,Class A,231859000,57.676062,11.801667,Under way using engine,0.0,4.4,56.8,54.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:24,Class A,231859000,57.676158,11.801925,Under way using engine,,4.5,55.3,56.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:27,Class A,231859000,57.676205,11.80205,Under way using engine,,4.5,55.1,57.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:31,Class A,231859000,57.676238,11.802147,Under way using engine,,4.5,56.3,59.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:34,Class A,231859000,57.676272,11.802248,Under way using engine,,4.5,57.2,59.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:52,Class A,231859000,57.676447,11.802865,Under way using engine,,4.6,64.1,58.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:57:55,Class A,231859000,57.676473,11.802975,Under way using engine,,4.6,65.0,56.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:01,Class A,231859000,57.676537,11.80323,Under way using engine,,4.6,64.3,52.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:14,Class A,231859000,57.67667,11.803645,Under way using engine,,4.7,56.8,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:17,Class A,231859000,57.676723,11.803773,Under way using engine,0.0,4.7,55.4,46.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:31,Class A,231859000,57.676902,11.804187,Under way using engine,,4.7,52.8,55.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:34,Class A,231859000,57.67694,11.804283,Under way using engine,,4.7,53.2,57.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:38,Class A,231859000,57.676987,11.80442,Under way using engine,,4.7,56.0,61.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:44,Class A,231859000,57.677052,11.804628,Under way using engine,,4.6,60.0,66.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:48,Class A,231859000,57.677098,11.804808,Under way using engine,,4.7,61.5,68.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:52,Class A,231859000,57.677122,11.80492,Under way using engine,,4.6,64.7,69.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:55,Class A,231859000,57.677153,11.805067,Under way using engine,0.0,4.6,66.9,69.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:58:58,Class A,231859000,57.677167,11.805142,Under way using engine,0.0,4.6,67.5,68.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:02,Class A,231859000,57.677198,11.805292,Under way using engine,,4.6,68.7,66.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:04,Class A,231859000,57.677213,11.805365,Under way using engine,,4.7,68.5,66.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:08,Class A,231859000,57.677247,11.805515,Under way using engine,,4.7,67.7,65.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:21,Class A,231859000,57.677367,11.805995,Under way using engine,,4.7,64.5,67.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:21,Class A,231859000,57.677378,11.806032,Under way using engine,,4.7,64.5,67.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:24,Class A,231859000,57.677405,11.806143,Under way using engine,,4.8,64.5,69.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:32,Class A,231859000,57.67746,11.806405,Under way using engine,,4.7,68.5,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:34,Class A,231859000,57.677473,11.806482,Under way using engine,,4.7,70.3,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:38,Class A,231859000,57.677495,11.806638,Under way using engine,0.0,4.7,73.1,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:40,Class A,231859000,57.677505,11.806717,Under way using engine,0.0,4.7,74.0,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:48,Class A,231859000,57.677548,11.807032,Under way using engine,,4.7,74.7,70.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:50,Class A,231859000,57.677568,11.807148,Under way using engine,,4.7,73.6,70.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 06:59:57,Class A,231859000,57.677607,11.807375,Under way using engine,,4.6,74.0,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:01,Class A,231859000,57.677627,11.807533,Under way using engine,0.0,4.7,75.1,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:04,Class A,231859000,57.677647,11.807688,Under way using engine,0.0,4.6,76.1,71.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:14,Class A,231859000,57.6777,11.808038,Under way using engine,,4.7,73.4,69.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:21,Class A,231859000,57.677752,11.808303,Under way using engine,,4.7,70.6,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:24,Class A,231859000,57.677782,11.80846,Under way using engine,,4.7,70.9,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:31,Class A,231859000,57.677823,11.808732,Under way using engine,,4.7,73.1,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:34,Class A,231859000,57.677833,11.808812,Under way using engine,,4.7,74.9,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:39,Class A,231859000,57.677853,11.809007,Under way using engine,,4.6,77.6,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:42,Class A,231859000,57.677862,11.809127,Under way using engine,0.0,4.7,80.3,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:51,Class A,231859000,57.677893,11.80953,Under way using engine,,4.7,80.3,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:00:55,Class A,231859000,57.677908,11.809648,Under way using engine,,4.7,79.2,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:01,Class A,231859000,57.677948,11.809922,Under way using engine,,4.7,75.7,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:12,Class A,231859000,57.677993,11.810318,Under way using engine,,4.7,78.4,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:15,Class A,231859000,57.678005,11.810438,Under way using engine,,4.7,78.4,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:17,Class A,231859000,57.678017,11.810518,Under way using engine,,4.7,77.9,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:24,Class A,231859000,57.678058,11.810832,Under way using engine,,4.7,76.3,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:24,Class A,231859000,57.678058,11.810832,Under way using engine,,4.7,76.3,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:28,Class A,231859000,57.678077,11.810992,Under way using engine,,4.7,77.5,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:30,Class A,231859000,57.678083,11.81107,Under way using engine,0.0,4.7,78.0,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:34,Class A,231859000,57.678095,11.811193,Under way using engine,0.0,4.8,78.9,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:36,Class A,231859000,57.678103,11.811275,Under way using engine,,4.8,79.0,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:38,Class A,231859000,57.678113,11.811355,Under way using engine,,4.7,78.4,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:41,Class A,231859000,57.678133,11.81151,Under way using engine,,4.7,77.6,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:44,Class A,231859000,57.678143,11.811587,Under way using engine,0.0,4.7,76.9,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:55,Class A,231859000,57.678212,11.812062,Under way using engine,,4.7,75.4,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:01:58,Class A,231859000,57.678222,11.812142,Under way using engine,,4.7,75.5,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:02:34,Class A,231859000,57.678385,11.813572,Under way using engine,0.0,4.7,77.1,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:02:44,Class A,231859000,57.678428,11.813972,Under way using engine,,4.7,79.5,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:02:47,Class A,231859000,57.678438,11.814093,Under way using engine,,4.7,80.7,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:02:55,Class A,231859000,57.678453,11.81442,Under way using engine,,4.8,83.9,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:02:57,Class A,231859000,57.67846,11.814542,Under way using engine,,4.7,84.0,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:02,Class A,231859000,57.678472,11.814705,Under way using engine,,4.7,82.8,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:09,Class A,231859000,57.678505,11.814982,Under way using engine,,4.7,79.4,71.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:12,Class A,231859000,57.678522,11.8151,Under way using engine,0.0,4.7,77.2,71.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:14,Class A,231859000,57.678535,11.815177,Under way using engine,0.0,4.7,75.9,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:22,Class A,231859000,57.678583,11.815487,Under way using engine,,4.7,74.1,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:24,Class A,231859000,57.678597,11.815565,Under way using engine,,4.7,73.5,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:31,Class A,231859000,57.678637,11.815838,Under way using engine,,4.7,74.5,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:34,Class A,231859000,57.678652,11.815957,Under way using engine,,4.7,76.0,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:37,Class A,231859000,57.678665,11.816073,Under way using engine,0.0,4.7,76.1,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:44,Class A,231859000,57.678693,11.816352,Under way using engine,0.0,4.7,78.4,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:51,Class A,231859000,57.67872,11.81663,Under way using engine,,4.7,79.4,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:54,Class A,231859000,57.678732,11.81675,Under way using engine,,4.7,79.5,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:03:57,Class A,231859000,57.678747,11.816867,Under way using engine,,4.7,77.6,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:08,Class A,231859000,57.678813,11.817292,Under way using engine,,4.7,74.3,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:11,Class A,231859000,57.678832,11.81741,Under way using engine,,4.7,74.4,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:14,Class A,231859000,57.678847,11.817527,Under way using engine,,4.7,75.0,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:24,Class A,231859000,57.678887,11.817923,Under way using engine,0.0,4.7,80.0,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:30,Class A,231859000,57.678905,11.818205,Under way using engine,,4.7,81.8,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:42,Class A,231859000,57.67895,11.818645,Under way using engine,,4.7,79.1,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:44,Class A,231859000,57.67896,11.818723,Under way using engine,0.0,4.7,77.7,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:49,Class A,231859000,57.678987,11.81892,Under way using engine,0.0,4.7,77.1,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:04:54,Class A,231859000,57.679012,11.819112,Under way using engine,0.0,4.6,76.1,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:03,Class A,231859000,57.679065,11.819458,Under way using engine,,4.7,74.0,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:14,Class A,231859000,57.679128,11.819892,Under way using engine,,4.7,74.4,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:14,Class A,231859000,57.679135,11.81993,Under way using engine,,4.7,74.4,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:27,Class A,231859000,57.67919,11.820405,Under way using engine,,4.7,78.0,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:30,Class A,231859000,57.679208,11.820562,Under way using engine,,4.7,77.7,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:34,Class A,231859000,57.679225,11.820682,Under way using engine,,4.7,76.7,71.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:44,Class A,231859000,57.679288,11.821067,Under way using engine,,4.7,72.2,68.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:48,Class A,231859000,57.679318,11.821217,Under way using engine,0.0,4.6,70.8,69.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:52,Class A,231859000,57.679348,11.821368,Under way using engine,,4.6,70.4,70.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:54,Class A,231859000,57.679362,11.821443,Under way using engine,,4.6,70.7,71.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:05:59,Class A,231859000,57.679395,11.821633,Under way using engine,,4.6,71.5,73.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:06:01,Class A,231859000,57.679408,11.821708,Under way using engine,,4.6,72.0,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:06:04,Class A,231859000,57.679427,11.821865,Under way using engine,,4.6,74.1,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:06:24,Class A,231859000,57.67953,11.822613,Under way using engine,0.0,4.6,75.5,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:06:44,Class A,231859000,57.679653,11.823372,Under way using engine,,4.6,73.0,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:04,Class A,231859000,57.679758,11.824142,Under way using engine,,4.6,76.6,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:09,Class A,231859000,57.679775,11.824342,Under way using engine,,4.7,80.7,82.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:14,Class A,231859000,57.679787,11.824543,Under way using engine,,4.7,82.6,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:18,Class A,231859000,57.679798,11.824742,Under way using engine,,4.6,82.2,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:21,Class A,231859000,57.679808,11.824818,Under way using engine,,4.6,80.7,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:34,Class A,231859000,57.679883,11.825308,Under way using engine,0.0,4.6,72.6,72.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:40,Class A,231859000,57.679937,11.825567,Under way using engine,,4.6,70.6,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:07:44,Class A,231859000,57.679957,11.825682,Under way using engine,,4.6,71.4,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:08:36,Class A,231859000,57.68022,11.827682,Under way using engine,,4.6,73.7,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:08:38,Class A,231859000,57.680237,11.827797,Under way using engine,,4.6,74.6,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:08:47,Class A,231859000,57.680283,11.828143,Under way using engine,,4.6,74.9,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:04,Class A,231859000,57.68038,11.828755,Under way using engine,,4.6,73.3,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:08,Class A,231859000,57.680405,11.828908,Under way using engine,,4.6,73.2,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:11,Class A,231859000,57.68042,11.829025,Under way using engine,,4.6,74.4,82.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:14,Class A,231859000,57.680437,11.829142,Under way using engine,,4.7,75.1,83.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:40,Class A,231859000,57.680567,11.8302,Under way using engine,,4.7,76.7,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:09:44,Class A,231859000,57.68058,11.830318,Under way using engine,,4.7,76.3,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:10:18,Class A,231859000,57.680788,11.831632,Under way using engine,,4.7,75.5,82.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:10:23,Class A,231859000,57.680817,11.831867,Under way using engine,,4.7,76.6,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:10:31,Class A,231859000,57.68086,11.832177,Under way using engine,,4.7,75.5,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:10:44,Class A,231859000,57.680935,11.83264,Under way using engine,0.0,4.7,73.4,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:11:34,Class A,231859000,57.681203,11.834583,Under way using engine,0.0,4.7,80.1,90.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:11:40,Class A,231859000,57.681227,11.834862,Under way using engine,0.0,4.7,80.6,91.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:11:44,Class A,231859000,57.681235,11.83498,Under way using engine,,4.6,80.9,92.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:20,Class A,231859000,57.681328,11.836512,Under way using engine,,4.9,83.7,86.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:24,Class A,231859000,57.68134,11.836637,Under way using engine,,4.9,81.9,85.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:31,Class A,231859000,57.681373,11.836967,Under way using engine,,4.9,79.5,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:33,Class A,231859000,57.681373,11.836967,Under way using engine,,4.9,79.5,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:39,Class A,231859000,57.68141,11.837243,Under way using engine,,4.8,76.8,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:40,Class A,231859000,57.681422,11.837322,Under way using engine,,4.7,76.5,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:44,Class A,231859000,57.68144,11.837437,Under way using engine,0.0,4.7,74.6,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:12:51,Class A,231859000,57.681487,11.837705,Under way using engine,,4.7,72.7,79.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:13:01,Class A,231859000,57.68156,11.838123,Under way using engine,,4.7,72.0,82.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:13:08,Class A,231859000,57.681602,11.838352,Under way using engine,0.0,4.7,71.8,83.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:13:38,Class A,231859000,57.68179,11.839535,Under way using engine,,4.8,73.6,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:13:42,Class A,231859000,57.681815,11.839697,Under way using engine,,4.9,73.8,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:13:58,Class A,231859000,57.681927,11.840335,Under way using engine,,4.8,71.8,70.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:05,Class A,231859000,57.681982,11.840607,Under way using engine,,4.8,69.0,64.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:07,Class A,231859000,57.681998,11.840682,Under way using engine,,4.8,68.2,62.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:18,Class A,231859000,57.682108,11.841085,Under way using engine,,4.7,63.4,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:31,Class A,231859000,57.682262,11.841507,Under way using engine,,4.5,55.3,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:34,Class A,231859000,57.6823,11.841595,Under way using engine,,4.4,53.5,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:37,Class A,231859000,57.68234,11.841687,Under way using engine,,4.4,51.9,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:40,Class A,231859000,57.682395,11.8418,Under way using engine,,4.4,50.2,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:14:54,Class A,231859000,57.682583,11.84216,Under way using engine,,4.5,45.4,36.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:08,Class A,231859000,57.682795,11.84251,Under way using engine,,4.3,37.8,18.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:17,Class A,231859000,57.682957,11.842693,Under way using engine,,4.2,30.0,3.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:22,Class A,231859000,57.683028,11.842737,Under way using engine,,4.1,23.4,358.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:41,Class A,231859000,57.6834,11.842778,Under way using engine,,4.1,0.7,6.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:44,Class A,231859000,57.683437,11.842785,Under way using engine,,4.1,3.0,8.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:49,Class A,231859000,57.68353,11.842798,Under way using engine,,4.1,2.8,13.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:52,Class A,231859000,57.683587,11.84282,Under way using engine,,4.1,7.0,15.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:15:54,Class A,231859000,57.683623,11.842832,Under way using engine,,4.1,8.0,15.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:05,Class A,231859000,57.683825,11.842927,Under way using engine,,4.1,14.1,13.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:11,Class A,231859000,57.683937,11.842978,Under way using engine,,4.1,14.1,10.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:19,Class A,231859000,57.684087,11.84304,Under way using engine,0.0,4.2,12.4,9.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:23,Class A,231859000,57.68418,11.843077,Under way using engine,,4.1,12.0,7.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:42,Class A,231859000,57.684523,11.843157,Under way using engine,,4.1,7.5,8.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:44,Class A,231859000,57.68456,11.843163,Under way using engine,,4.1,7.1,9.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:16:54,Class A,231859000,57.684743,11.843243,Under way using engine,,4.1,13.0,18.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:17:12,Class A,231859000,57.685072,11.843385,Under way using engine,,4.0,11.6,14.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:17:58,Class A,231859000,57.685893,11.843695,Under way using engine,,3.9,9.6,5.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:18:02,Class A,231859000,57.685965,11.843712,Under way using engine,,3.9,8.3,3.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:18:08,Class A,231859000,57.686073,11.843743,Under way using engine,,3.9,8.5,1.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:18:45,Class A,231859000,57.686687,11.844073,Under way using engine,,3.6,18.8,2.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:18:59,Class A,231859000,57.686898,11.844238,Under way using engine,0.0,3.5,23.2,9.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:15,Class A,231859000,57.68713,11.844403,Under way using engine,,3.3,19.4,11.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:18,Class A,231859000,57.687187,11.844438,Under way using engine,,3.3,18.2,12.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:24,Class A,231859000,57.68727,11.844485,Under way using engine,,3.2,17.3,10.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:25,Class A,231859000,57.68727,11.844485,Under way using engine,,3.2,16.6,10.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:29,Class A,231859000,57.687327,11.844505,Under way using engine,,3.1,14.7,9.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:35,Class A,231859000,57.687418,11.844562,Under way using engine,,3.1,16.7,6.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:41,Class A,231859000,57.687495,11.844603,Under way using engine,,2.9,15.0,10.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:45,Class A,231859000,57.687533,11.844625,Under way using engine,,2.9,15.7,14.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:47,Class A,231859000,57.687572,11.844638,Under way using engine,,2.9,14.6,16.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:51,Class A,231859000,57.687622,11.844667,Under way using engine,,2.8,15.7,15.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:19:54,Class A,231859000,57.687657,11.844687,Under way using engine,,2.8,15.9,12.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:20:01,Class A,231859000,57.687742,11.844725,Under way using engine,,2.7,14.4,6.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:20:07,Class A,231859000,57.687813,11.844753,Under way using engine,,2.7,12.5,12.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:20:15,Class A,231859000,57.687895,11.84478,Under way using engine,,2.6,10.1,17.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:20:47,Class A,231859000,57.688257,11.844912,Under way using engine,,2.4,14.5,9.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:05,Class A,231859000,57.688417,11.844993,Under way using engine,0.0,2.0,15.4,8.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:15,Class A,231859000,57.688493,11.845027,Under way using engine,0.0,1.7,14.2,7.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:26,Class A,231859000,57.688563,11.845063,Under way using engine,,1.4,13.9,4.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:31,Class A,231859000,57.688597,11.845087,Under way using engine,,1.3,23.1,358.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:48,Class A,231859000,57.688657,11.845207,Under way using engine,0.0,1.2,50.8,357.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:21:57,Class A,231859000,57.688682,11.845282,Under way using engine,,1.1,54.1,358.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:22:01,Class A,231859000,57.688692,11.8453,Under way using engine,0.0,0.9,50.8,358.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:22:12,Class A,231859000,57.688713,11.845335,Under way using engine,,0.5,38.9,356.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:22:42,Class A,231859000,57.688745,11.845368,Under way using engine,0.0,0.4,56.5,350.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:22:58,Class A,231859000,57.688763,11.845402,Under way using engine,,0.3,31.8,358.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:04,Class A,231859000,57.68877,11.845403,Under way using engine,,0.3,15.3,0.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:24,Class A,231859000,57.688797,11.845413,Under way using engine,,0.1,2.4,1.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:28,Class A,231859000,57.688798,11.845413,Under way using engine,,0.1,2.4,359.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:32,Class A,231859000,57.6888,11.845413,Under way using engine,,0.1,2.4,357.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:53,Class A,231859000,57.688807,11.845422,Under way using engine,,0.1,2.4,354.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:23:55,Class A,231859000,57.688805,11.845427,Under way using engine,,0.1,2.4,356.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:24:04,Class A,231859000,57.688802,11.84543,Under way using engine,,0.1,2.4,3.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:24:10,Class A,231859000,57.6888,11.845428,Under way using engine,,0.0,2.4,11.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:24:24,Class A,231859000,57.688813,11.845358,Under way using engine,,0.9,292.4,44.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:24:29,Class A,231859000,57.688822,11.845295,Under way using engine,,1.2,284.2,49.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:24:31,Class A,231859000,57.688825,11.845267,Under way using engine,,1.4,283.1,48.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:02,Class A,231859000,57.688872,11.844988,Under way using engine,,0.8,309.5,12.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:08,Class A,231859000,57.688883,11.844967,Under way using engine,,0.6,315.1,8.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:24,Class A,231859000,57.68891,11.84494,Under way using engine,,0.3,336.1,8.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:29,Class A,231859000,57.688917,11.844938,Under way using engine,,0.3,342.7,10.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:31,Class A,231859000,57.688918,11.844938,Under way using engine,,0.2,352.8,11.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:47,Class A,231859000,57.688932,11.844953,Under way using engine,,0.3,26.1,28.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:51,Class A,231859000,57.688935,11.844957,Under way using engine,,0.3,30.6,35.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:25:57,Class A,231859000,57.688945,11.844963,Under way using engine,,0.3,22.5,42.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:26:11,Class A,231859000,57.688973,11.844938,Under way using engine,0.0,0.5,330.1,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:26:18,Class A,231859000,57.688987,11.844918,Under way using engine,,0.5,327.6,41.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:26:28,Class A,231859000,57.689005,11.844902,Under way using engine,,0.4,325.8,38.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:26:54,Class A,231859000,57.689022,11.844883,Under way using engine,,0.1,295.9,26.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:01,Class A,231859000,57.689023,11.84488,Under way using engine,0.0,0.1,295.9,26.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:07,Class A,231859000,57.689027,11.84488,Under way using engine,,0.1,295.9,24.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:18,Class A,231859000,57.689023,11.844883,Under way using engine,,0.3,175.8,35.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:22,Class A,231859000,57.689012,11.844883,Under way using engine,,0.5,175.8,45.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:30,Class A,231859000,57.688997,11.844885,Under way using engine,,0.3,180.2,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:38,Class A,231859000,57.688995,11.844873,Under way using engine,,0.1,208.5,47.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:41,Class A,231859000,57.688997,11.844872,Under way using engine,,0.1,208.5,43.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:45,Class A,231859000,57.688997,11.84487,Under way using engine,,0.2,208.5,39.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:48,Class A,231859000,57.688998,11.844868,Under way using engine,,0.2,208.5,36.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:27:50,Class A,231859000,57.688998,11.844868,Under way using engine,,0.2,208.5,34.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:15,Class A,231859000,57.689015,11.844875,Under way using engine,0.0,0.1,12.8,27.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:19,Class A,231859000,57.689013,11.844875,Under way using engine,,0.1,12.8,28.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:22,Class A,231859000,57.689013,11.844877,Under way using engine,,0.1,12.8,29.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:28,Class A,231859000,57.689013,11.844878,Under way using engine,,0.1,12.8,31.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:51,Class A,231859000,57.689022,11.844905,Under way using engine,,0.2,45.2,33.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:28:54,Class A,231859000,57.689023,11.844912,Under way using engine,,0.2,53.3,31.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:29:32,Class A,231859000,57.689013,11.844953,Under way using engine,,0.3,111.5,25.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:29:38,Class A,231859000,57.68902,11.844965,Under way using engine,,0.4,69.5,32.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:29:41,Class A,231859000,57.689023,11.844977,Under way using engine,,0.4,59.8,34.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:29:55,Class A,231859000,57.689052,11.845032,Under way using engine,,0.6,47.4,47.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:30:22,Class A,231859000,57.689102,11.845193,Under way using engine,0.0,0.7,62.0,52.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:30:31,Class A,231859000,57.689112,11.845218,Under way using engine,0.0,0.4,45.8,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:30:51,Class A,231859000,57.689122,11.845258,Under way using engine,,0.2,56.8,53.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:31:04,Class A,231859000,57.689125,11.845275,Under way using engine,,0.2,79.9,58.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:31:23,Class A,231859000,57.689132,11.845303,Under way using engine,,0.1,85.4,59.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:31:35,Class A,231859000,57.689145,11.845282,Under way using engine,,0.3,312.6,65.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:31:41,Class A,231859000,57.68915,11.845262,Under way using engine,,0.4,298.5,68.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:32:04,Class A,231859000,57.689188,11.845085,Under way using engine,,1.2,290.9,86.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:32:15,Class A,231859000,57.689222,11.844945,Under way using engine,,1.5,294.6,96.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:32:24,Class A,231859000,57.68925,11.844838,Under way using engine,,1.7,296.2,102.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:32:35,Class A,231859000,57.689302,11.844677,Under way using engine,,1.8,305.0,116.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:32:42,Class A,231859000,57.689342,11.844617,Under way using engine,,1.8,317.4,131.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:33:15,Class A,231859000,57.68951,11.844502,Under way using engine,,0.8,356.6,164.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:33:21,Class A,231859000,57.689518,11.844512,Under way using engine,,0.5,19.6,167.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:33:24,Class A,231859000,57.689518,11.844522,Under way using engine,,0.4,46.0,168.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:33:35,Class A,231859000,57.689485,11.844582,Under way using engine,,0.8,139.5,172.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:33:51,Class A,231859000,57.689395,11.844655,Under way using engine,,1.5,159.1,179.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:34:05,Class A,231859000,57.689265,11.844692,Under way using engine,0.0,2.0,172.0,178.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:34:15,Class A,231859000,57.689168,11.844705,Under way using engine,0.0,2.3,175.9,178.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:34:35,Class A,231859000,57.688878,11.844738,Under way using engine,,3.5,175.4,168.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:34:40,Class A,231859000,57.688772,11.844762,Under way using engine,,4.2,173.8,162.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:34:48,Class A,231859000,57.688607,11.844833,Under way using engine,,5.0,167.7,151.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:35:35,Class A,231859000,57.687625,11.846738,Under way using engine,0.0,6.8,119.7,119.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:35:38,Class A,231859000,57.687577,11.846893,Under way using engine,0.0,6.9,120.2,119.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:35:41,Class A,231859000,57.687548,11.847005,Under way using engine,0.0,7.0,118.7,118.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:35:48,Class A,231859000,57.68743,11.847398,Under way using engine,,7.4,118.7,112.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:35:58,Class A,231859000,57.687282,11.848028,Under way using engine,0.0,7.9,114.1,111.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:36:15,Class A,231859000,57.687013,11.849267,Under way using engine,0.0,8.7,111.4,110.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:36:19,Class A,231859000,57.68697,11.84948,Under way using engine,,8.8,111.3,112.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:36:20,Class A,231859000,57.686955,11.849552,Under way using engine,,8.8,111.4,112.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:36:51,Class A,231859000,57.686408,11.851765,Under way using engine,,9.2,114.0,112.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:37:29,Class A,231859000,57.685797,11.854605,Under way using engine,,9.0,110.9,106.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:37:50,Class A,231859000,57.68554,11.856067,Under way using engine,,8.9,107.8,102.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:37:50,Class A,231859000,57.68554,11.856067,Under way using engine,,8.9,107.8,102.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:37:52,Class A,231859000,57.685513,11.85621,Under way using engine,,8.9,107.7,100.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:38:09,Class A,231859000,57.685355,11.857463,Under way using engine,,8.8,102.5,97.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:38:47,Class A,231859000,57.685247,11.860363,Under way using engine,,8.6,88.5,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:38:52,Class A,231859000,57.685262,11.860658,Under way using engine,,8.6,86.2,81.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:39:08,Class A,231859000,57.685348,11.861912,Under way using engine,0.0,8.6,82.3,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:39:11,Class A,231859000,57.685363,11.862132,Under way using engine,0.0,8.6,82.4,80.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:41:24,Class A,231859000,57.68605,11.871565,Under way using engine,0.0,8.1,81.1,78.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:42:35,Class A,231859000,57.686525,11.876357,Under way using engine,0.0,8.1,79.4,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:42:35,Class A,231859000,57.686525,11.876357,Under way using engine,0.0,8.1,79.4,77.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:43:05,Class A,231859000,57.686743,11.87847,Under way using engine,0.0,8.0,78.0,76.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:44:34,Class A,231859000,57.687463,11.884445,Under way using engine,0.0,7.9,77.1,74.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:45:44,Class A,231859000,57.688073,11.889065,Under way using engine,0.0,7.9,77.3,75.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:46:22,Class A,231859000,57.688267,11.89159,Under way using engine,,7.4,89.4,102.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:46:24,Class A,231859000,57.68826,11.891713,Under way using engine,,7.3,92.0,107.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:46:31,Class A,231859000,57.688188,11.892167,Under way using engine,,6.9,104.2,126.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:46:34,Class A,231859000,57.688158,11.892267,Under way using engine,,6.7,108.6,131.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:46:44,Class A,231859000,57.687957,11.89266,Under way using engine,,6.2,134.9,156.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:47:08,Class A,231859000,57.687283,11.892763,Under way using engine,,5.9,191.0,209.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:47:12,Class A,231859000,57.687208,11.892698,Under way using engine,,5.9,197.0,214.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:47:21,Class A,231859000,57.686985,11.89239,Under way using engine,,6.0,215.1,226.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:48:11,Class A,231859000,57.686198,11.89028,Under way using engine,,5.7,240.5,240.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:48:17,Class A,231859000,57.686127,11.890035,Under way using engine,,5.5,241.6,242.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:48:24,Class A,231859000,57.686055,11.889755,Under way using engine,0.0,5.2,243.4,242.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:48:39,Class A,231859000,57.685918,11.88922,Under way using engine,,4.4,245.0,244.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:49:14,Class A,231859000,57.685692,11.88825,Under way using engine,,3.2,245.1,244.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:49:22,Class A,231859000,57.685645,11.888055,Under way using engine,,3.1,245.8,246.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:49:24,Class A,231859000,57.685633,11.888007,Under way using engine,,3.1,246.2,246.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 07:50:28,Class A,231859000,57.68541,11.886747,Under way using engine,,1.4,256.6,259.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 22:23:54,Class A,231859000,57.685373,11.886557,Moored,0.0,0.0,277.7,277.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 23:05:56,Class A,231859000,57.685378,11.886575,Moored,0.0,0.0,277.7,277.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0
+26/11/2024 23:47:53,Class A,231859000,57.68538,11.886572,Moored,0.0,0.0,277.7,277.0,9898917,OZ 2197,SVITZER EMBLA,Tug,,13.0,30.0,GPS,5.0,SEGOT,15/11/2024 17:00:00,AIS,16.0,14.0,7.0,6.0

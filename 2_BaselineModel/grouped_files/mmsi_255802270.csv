@@ -1,0 +1,68 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 00:25:54,Class A,255802270,54.347355,9.760595,Under way using engine,0.0,5.1,228.8,227.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:35:14,Class A,255802270,54.339452,9.745187,Under way using engine,0.0,3.8,231.1,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:13:54,Class A,255802270,54.330323,9.726192,Under way using engine,0.0,0.3,273.8,225.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:29:53,Class A,255802270,54.330013,9.725792,Under way using engine,0.0,0.7,51.1,229.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:58:44,Class A,255802270,54.211795,9.580167,Under way using engine,0.0,5.9,233.6,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:59:15,Class A,255802270,54.211258,9.579017,Under way using engine,0.0,5.9,231.2,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 02:59:54,Class A,255802270,54.210577,9.577542,Under way using engine,0.0,5.9,232.0,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:00:54,Class A,255802270,54.209547,9.575327,Under way using engine,0.0,6.1,231.8,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:01:15,Class A,255802270,54.20917,9.574497,Under way using engine,0.0,6.2,230.8,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:01:44,Class A,255802270,54.20864,9.573383,Under way using engine,0.0,6.3,232.7,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:04:14,Class A,255802270,54.205732,9.567342,Under way using engine,0.0,6.8,230.8,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:11:53,Class A,255802270,54.196912,9.54719,Under way using engine,0.0,7.0,237.3,238.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:12:03,Class A,255802270,54.196733,9.5467,Under way using engine,0.0,7.0,239.3,239.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:12:15,Class A,255802270,54.196527,9.546112,Under way using engine,0.0,7.0,239.3,239.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:12:53,Class A,255802270,54.195908,9.544307,Under way using engine,0.0,6.9,241.6,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:15:15,Class A,255802270,54.193805,9.537352,Under way using engine,0.0,6.9,245.9,246.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:15:54,Class A,255802270,54.193328,9.535413,Under way using engine,0.0,6.8,247.7,248.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:16:35,Class A,255802270,54.192873,9.53331,Under way using engine,0.0,6.8,251.0,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:26:13,Class A,255802270,54.186487,9.50335,Under way using engine,0.0,7.0,250.0,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:26:55,Class A,255802270,54.186043,9.501218,Under way using engine,0.0,7.0,249.5,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:28:13,Class A,255802270,54.18516,9.497128,Under way using engine,0.0,7.0,249.3,248.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:28:24,Class A,255802270,54.185028,9.496558,Under way using engine,0.0,7.0,248.5,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:29:13,Class A,255802270,54.184498,9.494003,Under way using engine,0.0,7.0,250.6,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:35:03,Class A,255802270,54.180567,9.475425,Under way using engine,0.0,7.1,249.9,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:35:44,Class A,255802270,54.180112,9.473232,Under way using engine,0.0,7.1,250.4,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:35:54,Class A,255802270,54.18001,9.472757,Under way using engine,0.0,7.1,250.2,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:37:54,Class A,255802270,54.1787,9.466357,Under way using engine,0.0,7.1,250.6,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:39:44,Class A,255802270,54.177468,9.460517,Under way using engine,0.0,7.1,249.3,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:40:34,Class A,255802270,54.176848,9.457792,Under way using engine,0.0,7.2,247.8,245.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:40:44,Class A,255802270,54.176732,9.45733,Under way using engine,0.0,7.1,246.5,245.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:41:55,Class A,255802270,54.175782,9.453657,Under way using engine,0.0,7.1,246.7,245.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:42:34,Class A,255802270,54.175228,9.451615,Under way using engine,0.0,7.1,244.9,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:44:55,Class A,255802270,54.173158,9.444528,Under way using engine,0.0,7.1,242.9,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:46:23,Class A,255802270,54.171797,9.439972,Under way using engine,0.0,7.2,240.7,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:47:14,Class A,255802270,54.171027,9.437403,Under way using engine,0.0,7.2,242.3,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:48:34,Class A,255802270,54.169735,9.433352,Under way using engine,0.0,7.2,240.9,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:48:55,Class A,255802270,54.169415,9.432328,Under way using engine,0.0,7.1,241.9,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:49:14,Class A,255802270,54.1691,9.431347,Under way using engine,0.0,7.1,241.5,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:50:34,Class A,255802270,54.167825,9.427372,Under way using engine,0.0,7.1,241.2,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:51:23,Class A,255802270,54.167055,9.424947,Under way using engine,0.0,7.2,241.5,241.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:51:30,Class A,255802270,54.167055,9.424947,Under way using engine,0.0,7.2,241.5,241.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:51:34,Class A,255802270,54.16688,9.424398,Under way using engine,0.0,7.2,241.6,241.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:51:44,Class A,255802270,54.166718,9.423898,Under way using engine,0.0,7.2,241.0,241.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:52:03,Class A,255802270,54.166413,9.422953,Under way using engine,0.0,7.2,241.4,242.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:52:14,Class A,255802270,54.166245,9.422395,Under way using engine,0.0,7.1,242.9,242.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:52:23,Class A,255802270,54.16611,9.421942,Under way using engine,0.0,7.1,243.2,242.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:52:34,Class A,255802270,54.165938,9.421387,Under way using engine,0.0,7.2,242.0,243.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:52:54,Class A,255802270,54.16564,9.420358,Under way using engine,0.0,7.1,244.6,245.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:53:34,Class A,255802270,54.165088,9.418305,Under way using engine,0.0,7.0,244.4,243.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:53:44,Class A,255802270,54.164942,9.417808,Under way using engine,0.0,7.0,243.2,243.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:54:23,Class A,255802270,54.164385,9.415885,Under way using engine,0.0,6.9,244.0,245.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:54:34,Class A,255802270,54.164232,9.41534,Under way using engine,0.0,6.9,244.6,245.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 03:55:54,Class A,255802270,54.163245,9.411287,Under way using engine,0.0,6.8,246.8,246.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:00:14,Class A,255802270,54.160113,9.398392,Under way using engine,0.0,6.9,247.2,247.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:01:34,Class A,255802270,54.159157,9.394445,Under way using engine,0.0,6.8,247.8,247.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:01:44,Class A,255802270,54.15903,9.393913,Under way using engine,0.0,6.8,247.9,247.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:02:03,Class A,255802270,54.158803,9.39298,Under way using engine,0.0,6.8,247.8,246.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:02:14,Class A,255802270,54.158655,9.392387,Under way using engine,0.0,6.8,247.4,246.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:02:44,Class A,255802270,54.15827,9.390885,Under way using engine,0.0,6.8,246.2,246.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:03:14,Class A,255802270,54.15789,9.389388,Under way using engine,0.0,6.8,245.9,244.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:04:54,Class A,255802270,54.156597,9.384568,Under way using engine,0.0,6.9,244.2,243.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:05:14,Class A,255802270,54.156303,9.383545,Under way using engine,0.0,6.8,244.1,244.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:05:54,Class A,255802270,54.155757,9.381637,Under way using engine,0.0,6.8,243.3,242.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:37:53,Class A,255802270,54.109523,9.329273,Under way using engine,0.0,6.9,175.1,174.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:38:04,Class A,255802270,54.109173,9.32933,Under way using engine,0.0,6.9,174.6,175.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:38:53,Class A,255802270,54.107593,9.32951,Under way using engine,0.0,6.9,177.2,176.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0
+26/11/2024 04:39:34,Class A,255802270,54.106303,9.329663,Under way using engine,0.0,6.9,177.5,179.0,9467184,CQOM,HUMBER RUNNER,Cargo,,14.0,95.0,GPS,5.6,HULL,27/11/2024 15:00:00,AIS,81.0,14.0,4.0,10.0

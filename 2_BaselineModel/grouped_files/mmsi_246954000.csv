@@ -1,0 +1,6 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 12:50:48,Class A,246954000,53.869037,8.71241,Moored,0.0,0.0,130.5,39.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 21:14:49,Class A,246954000,53.869037,8.71241,Moored,0.0,0.0,130.5,39.0,9697131,PIPS,AQUARIUS-G,Not party to conflict,,15.0,68.0,GPS,4.7,DECUX,26/11/2024 13:00:00,AIS,16.0,52.0,11.0,4.0
+26/11/2024 21:17:53,Class A,246954000,53.869052,8.712422,Moored,0.0,0.0,130.5,39.0,9697131,PIPS,AQUARIUS-G,Not party to conflict,,15.0,68.0,GPS,4.7,DECUX,26/11/2024 13:00:00,AIS,16.0,52.0,11.0,4.0
+26/11/2024 21:20:47,Class A,246954000,53.869035,8.712418,Moored,0.0,0.0,130.5,39.0,9697131,PIPS,AQUARIUS-G,Not party to conflict,,15.0,68.0,GPS,4.7,DECUX,26/11/2024 13:00:00,AIS,16.0,52.0,11.0,4.0
+26/11/2024 23:35:51,Class A,246954000,53.869037,8.712452,Moored,0.0,0.0,312.4,39.0,9697131,PIPS,AQUARIUS-G,Not party to conflict,,15.0,68.0,GPS,4.7,DECUX,26/11/2024 13:00:00,AIS,16.0,52.0,11.0,4.0

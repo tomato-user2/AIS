@@ -1,0 +1,7 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 06:56:57,Class A,265810550,57.702993,11.946462,Under way using engine,,6.8,69.8,66.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:06:48,Class A,265810550,57.703212,11.942332,Under way using engine,,7.0,128.1,120.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 14:08:24,Class A,265810550,57.703212,11.942332,Under way using engine,,7.0,128.1,120.0,Unknown,SBDJ,ELVY,Passenger,No additional information,8.0,32.0,GPS,,SEGOT,,AIS,16.0,16.0,5.0,3.0
+26/11/2024 15:20:21,Class A,265810550,57.702907,11.945322,Under way using engine,,7.0,77.7,68.0,Unknown,SBDJ,ELVY,Passenger,No additional information,8.0,32.0,GPS,,SEGOT,,AIS,16.0,16.0,5.0,3.0
+26/11/2024 15:20:34,Class A,265810550,57.703045,11.946062,Under way using engine,,7.1,66.1,66.0,Unknown,SBDJ,ELVY,Passenger,No additional information,8.0,32.0,GPS,,SEGOT,,AIS,16.0,16.0,5.0,3.0
+26/11/2024 16:32:24,Class A,265810550,57.703047,11.946035,Under way using engine,,7.0,71.1,65.0,Unknown,SBDJ,ELVY,Passenger,No additional information,8.0,32.0,GPS,,SEGOT,,AIS,16.0,16.0,5.0,3.0

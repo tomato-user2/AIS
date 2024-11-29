@@ -1,0 +1,1061 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 07:02:33,Class A,211911000,54.472823,14.082252,Under way using engine,1.1,20.0,92.6,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:03:03,Class A,211911000,54.472703,14.087063,Under way using engine,-3.6,20.4,92.5,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:04:21,Class A,211911000,54.472382,14.098977,Under way using engine,0.0,18.1,94.2,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:04:39,Class A,211911000,54.472292,14.101388,Under way using engine,-1.1,17.8,93.2,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:05:03,Class A,211911000,54.472187,14.104618,Under way using engine,-1.1,15.7,93.1,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:05:21,Class A,211911000,54.472117,14.106777,Under way using engine,-1.1,13.0,93.5,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:05:33,Class A,211911000,54.472078,14.107863,Under way using engine,5.4,11.9,93.5,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:05:39,Class A,211911000,54.47206,14.10842,Under way using engine,-1.1,11.5,93.4,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:05:57,Class A,211911000,54.472008,14.11001,Under way using engine,2.9,10.7,93.5,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:06:03,Class A,211911000,54.471992,14.110518,Under way using engine,3.6,10.6,93.4,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:06:15,Class A,211911000,54.471955,14.111582,Under way using engine,3.6,9.9,93.9,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:06:21,Class A,211911000,54.471937,14.11205,Under way using engine,2.2,9.7,93.6,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:07:46,Class A,211911000,54.47174,14.117448,Under way using engine,2.2,6.8,93.4,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:07:51,Class A,211911000,54.47173,14.11771,Under way using engine,1.1,6.3,93.7,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:09,Class A,211911000,54.471698,14.118577,Under way using engine,-3.6,5.9,93.9,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:15,Class A,211911000,54.47169,14.11885,Under way using engine,-6.4,5.5,93.4,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:21,Class A,211911000,54.471682,14.119162,Under way using engine,2.2,5.6,92.7,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:33,Class A,211911000,54.471668,14.119637,Under way using engine,-1.1,5.4,92.6,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:42,Class A,211911000,54.471658,14.120013,Under way using engine,2.2,5.3,93.1,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:08:46,Class A,211911000,54.471653,14.12018,Under way using engine,0.0,5.1,92.7,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:02,Class A,211911000,54.471637,14.120828,Under way using engine,3.6,5.1,93.1,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:09,Class A,211911000,54.47163,14.121108,Under way using engine,-1.1,4.9,92.6,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:32,Class A,211911000,54.47161,14.122017,Under way using engine,2.9,4.8,92.3,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:42,Class A,211911000,54.471602,14.122408,Under way using engine,10.0,4.9,92.5,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:53,Class A,211911000,54.471585,14.122853,Under way using engine,51.6,5.2,95.6,99.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:57,Class A,211911000,54.471572,14.123022,Under way using engine,61.1,5.3,97.9,103.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:09:58,Class A,211911000,54.471568,14.123063,Under way using engine,61.1,5.3,98.9,104.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:02,Class A,211911000,54.471548,14.12323,Under way using engine,64.5,5.3,102.3,108.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:08,Class A,211911000,54.471503,14.123492,Under way using engine,75.0,5.9,108.7,115.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:11,Class A,211911000,54.471475,14.123622,Under way using engine,67.9,5.8,111.9,119.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:14,Class A,211911000,54.471443,14.123748,Under way using engine,75.0,5.8,115.1,122.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:18,Class A,211911000,54.47139,14.123918,Under way using engine,78.7,6.2,119.9,128.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:25,Class A,211911000,54.471275,14.124205,Under way using engine,86.4,6.3,129.4,136.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:28,Class A,211911000,54.471213,14.124325,Under way using engine,86.4,6.8,131.9,140.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:32,Class A,211911000,54.471123,14.124482,Under way using engine,67.9,6.9,136.7,146.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:10:34,Class A,211911000,54.471075,14.124553,Under way using engine,78.7,6.8,140.0,148.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:11,Class A,211911000,54.469627,14.125167,Under way using engine,1.1,12.2,177.6,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:13,Class A,211911000,54.469453,14.125172,Under way using engine,3.6,12.6,179.7,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:17,Class A,211911000,54.469275,14.125177,Under way using engine,2.9,12.9,178.2,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:20,Class A,211911000,54.469092,14.125188,Under way using engine,3.6,13.3,178.3,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:32,Class A,211911000,54.46829,14.125188,Under way using engine,-2.9,15.5,180.7,181.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:11:42,Class A,211911000,54.467532,14.125192,Under way using engine,6.4,16.9,180.2,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:06,Class A,211911000,54.465567,14.125205,Under way using engine,2.2,18.0,179.5,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:08,Class A,211911000,54.465398,14.125205,Under way using engine,5.4,18.1,180.3,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:11,Class A,211911000,54.465147,14.125205,Under way using engine,1.1,18.2,179.5,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:42,Class A,211911000,54.462508,14.125225,Under way using engine,-2.9,18.4,179.4,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:43,Class A,211911000,54.462423,14.125225,Under way using engine,-5.4,18.3,179.8,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:54,Class A,211911000,54.46149,14.125225,Under way using engine,7.5,18.4,181.1,181.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:12:55,Class A,211911000,54.461405,14.125223,Under way using engine,3.6,18.4,181.0,181.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:13:17,Class A,211911000,54.45945,14.125217,Under way using engine,-10.0,18.4,179.1,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:13:29,Class A,211911000,54.458515,14.125227,Under way using engine,2.2,18.3,179.7,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:13:43,Class A,211911000,54.457325,14.125227,Under way using engine,2.2,18.2,179.9,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:13:54,Class A,211911000,54.456398,14.125237,Under way using engine,-2.9,18.2,179.8,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:14:06,Class A,211911000,54.45539,14.125247,Under way using engine,0.0,18.2,179.5,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:14:08,Class A,211911000,54.455222,14.125248,Under way using engine,-10.0,18.2,179.6,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:14:29,Class A,211911000,54.453442,14.125253,Under way using engine,-6.4,18.3,179.7,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:14:41,Class A,211911000,54.452425,14.125262,Under way using engine,7.5,18.2,180.3,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:15:54,Class A,211911000,54.446247,14.125255,Under way using engine,-5.4,17.0,181.3,182.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:15:55,Class A,211911000,54.446168,14.125252,Under way using engine,-12.9,16.7,181.3,182.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:16:17,Class A,211911000,54.444565,14.12523,Under way using engine,8.7,13.5,180.2,181.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:26:47,Class A,211911000,54.443822,14.10973,Under way using engine,98.6,8.8,280.0,283.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:26:48,Class A,211911000,54.443822,14.10973,Under way using engine,98.6,8.8,280.0,283.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:26:50,Class A,211911000,54.44385,14.109523,Under way using engine,98.6,8.9,284.4,289.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:27:08,Class A,211911000,54.444197,14.108478,Under way using engine,116.1,9.0,313.5,320.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:27:41,Class A,211911000,54.445467,14.107898,Under way using engine,107.2,8.9,14.5,22.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:11,Class A,211911000,54.446292,14.109053,Under way using engine,71.4,6.0,61.9,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:34,Class A,211911000,54.446453,14.109945,Under way using engine,27.9,4.3,81.1,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:36,Class A,211911000,54.446458,14.110012,Under way using engine,14.5,4.2,81.7,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:37,Class A,211911000,54.446462,14.110045,Under way using engine,17.9,4.2,81.7,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:39,Class A,211911000,54.446467,14.110143,Under way using engine,19.7,4.0,84.3,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:28:46,Class A,211911000,54.446478,14.110362,Under way using engine,11.4,3.8,87.8,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:29:07,Class A,211911000,54.446485,14.110955,Under way using engine,-6.4,3.4,90.0,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:29:10,Class A,211911000,54.446485,14.111008,Under way using engine,-5.4,3.3,89.6,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:29:17,Class A,211911000,54.446485,14.111193,Under way using engine,-7.5,3.3,89.8,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:30:07,Class A,211911000,54.446508,14.112512,Under way using engine,2.2,3.2,87.3,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:31:56,Class A,211911000,54.446587,14.115202,Under way using engine,-2.9,2.9,86.6,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:32:16,Class A,211911000,54.446603,14.115667,Under way using engine,1.1,2.9,86.1,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:32:56,Class A,211911000,54.446637,14.11658,Under way using engine,-1.1,2.8,85.7,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:33:16,Class A,211911000,54.446657,14.117027,Under way using engine,0.0,2.8,86.7,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:34:07,Class A,211911000,54.446708,14.118183,Under way using engine,2.9,2.8,85.4,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:35:16,Class A,211911000,54.446775,14.119792,Under way using engine,-2.2,5.2,87.8,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:35:34,Class A,211911000,54.446805,14.120865,Under way using engine,-94.5,8.6,82.0,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:35:50,Class A,211911000,54.447065,14.12197,Under way using engine,-107.2,9.0,55.6,48.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:16,Class A,211911000,54.447932,14.122913,Under way using engine,-40.2,9.6,13.2,7.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:27,Class A,211911000,54.448445,14.123043,Under way using engine,-23.6,10.5,5.2,1.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:34,Class A,211911000,54.448793,14.12308,Under way using engine,-5.4,11.0,2.7,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:41,Class A,211911000,54.449157,14.123098,Under way using engine,8.7,11.3,1.5,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:44,Class A,211911000,54.449315,14.123103,Under way using engine,0.0,11.4,1.2,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:36:57,Class A,211911000,54.450015,14.123122,Under way using engine,5.4,11.8,0.8,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:37:00,Class A,211911000,54.450178,14.123127,Under way using engine,3.6,11.8,1.0,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:37:16,Class A,211911000,54.45106,14.123145,Under way using engine,0.0,11.9,0.6,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:37:27,Class A,211911000,54.451668,14.123157,Under way using engine,2.2,11.9,0.6,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:37:37,Class A,211911000,54.452222,14.123168,Under way using engine,5.4,11.9,0.7,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:37:57,Class A,211911000,54.453332,14.123198,Under way using engine,1.1,11.9,1.2,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:38:16,Class A,211911000,54.454387,14.123218,Under way using engine,0.0,12.0,0.9,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:38:27,Class A,211911000,54.454997,14.12323,Under way using engine,-1.1,11.9,0.6,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:38:38,Class A,211911000,54.455607,14.12324,Under way using engine,2.9,12.0,0.3,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:38:48,Class A,211911000,54.456162,14.123252,Under way using engine,-5.4,12.0,0.9,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:38:57,Class A,211911000,54.456662,14.123262,Under way using engine,-2.9,12.0,0.5,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:18,Class A,211911000,54.457828,14.123282,Under way using engine,5.4,12.0,1.0,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:30,Class A,211911000,54.458483,14.123313,Under way using engine,90.4,11.4,4.7,7.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:33,Class A,211911000,54.458638,14.123345,Under way using engine,102.9,11.1,7.9,12.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:38,Class A,211911000,54.458882,14.123442,Under way using engine,120.7,10.6,16.1,22.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:48,Class A,211911000,54.459302,14.12379,Under way using engine,125.4,9.6,33.2,41.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:39:49,Class A,211911000,54.459337,14.123833,Under way using engine,111.6,9.3,36.3,43.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:03,Class A,211911000,54.459677,14.124445,Under way using engine,78.7,6.6,56.0,65.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:33,Class A,211911000,54.45991,14.125583,Under way using engine,14.5,4.2,82.8,92.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:36,Class A,211911000,54.459918,14.125713,Under way using engine,11.4,4.0,84.8,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:40,Class A,211911000,54.459923,14.125807,Under way using engine,12.9,3.9,86.5,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:43,Class A,211911000,54.459927,14.125898,Under way using engine,8.7,3.7,86.8,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:40:49,Class A,211911000,54.459932,14.126072,Under way using engine,2.9,3.5,88.4,95.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:41:28,Class A,211911000,54.459942,14.127052,Under way using engine,-5.4,2.9,88.9,93.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:41:57,Class A,211911000,54.459957,14.12771,Under way using engine,5.4,2.8,87.8,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:42:07,Class A,211911000,54.459962,14.127933,Under way using engine,5.4,2.8,87.9,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:42:28,Class A,211911000,54.459975,14.128393,Under way using engine,-2.9,2.7,86.6,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:42:37,Class A,211911000,54.459982,14.128587,Under way using engine,-2.9,2.7,86.7,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:43:18,Class A,211911000,54.46002,14.129467,Under way using engine,3.6,2.7,86.2,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:43:47,Class A,211911000,54.460045,14.13009,Under way using engine,-1.1,2.7,85.4,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:43:57,Class A,211911000,54.460053,14.130307,Under way using engine,2.2,2.7,86.7,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:44:07,Class A,211911000,54.460062,14.130522,Under way using engine,-1.1,2.7,85.9,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:44:18,Class A,211911000,54.46007,14.13076,Under way using engine,0.0,2.7,86.7,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:44:57,Class A,211911000,54.460145,14.132638,Under way using engine,-98.6,8.8,75.8,70.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:11,Class A,211911000,54.460393,14.133525,Under way using engine,-107.2,8.9,53.7,46.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:20,Class A,211911000,54.460655,14.133968,Under way using engine,-111.6,8.8,37.4,29.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:24,Class A,211911000,54.460792,14.134118,Under way using engine,-107.2,8.7,30.2,22.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:34,Class A,211911000,54.461165,14.134357,Under way using engine,-107.2,8.6,12.5,4.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:50,Class A,211911000,54.46179,14.134302,Under way using engine,-102.9,8.5,344.0,335.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:54,Class A,211911000,54.461937,14.134207,Under way using engine,-107.2,8.5,336.9,328.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:45:57,Class A,211911000,54.462043,14.134117,Under way using engine,-102.9,8.4,331.6,323.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:10,Class A,211911000,54.462412,14.133597,Under way using engine,-82.5,7.0,312.1,301.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:14,Class A,211911000,54.462487,14.133432,Under way using engine,-78.7,6.4,306.8,296.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:20,Class A,211911000,54.46259,14.133155,Under way using engine,-61.1,5.5,299.4,287.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:24,Class A,211911000,54.462623,14.133043,Under way using engine,-57.9,5.1,296.9,284.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:26,Class A,211911000,54.462653,14.132937,Under way using engine,-51.6,4.9,294.6,282.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 07:46:31,Class A,211911000,54.462685,14.132798,Under way using engine,-48.6,4.5,290.9,278.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:00:00,Class A,211911000,54.464345,14.117578,Under way using engine,32.5,4.0,280.3,280.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:00:04,Class A,211911000,54.464362,14.117447,Under way using engine,51.6,4.3,282.8,283.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:00:21,Class A,211911000,54.464487,14.11685,Under way using engine,48.6,5.0,295.3,298.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:00:51,Class A,211911000,54.464925,14.115788,Under way using engine,-14.5,5.6,307.9,303.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:01:14,Class A,211911000,54.465235,14.11505,Under way using engine,-5.4,4.5,303.7,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:01:18,Class A,211911000,54.465283,14.114933,Under way using engine,-2.9,4.4,303.8,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:01:28,Class A,211911000,54.465397,14.114652,Under way using engine,6.4,4.2,304.6,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:01:38,Class A,211911000,54.465505,14.114385,Under way using engine,6.4,4.0,304.8,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:01:56,Class A,211911000,54.465692,14.113928,Under way using engine,-6.4,3.8,305.9,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:02:18,Class A,211911000,54.465905,14.113422,Under way using engine,7.5,3.3,306.7,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:02:38,Class A,211911000,54.466078,14.113017,Under way using engine,2.9,3.0,307.3,299.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:02:56,Class A,211911000,54.466228,14.112677,Under way using engine,-6.4,2.9,308.8,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:18,Class A,211911000,54.466427,14.11223,Under way using engine,5.4,4.1,307.3,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:28,Class A,211911000,54.46655,14.111932,Under way using engine,-2.9,4.9,304.8,300.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:38,Class A,211911000,54.466685,14.11159,Under way using engine,-42.9,5.3,302.3,296.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:44,Class A,211911000,54.466758,14.111368,Under way using engine,-57.9,5.3,298.3,291.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:47,Class A,211911000,54.466792,14.111255,Under way using engine,-57.9,5.3,295.4,288.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:51,Class A,211911000,54.466833,14.111098,Under way using engine,-61.1,5.3,292.4,284.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:03:54,Class A,211911000,54.46686,14.11098,Under way using engine,-57.9,5.3,290.0,281.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:10:08,Class A,211911000,54.452715,14.093255,Under way using engine,120.7,8.7,271.6,279.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:10:10,Class A,211911000,54.452728,14.09305,Under way using engine,120.7,8.6,277.8,285.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:10:34,Class A,211911000,54.453187,14.091732,Under way using engine,111.6,8.6,321.6,328.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:10:54,Class A,211911000,54.453943,14.091275,Under way using engine,21.6,9.2,355.8,1.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:10:57,Class A,211911000,54.454075,14.091263,Under way using engine,-6.4,9.5,357.7,1.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:00,Class A,211911000,54.45421,14.091257,Under way using engine,-21.6,9.8,359.0,1.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:10,Class A,211911000,54.454737,14.091245,Under way using engine,7.5,10.7,0.1,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:17,Class A,211911000,54.455038,14.091248,Under way using engine,-2.2,11.0,0.8,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:20,Class A,211911000,54.455193,14.091252,Under way using engine,-3.6,11.1,0.8,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:24,Class A,211911000,54.4554,14.091258,Under way using engine,-6.4,11.2,1.0,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:34,Class A,211911000,54.455927,14.091268,Under way using engine,1.1,11.4,0.8,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:47,Class A,211911000,54.456622,14.091277,Under way using engine,-3.6,11.6,0.3,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:11:56,Class A,211911000,54.457107,14.091278,Under way using engine,1.1,11.6,0.5,0.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:12:31,Class A,211911000,54.458955,14.0915,Under way using engine,78.7,11.0,16.6,21.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:12:34,Class A,211911000,54.4591,14.091587,Under way using engine,78.7,10.9,20.0,25.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:13:53,Class A,211911000,54.462268,14.095197,Under way using engine,-45.7,6.9,10.0,2.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:13:59,Class A,211911000,54.462475,14.095243,Under way using engine,-23.6,6.1,6.0,358.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:14:03,Class A,211911000,54.462557,14.095255,Under way using engine,-19.7,5.8,3.8,357.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:14:23,Class A,211911000,54.463025,14.095277,Under way using engine,7.5,4.6,359.6,356.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:14:27,Class A,211911000,54.46311,14.095278,Under way using engine,8.7,4.4,0.2,356.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:15:27,Class A,211911000,54.464148,14.095323,Under way using engine,-1.1,3.1,1.2,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:15:38,Class A,211911000,54.464305,14.095337,Under way using engine,2.2,3.0,2.8,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:15:46,Class A,211911000,54.464417,14.09535,Under way using engine,-2.2,2.9,2.9,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:15:56,Class A,211911000,54.464553,14.095365,Under way using engine,-2.2,2.9,3.8,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:16:07,Class A,211911000,54.4647,14.095382,Under way using engine,3.6,2.8,5.1,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:16:18,Class A,211911000,54.464843,14.095403,Under way using engine,7.5,2.8,7.1,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:16:38,Class A,211911000,54.465097,14.09544,Under way using engine,-2.2,2.7,4.9,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:17:57,Class A,211911000,54.466048,14.095582,Under way using engine,2.2,2.5,5.7,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:18:07,Class A,211911000,54.466165,14.0956,Under way using engine,-2.2,2.5,5.3,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:18:57,Class A,211911000,54.466737,14.095693,Under way using engine,-7.5,2.4,4.2,358.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:19:07,Class A,211911000,54.46685,14.095713,Under way using engine,-7.5,2.4,4.5,358.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:19:27,Class A,211911000,54.467072,14.095752,Under way using engine,1.1,2.4,6.5,358.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:19:38,Class A,211911000,54.467193,14.095773,Under way using engine,2.9,2.4,6.7,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:19:57,Class A,211911000,54.467402,14.095813,Under way using engine,-2.9,2.3,6.3,359.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 08:20:28,Class A,211911000,54.467402,14.095813,Under way using engine,-2.9,2.3,6.3,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:20:38,Class A,211911000,54.46785,14.095907,Under way using engine,-2.9,2.4,7.4,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:20:46,Class A,211911000,54.467938,14.095925,Under way using engine,-3.6,2.4,6.8,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:20:57,Class A,211911000,54.46806,14.095948,Under way using engine,-1.1,2.4,7.2,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:21:27,Class A,211911000,54.468387,14.09601,Under way using engine,3.6,2.3,5.2,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:21:38,Class A,211911000,54.468507,14.096032,Under way using engine,0.0,2.3,5.0,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:21:46,Class A,211911000,54.468595,14.096048,Under way using engine,-1.1,2.3,6.9,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:21:57,Class A,211911000,54.468715,14.09607,Under way using engine,-3.6,2.3,7.2,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:22:16,Class A,211911000,54.468935,14.096112,Under way using engine,2.2,2.3,7.2,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:22:38,Class A,211911000,54.46917,14.096158,Under way using engine,-2.2,2.4,6.8,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:22:46,Class A,211911000,54.469258,14.096177,Under way using engine,-2.2,2.4,7.4,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:22:57,Class A,211911000,54.46938,14.096198,Under way using engine,0.0,2.4,7.5,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:24:57,Class A,211911000,54.470687,14.09645,Under way using engine,2.2,2.3,5.4,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:25:07,Class A,211911000,54.470797,14.096472,Under way using engine,6.4,2.3,9.0,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:25:57,Class A,211911000,54.471332,14.09657,Under way using engine,-3.6,2.2,5.6,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:26:16,Class A,211911000,54.471528,14.096608,Under way using engine,-2.9,2.2,6.3,357.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:26:48,Class A,211911000,54.471857,14.09666,Under way using engine,6.4,2.3,3.9,357.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:26:57,Class A,211911000,54.471953,14.096673,Under way using engine,2.9,2.3,3.1,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:27:27,Class A,211911000,54.472305,14.096727,Under way using engine,0.0,2.6,6.1,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:27:37,Class A,211911000,54.472425,14.096748,Under way using engine,-5.4,2.6,5.5,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:28:07,Class A,211911000,54.472788,14.096807,Under way using engine,-1.1,2.7,5.8,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:28:27,Class A,211911000,54.473053,14.096845,Under way using engine,1.1,2.7,4.3,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:29:27,Class A,211911000,54.47383,14.09698,Under way using engine,-2.9,2.8,6.4,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:29:37,Class A,211911000,54.473962,14.097,Under way using engine,1.1,2.8,5.2,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:29:48,Class A,211911000,54.474093,14.09702,Under way using engine,0.0,2.8,4.7,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:30:07,Class A,211911000,54.474342,14.097057,Under way using engine,7.5,2.8,6.1,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:30:18,Class A,211911000,54.474487,14.097078,Under way using engine,-2.9,2.8,4.6,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:30:47,Class A,211911000,54.474875,14.097138,Under way using engine,-2.2,2.9,3.1,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:31:26,Class A,211911000,54.475392,14.097207,Under way using engine,-2.9,2.8,4.8,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:32:26,Class A,211911000,54.476193,14.097313,Under way using engine,0.0,2.8,3.7,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:32:38,Class A,211911000,54.476353,14.097338,Under way using engine,0.0,2.9,5.6,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:32:47,Class A,211911000,54.476475,14.097358,Under way using engine,1.1,2.9,6.3,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:33:07,Class A,211911000,54.476747,14.097405,Under way using engine,-7.5,2.9,4.6,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:33:18,Class A,211911000,54.476897,14.097432,Under way using engine,-3.6,2.9,7.0,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:33:26,Class A,211911000,54.477007,14.097447,Under way using engine,6.4,2.9,2.9,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:34:26,Class A,211911000,54.477822,14.097565,Under way using engine,-2.9,2.9,6.1,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:35:18,Class A,211911000,54.478532,14.097692,Under way using engine,6.4,3.0,6.5,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:35:26,Class A,211911000,54.478642,14.09771,Under way using engine,1.1,2.9,4.6,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:36:47,Class A,211911000,54.47975,14.097893,Under way using engine,2.2,2.9,5.1,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:37:07,Class A,211911000,54.480027,14.097938,Under way using engine,-1.1,3.0,5.6,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:37:17,Class A,211911000,54.480165,14.09796,Under way using engine,2.9,3.0,5.0,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:37:26,Class A,211911000,54.480293,14.097978,Under way using engine,2.9,3.3,5.0,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:37:47,Class A,211911000,54.480735,14.098015,Under way using engine,6.4,5.4,2.5,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:38:07,Class A,211911000,54.481365,14.098122,Under way using engine,107.2,8.2,14.0,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:38:10,Class A,211911000,54.481477,14.098178,Under way using engine,107.2,8.3,18.7,24.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:39:57,Class A,211911000,54.482437,14.103892,Under way using engine,2.9,4.9,89.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:43:07,Class A,211911000,54.482642,14.108708,Under way using engine,1.1,2.6,82.2,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:50:47,Class A,211911000,54.483308,14.117948,Under way using engine,-1.1,2.3,85.3,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:50:57,Class A,211911000,54.483317,14.118132,Under way using engine,-1.1,2.2,85.1,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:52:47,Class A,211911000,54.48345,14.12021,Under way using engine,-2.9,2.4,84.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:55:38,Class A,211911000,54.483678,14.12365,Under way using engine,-1.1,2.5,83.2,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:55:46,Class A,211911000,54.483688,14.12381,Under way using engine,-2.9,2.5,82.6,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:56:08,Class A,211911000,54.483715,14.124238,Under way using engine,1.1,2.4,84.1,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:56:37,Class A,211911000,54.483753,14.124803,Under way using engine,-2.2,2.4,82.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:57:27,Class A,211911000,54.483828,14.125773,Under way using engine,0.0,2.4,82.9,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:57:57,Class A,211911000,54.48387,14.126352,Under way using engine,-5.4,2.4,83.1,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:58:37,Class A,211911000,54.483933,14.127128,Under way using engine,2.9,2.4,82.6,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:58:57,Class A,211911000,54.483962,14.127517,Under way using engine,0.0,2.4,82.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 08:59:17,Class A,211911000,54.483988,14.127905,Under way using engine,2.2,2.4,84.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:00:17,Class A,211911000,54.484078,14.129092,Under way using engine,0.0,2.5,82.5,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:01:08,Class A,211911000,54.484155,14.130108,Under way using engine,0.0,2.5,81.5,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:01:57,Class A,211911000,54.484235,14.131077,Under way using engine,2.9,2.5,82.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:02:08,Class A,211911000,54.48425,14.131295,Under way using engine,2.9,2.5,82.7,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:02:17,Class A,211911000,54.484263,14.131472,Under way using engine,-6.4,2.5,80.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:03:57,Class A,211911000,54.484408,14.133438,Under way using engine,-3.6,2.4,82.2,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:04:08,Class A,211911000,54.484427,14.133652,Under way using engine,-2.2,2.4,82.3,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:04:17,Class A,211911000,54.48444,14.133825,Under way using engine,2.2,2.4,83.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:04:27,Class A,211911000,54.484453,14.134022,Under way using engine,1.1,2.4,83.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:05:08,Class A,211911000,54.484517,14.134825,Under way using engine,-7.5,2.5,79.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:05:17,Class A,211911000,54.484532,14.134998,Under way using engine,-1.1,2.4,80.3,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:08:36,Class A,211911000,54.484863,14.138857,Under way using engine,-2.2,2.4,80.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:08:46,Class A,211911000,54.48488,14.139067,Under way using engine,5.4,2.4,83.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:08:57,Class A,211911000,54.484897,14.139258,Under way using engine,3.6,2.4,82.2,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:09:18,Class A,211911000,54.484927,14.139662,Under way using engine,6.4,2.4,84.9,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:09:36,Class A,211911000,54.484953,14.140005,Under way using engine,-2.9,2.3,83.5,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:09:47,Class A,211911000,54.484968,14.140213,Under way using engine,1.1,2.3,83.2,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:09:57,Class A,211911000,54.484983,14.140405,Under way using engine,2.9,2.4,83.2,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:11:36,Class A,211911000,54.485142,14.142342,Under way using engine,2.9,2.5,82.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:11:57,Class A,211911000,54.485167,14.142758,Under way using engine,-2.2,2.5,84.0,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:12:28,Class A,211911000,54.485192,14.143345,Under way using engine,-2.2,2.3,85.6,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:12:57,Class A,211911000,54.485218,14.143877,Under way using engine,-5.4,2.3,84.5,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:13:36,Class A,211911000,54.48527,14.14462,Under way using engine,2.9,2.4,83.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:13:57,Class A,211911000,54.485297,14.145008,Under way using engine,-1.1,2.5,81.1,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:14:28,Class A,211911000,54.485333,14.145602,Under way using engine,1.1,2.4,84.4,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:14:36,Class A,211911000,54.485343,14.145772,Under way using engine,-5.4,2.3,84.4,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:14:57,Class A,211911000,54.485367,14.146145,Under way using engine,0.0,2.3,83.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:15:28,Class A,211911000,54.48541,14.146732,Under way using engine,-2.9,2.4,79.8,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:15:36,Class A,211911000,54.485427,14.146905,Under way using engine,2.2,2.4,81.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:16:57,Class A,211911000,54.485538,14.149917,Under way using engine,-2.9,9.7,88.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:16,Class A,211911000,54.485627,14.151415,Under way using engine,-90.4,9.9,74.4,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:26,Class A,211911000,54.48581,14.152145,Under way using engine,-82.5,10.1,60.4,55.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:28,Class A,211911000,54.48586,14.152282,Under way using engine,-61.1,10.1,57.5,52.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:33,Class A,211911000,54.485998,14.152615,Under way using engine,1.1,10.3,53.5,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:36,Class A,211911000,54.486087,14.152813,Under way using engine,2.9,10.6,51.4,49.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:39,Class A,211911000,54.486212,14.153078,Under way using engine,6.4,10.7,51.4,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:43,Class A,211911000,54.486307,14.153282,Under way using engine,0.0,10.9,51.1,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:46,Class A,211911000,54.486437,14.153553,Under way using engine,-7.5,11.1,50.1,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:53,Class A,211911000,54.486635,14.153968,Under way using engine,2.2,11.3,50.2,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:17:57,Class A,211911000,54.486772,14.154243,Under way using engine,-5.4,11.4,49.4,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:03,Class A,211911000,54.486975,14.154663,Under way using engine,-3.6,11.5,50.2,50.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:16,Class A,211911000,54.48742,14.155585,Under way using engine,-25.7,11.6,49.5,49.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:28,Class A,211911000,54.487852,14.156408,Under way using engine,-10.0,11.6,46.6,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:36,Class A,211911000,54.488192,14.15701,Under way using engine,-2.2,11.7,45.4,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:46,Class A,211911000,54.488575,14.157672,Under way using engine,5.4,11.8,45.6,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:18:57,Class A,211911000,54.488985,14.158375,Under way using engine,1.1,13.1,44.6,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:07,Class A,211911000,54.489435,14.159142,Under way using engine,-2.2,14.0,44.7,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:16,Class A,211911000,54.489855,14.159863,Under way using engine,-3.6,14.4,44.9,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:19,Class A,211911000,54.489998,14.160108,Under way using engine,2.9,14.5,44.9,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:25,Class A,211911000,54.490285,14.1606,Under way using engine,1.1,14.6,44.6,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:28,Class A,211911000,54.49043,14.160847,Under way using engine,0.0,14.7,44.7,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:31,Class A,211911000,54.490573,14.161095,Under way using engine,3.6,14.7,45.3,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:38,Class A,211911000,54.490912,14.161677,Under way using engine,-2.9,14.7,45.3,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:43,Class A,211911000,54.491153,14.162093,Under way using engine,-7.5,14.8,44.6,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:46,Class A,211911000,54.491348,14.162427,Under way using engine,-11.4,14.8,44.5,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:49,Class A,211911000,54.491445,14.162595,Under way using engine,0.0,14.9,45.4,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:55,Class A,211911000,54.491788,14.163175,Under way using engine,-7.5,14.9,44.3,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:19:57,Class A,211911000,54.491837,14.16326,Under way using engine,3.6,14.9,45.0,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:07,Class A,211911000,54.492328,14.164088,Under way using engine,14.5,14.9,44.8,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:14,Class A,211911000,54.492668,14.164673,Under way using engine,6.4,14.9,44.8,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:19,Class A,211911000,54.492912,14.165093,Under way using engine,1.1,14.9,45.1,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:25,Class A,211911000,54.493203,14.165598,Under way using engine,-16.1,14.9,45.0,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:33,Class A,211911000,54.493203,14.165598,Under way using engine,-16.1,14.9,45.0,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:37,Class A,211911000,54.493797,14.166588,Under way using engine,-6.4,14.9,42.9,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:43,Class A,211911000,54.4941,14.167075,Under way using engine,-1.1,15.0,43.3,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:49,Class A,211911000,54.494403,14.167562,Under way using engine,11.4,14.9,43.3,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:20:55,Class A,211911000,54.494757,14.168127,Under way using engine,-3.6,14.9,42.9,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:02,Class A,211911000,54.495058,14.168613,Under way using engine,-11.4,14.9,42.8,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:07,Class A,211911000,54.495312,14.169017,Under way using engine,6.4,14.9,43.3,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:19,Class A,211911000,54.495915,14.169993,Under way using engine,2.2,14.9,43.2,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:25,Class A,211911000,54.496217,14.170485,Under way using engine,6.4,14.9,43.6,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:31,Class A,211911000,54.496517,14.170973,Under way using engine,8.7,14.9,43.9,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:37,Class A,211911000,54.49682,14.17146,Under way using engine,-2.9,14.9,43.1,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:43,Class A,211911000,54.497123,14.171947,Under way using engine,6.4,15.0,42.9,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:21:55,Class A,211911000,54.497778,14.172997,Under way using engine,-8.7,14.9,43.3,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:02,Class A,211911000,54.498078,14.173483,Under way using engine,12.9,14.9,43.7,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:07,Class A,211911000,54.49833,14.173887,Under way using engine,2.2,14.9,43.0,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:25,Class A,211911000,54.49924,14.175338,Under way using engine,2.2,14.9,43.2,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:31,Class A,211911000,54.499542,14.175825,Under way using engine,-3.6,14.9,43.3,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:37,Class A,211911000,54.499843,14.176313,Under way using engine,-2.2,14.9,43.4,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:43,Class A,211911000,54.500148,14.176795,Under way using engine,3.6,14.9,42.6,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:49,Class A,211911000,54.500453,14.17728,Under way using engine,12.9,14.9,43.4,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:22:55,Class A,211911000,54.500805,14.177847,Under way using engine,-2.9,14.9,42.8,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:02,Class A,211911000,54.501107,14.178338,Under way using engine,-10.0,14.9,43.1,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:07,Class A,211911000,54.501358,14.178747,Under way using engine,-7.5,14.9,42.9,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:19,Class A,211911000,54.501962,14.179727,Under way using engine,-19.7,15.0,43.4,42.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:25,Class A,211911000,54.50227,14.180198,Under way using engine,-27.9,14.9,40.3,39.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:31,Class A,211911000,54.50259,14.180648,Under way using engine,23.6,14.9,39.6,39.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:37,Class A,211911000,54.502907,14.181102,Under way using engine,5.4,14.9,39.7,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:23:43,Class A,211911000,54.503223,14.181557,Under way using engine,1.1,14.9,39.6,39.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:24:38,Class A,211911000,54.506323,14.185293,Under way using engine,-2.2,14.9,34.2,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:25:19,Class A,211911000,54.508668,14.188035,Under way using engine,-3.6,15.0,34.4,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:26:02,Class A,211911000,54.511025,14.190775,Under way using engine,2.2,12.6,34.9,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:26:38,Class A,211911000,54.512647,14.192677,Under way using engine,-11.4,10.1,33.2,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:26:43,Class A,211911000,54.512833,14.192893,Under way using engine,-3.6,9.5,33.7,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:26:55,Class A,211911000,54.513218,14.19334,Under way using engine,-2.9,7.6,33.8,33.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:02,Class A,211911000,54.51341,14.193562,Under way using engine,-3.6,6.8,34.0,32.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:07,Class A,211911000,54.513537,14.193705,Under way using engine,1.1,6.3,34.6,32.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:13,Class A,211911000,54.513678,14.193865,Under way using engine,1.1,5.9,33.2,32.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:38,Class A,211911000,54.514152,14.194402,Under way using engine,-3.6,4.1,32.0,31.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:43,Class A,211911000,54.514225,14.19449,Under way using engine,-7.5,3.8,34.3,31.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:27:55,Class A,211911000,54.51439,14.19468,Under way using engine,-16.1,3.3,31.9,30.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:02,Class A,211911000,54.51447,14.194772,Under way using engine,-10.0,2.7,35.9,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:07,Class A,211911000,54.514517,14.194827,Under way using engine,-11.4,2.3,39.3,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:13,Class A,211911000,54.514568,14.194887,Under way using engine,-14.5,2.2,31.5,26.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:19,Class A,211911000,54.514617,14.194947,Under way using engine,-11.4,2.1,38.2,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:26,Class A,211911000,54.51467,14.195012,Under way using engine,-12.9,2.0,37.1,22.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:38,Class A,211911000,54.514735,14.195102,Under way using engine,-19.7,1.1,49.5,18.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:41,Class A,211911000,54.514745,14.195118,Under way using engine,-23.6,1.0,46.6,17.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:45,Class A,211911000,54.514755,14.195142,Under way using engine,-11.4,0.9,58.1,15.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:47,Class A,211911000,54.514758,14.195153,Under way using engine,-27.9,0.7,59.6,15.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:55,Class A,211911000,54.514765,14.195193,Under way using engine,-17.9,0.5,86.8,13.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:28:59,Class A,211911000,54.514765,14.195212,Under way using engine,-7.5,0.5,82.3,12.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:02,Class A,211911000,54.514767,14.195227,Under way using engine,-12.9,0.5,78.1,12.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:06,Class A,211911000,54.514767,14.195245,Under way using engine,-11.4,0.5,80.3,11.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:07,Class A,211911000,54.514768,14.195248,Under way using engine,-11.4,0.5,76.7,11.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:10,Class A,211911000,54.51477,14.195263,Under way using engine,-7.5,0.5,78.1,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:12,Class A,211911000,54.514772,14.195278,Under way using engine,-16.1,0.6,77.1,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:16,Class A,211911000,54.514773,14.195293,Under way using engine,-14.5,0.6,83.4,9.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:19,Class A,211911000,54.514773,14.195307,Under way using engine,-2.9,0.6,83.0,8.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:26,Class A,211911000,54.514775,14.195342,Under way using engine,6.4,0.7,83.2,7.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:26,Class A,211911000,54.514775,14.195342,Under way using engine,6.4,0.7,83.2,7.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:30,Class A,211911000,54.514777,14.195362,Under way using engine,7.5,0.6,77.1,7.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:38,Class A,211911000,54.514785,14.195402,Under way using engine,1.1,0.6,74.9,8.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:29:43,Class A,211911000,54.51479,14.195425,Under way using engine,0.0,0.5,67.1,8.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:30:10,Class A,211911000,54.514843,14.195553,Under way using engine,7.5,0.7,42.4,11.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:30:19,Class A,211911000,54.514867,14.195595,Under way using engine,17.9,0.9,43.6,12.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:30:30,Class A,211911000,54.514902,14.195643,Under way using engine,14.5,0.8,37.5,14.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:30:39,Class A,211911000,54.514933,14.195688,Under way using engine,16.1,0.9,38.1,16.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:30:59,Class A,211911000,54.514993,14.19577,Under way using engine,17.9,0.8,35.7,21.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:09,Class A,211911000,54.515028,14.195815,Under way using engine,16.1,0.9,33.9,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:10,Class A,211911000,54.515032,14.19582,Under way using engine,27.9,0.9,36.6,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:12,Class A,211911000,54.51504,14.195828,Under way using engine,23.6,0.9,36.7,26.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:16,Class A,211911000,54.515055,14.195848,Under way using engine,17.9,1.0,35.9,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:30,Class A,211911000,54.515112,14.195922,Under way using engine,27.9,1.1,35.3,34.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:36,Class A,211911000,54.515137,14.195953,Under way using engine,21.6,1.1,39.7,37.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:39,Class A,211911000,54.515152,14.195973,Under way using engine,19.7,1.0,37.3,38.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:42,Class A,211911000,54.515158,14.195985,Under way using engine,19.7,1.0,44.0,39.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:46,Class A,211911000,54.515173,14.196007,Under way using engine,25.7,1.0,44.9,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:49,Class A,211911000,54.515185,14.196022,Under way using engine,21.6,1.0,39.1,42.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:53,Class A,211911000,54.515198,14.196043,Under way using engine,19.7,0.9,40.4,43.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:56,Class A,211911000,54.515208,14.196058,Under way using engine,19.7,0.9,38.6,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:31:59,Class A,211911000,54.515218,14.196075,Under way using engine,27.9,0.9,45.9,45.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:02,Class A,211911000,54.515228,14.196088,Under way using engine,23.6,0.8,41.9,47.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:06,Class A,211911000,54.515238,14.196108,Under way using engine,23.6,0.8,45.1,48.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:13,Class A,211911000,54.515258,14.196138,Under way using engine,23.6,0.7,41.8,51.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:19,Class A,211911000,54.515272,14.196162,Under way using engine,25.7,0.7,43.5,54.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:22,Class A,211911000,54.51528,14.196177,Under way using engine,21.6,0.6,43.6,56.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:30,Class A,211911000,54.515295,14.196203,Under way using engine,32.5,0.6,48.8,59.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:32,Class A,211911000,54.515295,14.196203,Under way using engine,32.5,0.6,48.8,59.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:33,Class A,211911000,54.515302,14.196212,Under way using engine,27.9,0.6,41.8,60.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:36,Class A,211911000,54.515307,14.196223,Under way using engine,27.9,0.6,45.0,62.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:39,Class A,211911000,54.515315,14.196235,Under way using engine,25.7,0.5,38.2,64.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:43,Class A,211911000,54.51532,14.196245,Under way using engine,35.0,0.5,54.8,65.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:49,Class A,211911000,54.51533,14.196262,Under way using engine,27.9,0.5,39.1,68.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:52,Class A,211911000,54.515335,14.19627,Under way using engine,27.9,0.5,44.4,69.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:56,Class A,211911000,54.515342,14.196282,Under way using engine,32.5,0.4,45.9,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:32:59,Class A,211911000,54.515347,14.19629,Under way using engine,30.2,0.4,45.9,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:03,Class A,211911000,54.515353,14.1963,Under way using engine,35.0,0.4,42.6,75.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:32,Class A,211911000,54.515408,14.196357,Under way using engine,25.7,0.5,40.7,88.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:36,Class A,211911000,54.515417,14.19637,Under way using engine,17.9,0.6,45.9,89.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:39,Class A,211911000,54.515427,14.196388,Under way using engine,16.1,0.7,50.0,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:43,Class A,211911000,54.515433,14.196403,Under way using engine,11.4,0.8,51.8,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:49,Class A,211911000,54.515448,14.196437,Under way using engine,10.0,0.8,55.8,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:56,Class A,211911000,54.515463,14.196482,Under way using engine,2.2,0.9,60.7,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:33:59,Class A,211911000,54.51547,14.196502,Under way using engine,3.6,1.0,63.8,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:03,Class A,211911000,54.51548,14.196532,Under way using engine,6.4,1.0,64.0,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:06,Class A,211911000,54.515487,14.196557,Under way using engine,10.0,1.1,66.3,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:10,Class A,211911000,54.515495,14.19659,Under way using engine,10.0,1.1,68.4,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:19,Class A,211911000,54.515513,14.196673,Under way using engine,2.9,1.3,66.8,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:30,Class A,211911000,54.515533,14.196792,Under way using engine,7.5,1.5,74.3,96.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:38,Class A,211911000,54.515547,14.19689,Under way using engine,5.4,1.6,76.3,97.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:49,Class A,211911000,54.515563,14.19704,Under way using engine,2.9,1.8,79.7,98.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:34:59,Class A,211911000,54.515573,14.197183,Under way using engine,5.4,1.7,81.8,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:09,Class A,211911000,54.515587,14.197307,Under way using engine,2.9,1.4,77.1,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:19,Class A,211911000,54.5156,14.197417,Under way using engine,2.9,1.3,76.4,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:30,Class A,211911000,54.515615,14.197538,Under way using engine,5.4,1.4,80.1,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:38,Class A,211911000,54.515625,14.19763,Under way using engine,6.4,1.4,75.4,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:49,Class A,211911000,54.51564,14.197748,Under way using engine,2.9,1.3,78.4,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:35:59,Class A,211911000,54.515653,14.19785,Under way using engine,-2.2,1.3,74.9,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:36:09,Class A,211911000,54.515665,14.197952,Under way using engine,-5.4,1.3,78.3,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:36:30,Class A,211911000,54.515692,14.198155,Under way using engine,-2.9,1.2,78.9,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:36:38,Class A,211911000,54.515702,14.198232,Under way using engine,-8.7,1.2,73.9,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:36:59,Class A,211911000,54.515727,14.19843,Under way using engine,-6.4,1.1,82.3,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:09,Class A,211911000,54.515737,14.198522,Under way using engine,-10.0,1.2,76.6,97.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:19,Class A,211911000,54.515748,14.198615,Under way using engine,1.1,1.2,79.4,96.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:30,Class A,211911000,54.515763,14.198737,Under way using engine,6.4,1.5,79.8,97.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:38,Class A,211911000,54.515773,14.198843,Under way using engine,5.4,1.7,81.7,98.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:50,Class A,211911000,54.515788,14.199015,Under way using engine,1.1,1.7,78.7,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:37:59,Class A,211911000,54.515802,14.199128,Under way using engine,6.4,1.6,79.4,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:09,Class A,211911000,54.515813,14.199262,Under way using engine,-1.1,1.7,82.8,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:19,Class A,211911000,54.515822,14.199398,Under way using engine,-2.2,1.7,82.3,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:30,Class A,211911000,54.51583,14.19955,Under way using engine,-8.7,1.7,83.1,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:32,Class A,211911000,54.51583,14.19955,Under way using engine,-8.7,1.7,83.1,99.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:39,Class A,211911000,54.515837,14.199675,Under way using engine,-7.5,1.7,84.2,98.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:38:50,Class A,211911000,54.515842,14.199827,Under way using engine,-10.0,1.7,85.0,97.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:00,Class A,211911000,54.515847,14.199965,Under way using engine,-11.4,1.7,85.8,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:09,Class A,211911000,54.515852,14.200088,Under way using engine,-6.4,1.7,83.8,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:19,Class A,211911000,54.515858,14.200225,Under way using engine,1.1,1.7,84.8,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:30,Class A,211911000,54.515868,14.20039,Under way using engine,5.4,2.1,85.5,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:39,Class A,211911000,54.515875,14.200548,Under way using engine,-5.4,2.3,85.0,96.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:39:50,Class A,211911000,54.51588,14.200757,Under way using engine,-11.4,2.4,86.2,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:40:00,Class A,211911000,54.515883,14.200957,Under way using engine,-7.5,2.5,88.8,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:40:09,Class A,211911000,54.51589,14.201145,Under way using engine,-12.9,2.6,86.7,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:40:30,Class A,211911000,54.515912,14.201618,Under way using engine,6.4,3.0,85.7,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:40:39,Class A,211911000,54.515923,14.201837,Under way using engine,1.1,3.1,84.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:40:50,Class A,211911000,54.515938,14.202113,Under way using engine,2.2,3.1,85.3,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:41:00,Class A,211911000,54.515953,14.202363,Under way using engine,-7.5,3.1,84.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:41:18,Class A,211911000,54.51598,14.202807,Under way using engine,2.2,3.1,84.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:41:30,Class A,211911000,54.515993,14.2031,Under way using engine,2.9,3.0,86.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:41:39,Class A,211911000,54.516003,14.203315,Under way using engine,-5.4,3.0,86.3,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:41:50,Class A,211911000,54.516017,14.203575,Under way using engine,-3.6,2.9,84.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:00,Class A,211911000,54.51603,14.20381,Under way using engine,-1.1,2.9,84.3,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:09,Class A,211911000,54.516043,14.204022,Under way using engine,0.0,2.9,83.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:18,Class A,211911000,54.516055,14.204233,Under way using engine,1.1,2.9,83.6,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:30,Class A,211911000,54.51607,14.204517,Under way using engine,2.2,2.9,84.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:39,Class A,211911000,54.516082,14.204728,Under way using engine,-3.6,3.0,84.4,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:42:50,Class A,211911000,54.516097,14.204983,Under way using engine,-2.9,2.9,83.8,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:43:00,Class A,211911000,54.516112,14.205218,Under way using engine,-1.1,2.9,83.4,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:43:10,Class A,211911000,54.516128,14.205453,Under way using engine,0.0,2.9,82.6,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:43:30,Class A,211911000,54.516157,14.20592,Under way using engine,6.4,2.9,85.8,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:43:39,Class A,211911000,54.516172,14.20613,Under way using engine,1.1,2.9,84.4,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:43:50,Class A,211911000,54.516187,14.206388,Under way using engine,-7.5,3.0,82.8,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:00,Class A,211911000,54.5162,14.206623,Under way using engine,5.4,2.9,85.2,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:10,Class A,211911000,54.516213,14.20686,Under way using engine,-1.1,2.9,85.1,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:29,Class A,211911000,54.516237,14.20731,Under way using engine,-1.1,3.0,84.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:33,Class A,211911000,54.516237,14.20731,Under way using engine,-1.1,3.0,84.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:39,Class A,211911000,54.51625,14.207548,Under way using engine,-2.9,3.0,83.1,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:44:49,Class A,211911000,54.516262,14.207788,Under way using engine,3.6,3.0,84.4,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:00,Class A,211911000,54.516277,14.208052,Under way using engine,-1.1,3.0,83.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:10,Class A,211911000,54.516292,14.20829,Under way using engine,-1.1,3.0,82.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:18,Class A,211911000,54.516303,14.20848,Under way using engine,-3.6,2.9,85.3,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:39,Class A,211911000,54.516333,14.208975,Under way using engine,-2.2,2.9,83.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:49,Class A,211911000,54.51635,14.209205,Under way using engine,0.0,2.8,83.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:45:59,Class A,211911000,54.516365,14.209435,Under way using engine,1.1,2.9,84.9,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:46:10,Class A,211911000,54.51638,14.20969,Under way using engine,1.1,2.9,84.7,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:46:18,Class A,211911000,54.51639,14.209877,Under way using engine,7.5,2.9,84.8,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:46:29,Class A,211911000,54.516403,14.210133,Under way using engine,2.9,3.0,84.8,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:46:39,Class A,211911000,54.516413,14.210365,Under way using engine,-2.2,2.9,85.4,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:46:49,Class A,211911000,54.516425,14.210595,Under way using engine,-11.4,2.9,82.9,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:10,Class A,211911000,54.516453,14.21108,Under way using engine,2.2,2.9,84.5,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:18,Class A,211911000,54.516463,14.211265,Under way using engine,0.0,2.9,84.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:29,Class A,211911000,54.516478,14.211518,Under way using engine,-8.7,2.9,82.3,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:39,Class A,211911000,54.516493,14.211752,Under way using engine,2.9,2.9,85.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:49,Class A,211911000,54.516507,14.211985,Under way using engine,-2.2,2.9,84.9,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:47:59,Class A,211911000,54.516522,14.212222,Under way using engine,11.4,2.9,83.9,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:10,Class A,211911000,54.516538,14.212482,Under way using engine,5.4,2.9,84.1,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:18,Class A,211911000,54.51655,14.212668,Under way using engine,2.9,2.9,85.1,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:29,Class A,211911000,54.516567,14.212923,Under way using engine,-6.4,2.9,84.2,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:39,Class A,211911000,54.516582,14.213177,Under way using engine,-8.7,2.9,83.3,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:49,Class A,211911000,54.516595,14.213383,Under way using engine,-2.2,2.9,83.7,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:48:59,Class A,211911000,54.51661,14.213613,Under way using engine,1.1,2.9,83.0,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:10,Class A,211911000,54.516625,14.21387,Under way using engine,2.2,2.9,83.5,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:20,Class A,211911000,54.516635,14.214147,Under way using engine,-32.5,4.4,87.4,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:29,Class A,211911000,54.516648,14.214568,Under way using engine,23.6,6.8,86.1,87.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:39,Class A,211911000,54.516655,14.215173,Under way using engine,98.6,8.1,92.9,98.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:39,Class A,211911000,54.516652,14.215238,Under way using engine,98.6,8.1,94.1,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:43,Class A,211911000,54.516637,14.215433,Under way using engine,107.2,8.3,98.4,105.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:46,Class A,211911000,54.516613,14.215628,Under way using engine,116.1,8.3,103.6,110.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:49,Class A,211911000,54.516582,14.215822,Under way using engine,111.6,8.4,107.1,116.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:56,Class A,211911000,54.516468,14.21625,Under way using engine,116.1,8.4,118.3,128.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:49:59,Class A,211911000,54.516403,14.21642,Under way using engine,107.2,8.4,124.2,133.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:50:03,Class A,211911000,54.516307,14.216632,Under way using engine,111.6,8.4,131.3,140.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:50:06,Class A,211911000,54.516227,14.216777,Under way using engine,111.6,8.4,135.0,145.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:50:10,Class A,211911000,54.516107,14.216947,Under way using engine,116.1,8.4,142.1,152.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:50:13,Class A,211911000,54.51601,14.217058,Under way using engine,111.6,8.3,147.6,157.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:50:23,Class A,211911000,54.515655,14.217313,Under way using engine,98.6,8.3,164.3,175.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:03,Class A,211911000,54.514305,14.216468,Under way using engine,35.0,8.8,233.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:06,Class A,211911000,54.514233,14.216292,Under way using engine,2.9,9.1,235.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:16,Class A,211911000,54.514005,14.215662,Under way using engine,0.0,8.9,239.5,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:20,Class A,211911000,54.513925,14.215433,Under way using engine,-2.2,8.1,239.3,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:23,Class A,211911000,54.51387,14.215273,Under way using engine,7.5,7.6,239.1,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:26,Class A,211911000,54.51382,14.215122,Under way using engine,8.7,7.2,240.5,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:29,Class A,211911000,54.513772,14.214977,Under way using engine,3.6,6.8,240.6,242.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:36,Class A,211911000,54.513672,14.214665,Under way using engine,-2.9,6.1,241.5,242.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:39,Class A,211911000,54.51362,14.2145,Under way using engine,-2.9,5.7,242.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:43,Class A,211911000,54.513582,14.214382,Under way using engine,-14.5,5.5,241.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:46,Class A,211911000,54.513547,14.214268,Under way using engine,-14.5,5.3,242.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:51:50,Class A,211911000,54.5135,14.214125,Under way using engine,-17.9,5.1,240.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:52:09,Class A,211911000,54.513305,14.213527,Under way using engine,-2.2,4.2,240.0,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:52:20,Class A,211911000,54.513205,14.213223,Under way using engine,-2.9,3.8,240.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:52:29,Class A,211911000,54.513127,14.212992,Under way using engine,2.2,3.6,240.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:52:39,Class A,211911000,54.51304,14.212722,Under way using engine,0.0,3.4,241.6,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:52:50,Class A,211911000,54.512967,14.212487,Under way using engine,5.4,3.2,242.1,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:53:20,Class A,211911000,54.512768,14.211825,Under way using engine,7.5,2.9,241.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:53:29,Class A,211911000,54.512712,14.211637,Under way using engine,7.5,2.9,239.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:53:39,Class A,211911000,54.51265,14.211432,Under way using engine,-2.2,2.8,241.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:53:50,Class A,211911000,54.512582,14.211213,Under way using engine,1.1,2.8,241.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:54:09,Class A,211911000,54.512472,14.210842,Under way using engine,3.6,2.7,243.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:54:20,Class A,211911000,54.51241,14.210628,Under way using engine,-7.5,2.7,243.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:54:29,Class A,211911000,54.51236,14.210457,Under way using engine,-7.5,2.7,242.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:54:39,Class A,211911000,54.512305,14.210268,Under way using engine,0.0,2.6,242.8,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:54:48,Class A,211911000,54.512258,14.210098,Under way using engine,7.5,2.6,241.5,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:55:00,Class A,211911000,54.512192,14.209877,Under way using engine,1.1,2.5,242.9,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:55:09,Class A,211911000,54.512142,14.209712,Under way using engine,0.0,2.6,242.6,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:55:20,Class A,211911000,54.512078,14.209513,Under way using engine,-10.0,2.6,238.6,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:55:29,Class A,211911000,54.512027,14.209352,Under way using engine,-2.2,2.6,240.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:55:39,Class A,211911000,54.511968,14.20917,Under way using engine,5.4,2.5,241.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:56:00,Class A,211911000,54.51185,14.208787,Under way using engine,-2.9,2.6,240.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:56:09,Class A,211911000,54.5118,14.208622,Under way using engine,7.5,2.5,244.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:56:29,Class A,211911000,54.511688,14.208253,Under way using engine,3.6,2.6,241.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:56:35,Class A,211911000,54.511688,14.208253,Under way using engine,3.6,2.6,241.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:56:39,Class A,211911000,54.511633,14.208068,Under way using engine,2.9,2.6,242.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:57:00,Class A,211911000,54.511518,14.20768,Under way using engine,-3.6,2.6,244.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:57:09,Class A,211911000,54.511468,14.207515,Under way using engine,-3.6,2.6,243.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:57:29,Class A,211911000,54.511362,14.207142,Under way using engine,2.9,2.6,244.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:57:39,Class A,211911000,54.511308,14.206955,Under way using engine,2.2,2.6,243.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:58:09,Class A,211911000,54.511147,14.206392,Under way using engine,-3.6,2.6,242.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:58:29,Class A,211911000,54.51104,14.206017,Under way using engine,5.4,2.6,244.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:58:40,Class A,211911000,54.510982,14.20581,Under way using engine,5.4,2.5,244.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:59:00,Class A,211911000,54.510875,14.205435,Under way using engine,-5.4,2.6,242.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:59:09,Class A,211911000,54.510827,14.205268,Under way using engine,-2.2,2.6,241.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:59:19,Class A,211911000,54.510772,14.205085,Under way using engine,-2.2,2.6,241.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:59:29,Class A,211911000,54.510717,14.204902,Under way using engine,0.0,2.6,242.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 09:59:40,Class A,211911000,54.510657,14.204698,Under way using engine,1.1,2.6,244.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:00:00,Class A,211911000,54.510555,14.204325,Under way using engine,-3.6,2.6,246.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:00:09,Class A,211911000,54.51051,14.204155,Under way using engine,2.9,2.5,246.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:00:19,Class A,211911000,54.510462,14.203967,Under way using engine,-8.7,2.5,243.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:00:29,Class A,211911000,54.510412,14.20378,Under way using engine,-2.2,2.5,244.2,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:01:00,Class A,211911000,54.510255,14.203217,Under way using engine,-11.4,2.5,243.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:01:09,Class A,211911000,54.51021,14.203053,Under way using engine,-2.2,2.5,243.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:01:19,Class A,211911000,54.510158,14.202872,Under way using engine,-5.4,2.5,243.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:01:29,Class A,211911000,54.510107,14.20269,Under way using engine,2.2,2.5,243.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:02:00,Class A,211911000,54.509947,14.202132,Under way using engine,-7.5,2.5,240.8,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:02:09,Class A,211911000,54.509897,14.201975,Under way using engine,2.2,2.5,242.2,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:02:19,Class A,211911000,54.50984,14.201802,Under way using engine,1.1,2.5,241.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:02:35,Class A,211911000,54.50984,14.201802,Under way using engine,1.1,2.5,241.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:03:09,Class A,211911000,54.50958,14.200908,Under way using engine,-1.1,2.4,244.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:03:18,Class A,211911000,54.509533,14.200748,Under way using engine,3.6,2.5,242.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:03:39,Class A,211911000,54.509425,14.200367,Under way using engine,2.2,2.5,244.9,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:04:00,Class A,211911000,54.509315,14.199987,Under way using engine,6.4,2.5,243.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:04:09,Class A,211911000,54.509267,14.199827,Under way using engine,2.2,2.5,240.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:04:18,Class A,211911000,54.509217,14.199667,Under way using engine,2.9,2.5,241.2,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:04:29,Class A,211911000,54.509155,14.19947,Under way using engine,11.4,2.5,243.5,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:04:39,Class A,211911000,54.509098,14.19929,Under way using engine,5.4,2.5,243.4,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:05:09,Class A,211911000,54.508937,14.198747,Under way using engine,0.0,2.5,242.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:05:18,Class A,211911000,54.50889,14.198583,Under way using engine,-3.6,2.5,245.9,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:05:29,Class A,211911000,54.508833,14.198382,Under way using engine,-5.4,2.5,245.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:06:09,Class A,211911000,54.508623,14.197657,Under way using engine,-2.2,2.5,243.6,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:06:39,Class A,211911000,54.508455,14.197112,Under way using engine,-2.9,2.6,241.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:07:09,Class A,211911000,54.508287,14.196555,Under way using engine,2.9,2.6,243.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:07:19,Class A,211911000,54.508233,14.196368,Under way using engine,2.2,2.6,243.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:07:49,Class A,211911000,54.508063,14.195812,Under way using engine,1.1,2.6,239.7,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:09,Class A,211911000,54.507945,14.195448,Under way using engine,-5.4,2.6,239.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:19,Class A,211911000,54.507887,14.195265,Under way using engine,1.1,2.5,238.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:29,Class A,211911000,54.507828,14.195083,Under way using engine,2.9,2.5,241.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:37,Class A,211911000,54.507828,14.195083,Under way using engine,2.9,2.5,241.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:39,Class A,211911000,54.507772,14.1949,Under way using engine,0.0,2.6,242.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:49,Class A,211911000,54.507717,14.194715,Under way using engine,0.0,2.6,241.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:08:58,Class A,211911000,54.507668,14.194548,Under way using engine,-8.7,2.6,241.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:09:09,Class A,211911000,54.50761,14.194345,Under way using engine,2.2,2.6,244.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:09:19,Class A,211911000,54.507555,14.19416,Under way using engine,-3.6,2.6,243.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:09:29,Class A,211911000,54.507502,14.193977,Under way using engine,2.9,2.6,243.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:09:39,Class A,211911000,54.507447,14.193792,Under way using engine,6.4,2.6,245.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:09:49,Class A,211911000,54.507392,14.193607,Under way using engine,2.9,2.6,243.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:10:09,Class A,211911000,54.507282,14.193232,Under way using engine,5.4,2.6,243.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:10:39,Class A,211911000,54.507115,14.19267,Under way using engine,-3.6,2.7,244.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:10:49,Class A,211911000,54.507058,14.192485,Under way using engine,2.2,2.6,242.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:11:09,Class A,211911000,54.506947,14.192113,Under way using engine,3.6,2.6,244.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:11:19,Class A,211911000,54.506892,14.191928,Under way using engine,0.0,2.6,244.7,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:11:39,Class A,211911000,54.506783,14.191555,Under way using engine,-7.5,2.6,243.3,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:11:49,Class A,211911000,54.50673,14.191368,Under way using engine,2.2,2.6,244.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:12:09,Class A,211911000,54.506622,14.190995,Under way using engine,2.2,2.5,243.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:12:19,Class A,211911000,54.506567,14.190808,Under way using engine,5.4,2.5,243.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:12:29,Class A,211911000,54.506512,14.190622,Under way using engine,-2.2,2.6,242.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:12:39,Class A,211911000,54.506458,14.190433,Under way using engine,3.6,2.6,243.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:12:59,Class A,211911000,54.506345,14.190067,Under way using engine,3.6,2.5,241.2,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:13:19,Class A,211911000,54.506228,14.189705,Under way using engine,2.2,2.5,241.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:14:19,Class A,211911000,54.505882,14.188595,Under way using engine,2.2,2.6,241.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:14:59,Class A,211911000,54.505655,14.187837,Under way using engine,3.6,2.6,244.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:15:09,Class A,211911000,54.505598,14.187647,Under way using engine,3.6,2.6,243.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:15:19,Class A,211911000,54.505543,14.187457,Under way using engine,-2.2,2.6,242.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:15:39,Class A,211911000,54.505428,14.187082,Under way using engine,2.9,2.7,244.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:15:59,Class A,211911000,54.505317,14.1867,Under way using engine,2.2,2.6,243.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:16:09,Class A,211911000,54.505263,14.18651,Under way using engine,10.0,2.6,244.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:16:39,Class A,211911000,54.505098,14.185942,Under way using engine,2.2,2.6,243.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:16:59,Class A,211911000,54.50499,14.185563,Under way using engine,1.1,2.6,241.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:17:09,Class A,211911000,54.504933,14.185375,Under way using engine,0.0,2.6,243.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:17:19,Class A,211911000,54.504878,14.185188,Under way using engine,-5.4,2.6,244.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:17:29,Class A,211911000,54.50482,14.185002,Under way using engine,6.4,2.6,242.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:17:59,Class A,211911000,54.504655,14.18444,Under way using engine,-2.9,2.6,243.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:18:19,Class A,211911000,54.504542,14.184073,Under way using engine,2.9,2.6,241.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:18:29,Class A,211911000,54.504485,14.183887,Under way using engine,-5.4,2.6,243.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:18:59,Class A,211911000,54.504312,14.183322,Under way using engine,6.4,2.6,242.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:19:29,Class A,211911000,54.504147,14.18275,Under way using engine,-1.1,2.6,244.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:19:39,Class A,211911000,54.504092,14.18256,Under way using engine,0.0,2.6,245.5,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:19:59,Class A,211911000,54.503982,14.182182,Under way using engine,-3.6,2.6,241.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:20:10,Class A,211911000,54.503922,14.181973,Under way using engine,2.9,2.6,241.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:20:19,Class A,211911000,54.503872,14.181803,Under way using engine,11.4,2.6,244.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:20:38,Class A,211911000,54.503872,14.181803,Under way using engine,11.4,2.6,244.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:20:59,Class A,211911000,54.503647,14.181047,Under way using engine,3.6,2.6,244.1,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:21:10,Class A,211911000,54.503583,14.18084,Under way using engine,-6.4,2.6,241.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:21:29,Class A,211911000,54.50348,14.180478,Under way using engine,2.2,2.6,245.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:21:39,Class A,211911000,54.503427,14.18029,Under way using engine,7.5,2.6,242.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:22:39,Class A,211911000,54.503098,14.179183,Under way using engine,11.4,2.5,242.2,239.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:22:59,Class A,211911000,54.502992,14.17882,Under way using engine,1.1,2.5,243.7,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:23:19,Class A,211911000,54.502883,14.178453,Under way using engine,1.1,2.5,243.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:23:30,Class A,211911000,54.502825,14.178248,Under way using engine,0.0,2.6,243.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:23:39,Class A,211911000,54.502777,14.178082,Under way using engine,0.0,2.6,243.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:23:49,Class A,211911000,54.502723,14.177893,Under way using engine,-7.5,2.6,247.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:23:59,Class A,211911000,54.502668,14.177705,Under way using engine,2.9,2.6,245.4,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:24:09,Class A,211911000,54.502617,14.177515,Under way using engine,-7.5,2.6,245.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:24:30,Class A,211911000,54.502508,14.17712,Under way using engine,-2.9,2.6,243.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:24:39,Class A,211911000,54.502462,14.176953,Under way using engine,-7.5,2.5,243.5,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:24:48,Class A,211911000,54.50241,14.17677,Under way using engine,7.5,2.5,242.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:24:59,Class A,211911000,54.502355,14.176588,Under way using engine,-3.6,2.6,242.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:25:09,Class A,211911000,54.502302,14.176405,Under way using engine,-2.9,2.5,244.8,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:25:30,Class A,211911000,54.502192,14.176013,Under way using engine,3.6,2.6,245.3,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:25:39,Class A,211911000,54.502145,14.175843,Under way using engine,3.6,2.6,247.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:25:59,Class A,211911000,54.502045,14.175463,Under way using engine,-7.5,2.6,245.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:26:09,Class A,211911000,54.501997,14.175277,Under way using engine,-3.6,2.6,247.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:26:30,Class A,211911000,54.501892,14.17488,Under way using engine,3.6,2.6,246.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:26:38,Class A,211911000,54.501892,14.17488,Under way using engine,3.6,2.6,246.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:26:48,Class A,211911000,54.501798,14.17452,Under way using engine,-1.1,2.6,245.1,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:27:09,Class A,211911000,54.5017,14.174142,Under way using engine,6.4,2.5,244.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:27:30,Class A,211911000,54.501595,14.173743,Under way using engine,7.5,2.6,245.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:27:48,Class A,211911000,54.501498,14.173383,Under way using engine,2.2,2.6,246.7,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:27:59,Class A,211911000,54.501447,14.173197,Under way using engine,1.1,2.6,243.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:28:09,Class A,211911000,54.501393,14.173012,Under way using engine,5.4,2.5,245.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:28:30,Class A,211911000,54.501285,14.172615,Under way using engine,5.4,2.6,246.0,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:28:48,Class A,211911000,54.501188,14.172255,Under way using engine,7.5,2.5,243.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:29:09,Class A,211911000,54.501087,14.171875,Under way using engine,-7.5,2.6,244.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:30:19,Class A,211911000,54.500718,14.170557,Under way using engine,2.2,2.6,247.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:30:38,Class A,211911000,54.500623,14.170198,Under way using engine,-7.5,2.6,246.2,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:30:59,Class A,211911000,54.500515,14.169802,Under way using engine,6.4,2.6,244.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:31:19,Class A,211911000,54.500412,14.169422,Under way using engine,-1.1,2.6,243.2,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:31:30,Class A,211911000,54.500357,14.169213,Under way using engine,-2.2,2.6,245.9,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:31:38,Class A,211911000,54.50031,14.169043,Under way using engine,1.1,2.6,246.3,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:31:59,Class A,211911000,54.500212,14.168658,Under way using engine,1.1,2.6,246.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:32:08,Class A,211911000,54.50017,14.168487,Under way using engine,-5.4,2.6,247.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:33:30,Class A,211911000,54.499763,14.16694,Under way using engine,-2.2,2.6,246.4,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:33:38,Class A,211911000,54.499717,14.16677,Under way using engine,-1.1,2.6,245.9,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:34:59,Class A,211911000,54.499312,14.165257,Under way using engine,2.2,2.6,247.9,242.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:35:08,Class A,211911000,54.499268,14.165082,Under way using engine,-2.2,2.6,246.8,242.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:36:08,Class A,211911000,54.498968,14.16393,Under way using engine,2.2,2.6,246.8,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:36:30,Class A,211911000,54.498858,14.163502,Under way using engine,-1.1,2.6,249.2,242.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:39:10,Class A,211911000,54.498087,14.160512,Under way using engine,-2.2,2.6,247.3,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:43:39,Class A,211911000,54.49677,14.155368,Under way using engine,3.6,2.6,249.6,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:43:49,Class A,211911000,54.496725,14.155177,Under way using engine,-3.6,2.6,249.4,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:43:59,Class A,211911000,54.49668,14.154985,Under way using engine,5.4,2.6,250.1,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:44:09,Class A,211911000,54.496635,14.154793,Under way using engine,-2.2,2.6,249.0,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:48:19,Class A,211911000,54.495418,14.150002,Under way using engine,2.2,2.6,246.6,241.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 10:51:09,Class A,211911000,54.49459,14.146777,Under way using engine,-7.5,2.6,247.6,240.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:38:59,Class A,211911000,54.489795,14.089437,Under way using engine,1.1,2.7,291.7,280.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:55:36,Class A,211911000,54.49264,14.068792,Under way using engine,40.2,4.7,283.6,283.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:55:38,Class A,211911000,54.492652,14.068715,Under way using engine,57.9,4.9,286.5,285.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:55:50,Class A,211911000,54.492747,14.06826,Under way using engine,94.5,6.5,294.8,298.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:55:53,Class A,211911000,54.492805,14.068068,Under way using engine,102.9,6.9,299.1,302.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:56:10,Class A,211911000,54.493213,14.067292,Under way using engine,107.2,8.3,323.6,329.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:56:26,Class A,211911000,54.493795,14.066895,Under way using engine,107.2,8.6,350.8,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:56:42,Class A,211911000,54.494427,14.066993,Under way using engine,102.9,8.6,17.8,26.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:56:53,Class A,211911000,54.494807,14.067355,Under way using engine,116.1,8.5,38.4,46.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:57:10,Class A,211911000,54.49521,14.068265,Under way using engine,37.5,8.4,63.9,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:57:12,Class A,211911000,54.495242,14.068383,Under way using engine,17.9,8.1,65.5,72.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:57:22,Class A,211911000,54.495372,14.068948,Under way using engine,-2.9,7.4,70.4,74.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:57:36,Class A,211911000,54.495523,14.069675,Under way using engine,-1.1,6.3,70.5,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:57:42,Class A,211911000,54.49558,14.069945,Under way using engine,2.2,5.8,70.9,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 11:59:38,Class A,211911000,54.49639,14.073403,Under way using engine,-3.6,3.4,67.3,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:00:38,Class A,211911000,54.496755,14.074878,Under way using engine,2.9,3.3,67.6,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:10,Class A,211911000,54.496968,14.075717,Under way using engine,-54.7,4.9,66.3,66.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:19,Class A,211911000,54.497088,14.076108,Under way using engine,-90.4,6.8,58.3,55.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:22,Class A,211911000,54.497143,14.07625,Under way using engine,-94.5,7.1,54.9,51.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:33,Class A,211911000,54.497413,14.07674,Under way using engine,-102.9,7.9,39.3,33.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:36,Class A,211911000,54.497505,14.076853,Under way using engine,-102.9,8.1,34.1,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:49,Class A,211911000,54.497962,14.077192,Under way using engine,-98.6,8.4,13.4,6.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:01:52,Class A,211911000,54.498077,14.077228,Under way using engine,-102.9,8.4,8.6,1.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:06,Class A,211911000,54.498617,14.077167,Under way using engine,-102.9,8.3,345.5,337.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:10,Class A,211911000,54.498763,14.077082,Under way using engine,-98.6,8.3,339.3,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:13,Class A,211911000,54.498865,14.077002,Under way using engine,-102.9,7.9,334.4,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:30,Class A,211911000,54.499293,14.076457,Under way using engine,-61.1,5.9,314.3,303.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:33,Class A,211911000,54.499348,14.076358,Under way using engine,-51.6,5.6,312.6,301.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:36,Class A,211911000,54.499397,14.076262,Under way using engine,-57.9,5.2,309.5,298.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:38,Class A,211911000,54.499427,14.076198,Under way using engine,-54.7,5.0,308.2,296.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:42,Class A,211911000,54.499482,14.076075,Under way using engine,-45.7,4.8,307.4,293.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:46,Class A,211911000,54.49953,14.075957,Under way using engine,-37.5,4.4,303.4,291.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:49,Class A,211911000,54.499563,14.07587,Under way using engine,-40.2,4.2,302.2,289.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:56,Class A,211911000,54.49963,14.075677,Under way using engine,-27.9,3.9,299.6,285.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:02:59,Class A,211911000,54.499653,14.075597,Under way using engine,-35.0,3.7,296.3,283.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:03:02,Class A,211911000,54.499677,14.075518,Under way using engine,-40.2,3.6,294.0,282.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:06:49,Class A,211911000,54.500315,14.068642,Under way using engine,45.7,5.5,280.3,280.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:06:56,Class A,211911000,54.50036,14.068302,Under way using engine,57.9,6.6,285.0,285.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:06,Class A,211911000,54.500475,14.06772,Under way using engine,82.5,8.5,292.1,296.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:10,Class A,211911000,54.500548,14.067465,Under way using engine,86.4,9.1,297.7,301.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:26,Class A,211911000,54.501018,14.0665,Under way using engine,102.9,10.5,320.0,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:29,Class A,211911000,54.501137,14.066352,Under way using engine,102.9,10.6,325.1,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:46,Class A,211911000,54.50194,14.065862,Under way using engine,102.9,11.1,352.9,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:07:56,Class A,211911000,54.502437,14.065887,Under way using engine,98.6,10.3,8.5,15.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:08:02,Class A,211911000,54.502705,14.066002,Under way using engine,90.4,9.7,16.8,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:08:42,Class A,211911000,54.503695,14.067427,Under way using engine,25.7,4.9,60.1,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:08:49,Class A,211911000,54.503767,14.067658,Under way using engine,23.6,4.5,64.0,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:08:52,Class A,211911000,54.503795,14.067757,Under way using engine,17.9,4.5,64.9,74.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:08:56,Class A,211911000,54.503828,14.067883,Under way using engine,11.4,4.4,66.5,75.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:00,Class A,211911000,54.503858,14.06801,Under way using engine,6.4,4.2,67.2,76.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:09,Class A,211911000,54.503922,14.068287,Under way using engine,-5.4,4.1,69.0,76.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:13,Class A,211911000,54.503948,14.068408,Under way using engine,-3.6,4.0,69.9,75.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:16,Class A,211911000,54.503968,14.068498,Under way using engine,-7.5,4.0,69.7,75.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:20,Class A,211911000,54.503993,14.068617,Under way using engine,-14.5,3.9,69.6,75.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:09:29,Class A,211911000,54.50405,14.06888,Under way using engine,-8.7,3.8,70.3,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:10:20,Class A,211911000,54.504387,14.070327,Under way using engine,2.9,3.8,68.1,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:11:59,Class A,211911000,54.505047,14.073053,Under way using engine,0.0,3.7,66.6,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:15:19,Class A,211911000,54.50637,14.07849,Under way using engine,-2.2,3.7,69.4,72.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:16:18,Class A,211911000,54.506752,14.080083,Under way using engine,-1.1,3.6,66.1,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:17:18,Class A,211911000,54.507145,14.0817,Under way using engine,-7.5,3.6,66.0,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:18:48,Class A,211911000,54.507757,14.084117,Under way using engine,1.1,3.7,67.7,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:33,Class A,211911000,54.508012,14.085605,Under way using engine,57.9,5.6,85.4,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:39,Class A,211911000,54.508015,14.085882,Under way using engine,64.5,5.9,91.2,100.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:42,Class A,211911000,54.508012,14.086025,Under way using engine,64.5,5.9,94.5,102.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:46,Class A,211911000,54.507998,14.086217,Under way using engine,64.5,6.1,98.0,107.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:53,Class A,211911000,54.507958,14.086555,Under way using engine,67.9,6.2,104.7,114.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:56,Class A,211911000,54.507932,14.086698,Under way using engine,78.7,6.2,108.4,117.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:19:59,Class A,211911000,54.507902,14.086842,Under way using engine,67.9,6.3,111.4,121.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:03,Class A,211911000,54.507853,14.087025,Under way using engine,67.9,6.4,115.6,125.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:06,Class A,211911000,54.507812,14.087158,Under way using engine,71.4,6.3,119.4,129.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:10,Class A,211911000,54.507748,14.087328,Under way using engine,71.4,6.3,124.0,133.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:12,Class A,211911000,54.507715,14.087412,Under way using engine,54.7,6.3,125.9,136.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:16,Class A,211911000,54.50764,14.08757,Under way using engine,42.9,6.4,130.3,140.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:18,Class A,211911000,54.5076,14.087647,Under way using engine,57.9,6.4,135.0,142.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:26,Class A,211911000,54.507425,14.087935,Under way using engine,37.5,6.5,139.5,148.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:20:32,Class A,211911000,54.507288,14.088123,Under way using engine,35.0,6.1,143.2,152.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:23:58,Class A,211911000,54.503463,14.09063,Under way using engine,0.0,4.1,160.7,166.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:25:09,Class A,211911000,54.502208,14.091397,Under way using engine,0.0,3.8,160.8,166.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:29:53,Class A,211911000,54.489362,14.097783,Under way using engine,3.6,16.7,164.8,165.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:33:55,Class A,211911000,54.473427,14.104845,Under way using engine,19.7,9.2,180.9,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:07,Class A,211911000,54.472953,14.104805,Under way using engine,-3.6,8.1,184.0,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:09,Class A,211911000,54.47288,14.104795,Under way using engine,-7.5,7.9,184.1,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:13,Class A,211911000,54.472737,14.104778,Under way using engine,-11.4,7.7,183.9,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:19,Class A,211911000,54.472528,14.104755,Under way using engine,-8.7,7.4,183.8,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:25,Class A,211911000,54.472332,14.104737,Under way using engine,-5.4,6.8,183.3,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:29,Class A,211911000,54.47221,14.104725,Under way using engine,7.5,6.5,182.8,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:41,Class A,211911000,54.47188,14.104698,Under way using engine,6.4,5.6,183.3,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:34:53,Class A,211911000,54.471588,14.104672,Under way using engine,-2.2,5.0,183.0,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:35:00,Class A,211911000,54.471452,14.10466,Under way using engine,-7.5,4.7,182.4,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:35:11,Class A,211911000,54.471198,14.104648,Under way using engine,-1.1,4.4,180.8,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:35:29,Class A,211911000,54.470878,14.104648,Under way using engine,2.9,3.4,178.5,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:35:36,Class A,211911000,54.470772,14.10465,Under way using engine,3.6,3.1,178.4,186.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:35:41,Class A,211911000,54.470702,14.104652,Under way using engine,1.1,3.0,177.7,187.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:42:53,Class A,211911000,54.452618,14.090555,Under way using engine,82.5,13.2,282.3,286.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:42:55,Class A,211911000,54.452648,14.090352,Under way using engine,75.0,13.1,285.2,289.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:46:00,Class A,211911000,54.458168,14.0818,Under way using engine,-2.9,6.2,320.4,319.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:46:19,Class A,211911000,54.458605,14.081235,Under way using engine,3.6,6.1,323.6,320.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:46:39,Class A,211911000,54.45907,14.080662,Under way using engine,16.1,6.1,325.9,324.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:47:00,Class A,211911000,54.459575,14.080108,Under way using engine,-7.5,6.1,328.1,326.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:47:09,Class A,211911000,54.459792,14.079875,Under way using engine,-1.1,6.2,327.6,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:47:19,Class A,211911000,54.460032,14.079615,Under way using engine,-6.4,6.0,327.1,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:47:29,Class A,211911000,54.460237,14.079393,Under way using engine,-8.7,5.6,327.1,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:48:09,Class A,211911000,54.461032,14.078555,Under way using engine,0.0,4.1,329.3,324.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:48:20,Class A,211911000,54.461205,14.078375,Under way using engine,-7.5,3.8,327.1,323.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:48:39,Class A,211911000,54.46148,14.07809,Under way using engine,0.0,3.5,329.7,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:48:49,Class A,211911000,54.461617,14.07795,Under way using engine,1.1,3.3,329.4,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:49:00,Class A,211911000,54.46176,14.077803,Under way using engine,2.9,3.2,328.9,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:49:09,Class A,211911000,54.461873,14.077688,Under way using engine,-2.2,3.2,331.7,323.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:49:29,Class A,211911000,54.462122,14.077442,Under way using engine,6.4,3.3,330.0,325.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:49:39,Class A,211911000,54.46227,14.0773,Under way using engine,12.9,3.3,331.3,326.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:49:49,Class A,211911000,54.46241,14.077173,Under way using engine,8.7,3.4,332.6,328.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:09,Class A,211911000,54.4627,14.076937,Under way using engine,-2.9,3.5,336.1,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:20,Class A,211911000,54.462865,14.076812,Under way using engine,-3.6,3.5,336.6,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:29,Class A,211911000,54.462987,14.076722,Under way using engine,1.1,3.5,335.0,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:39,Class A,211911000,54.463152,14.076593,Under way using engine,1.1,3.5,336.0,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:49,Class A,211911000,54.463152,14.076593,Under way using engine,1.1,3.5,336.0,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:50:49,Class A,211911000,54.463302,14.076478,Under way using engine,5.4,3.6,336.3,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:00,Class A,211911000,54.463467,14.076352,Under way using engine,-1.1,3.5,336.5,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:09,Class A,211911000,54.463603,14.076248,Under way using engine,0.0,3.5,335.9,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:20,Class A,211911000,54.463768,14.076122,Under way using engine,7.5,3.6,336.8,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:29,Class A,211911000,54.463905,14.076022,Under way using engine,-2.2,3.5,336.8,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:38,Class A,211911000,54.46404,14.075918,Under way using engine,-3.6,3.5,336.4,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:51:49,Class A,211911000,54.464205,14.075792,Under way using engine,3.6,3.5,335.1,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:00,Class A,211911000,54.46437,14.075665,Under way using engine,2.2,3.5,336.1,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:09,Class A,211911000,54.464505,14.07556,Under way using engine,-8.7,3.5,333.9,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:18,Class A,211911000,54.464642,14.075462,Under way using engine,-2.2,3.5,336.9,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:29,Class A,211911000,54.464808,14.075338,Under way using engine,-5.4,3.5,336.4,329.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:38,Class A,211911000,54.464943,14.075233,Under way using engine,2.9,3.5,335.4,329.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:52:49,Class A,211911000,54.465105,14.075105,Under way using engine,8.7,3.4,335.6,329.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:53:00,Class A,211911000,54.465263,14.074977,Under way using engine,7.5,3.4,337.1,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:53:18,Class A,211911000,54.46553,14.074773,Under way using engine,1.1,3.4,336.4,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:53:29,Class A,211911000,54.46569,14.074652,Under way using engine,16.1,3.4,337.4,332.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:53:38,Class A,211911000,54.465818,14.074555,Under way using engine,11.4,3.3,337.0,334.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:54:29,Class A,211911000,54.466578,14.074093,Under way using engine,5.4,3.4,342.1,338.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:55:18,Class A,211911000,54.467345,14.073707,Under way using engine,2.9,3.5,343.9,339.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:55:50,Class A,211911000,54.467852,14.073458,Under way using engine,0.0,3.5,343.1,339.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:56:09,Class A,211911000,54.468152,14.073307,Under way using engine,2.9,3.5,344.2,340.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:57:02,Class A,211911000,54.46918,14.072853,Under way using engine,42.9,5.6,353.7,357.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:57:06,Class A,211911000,54.46929,14.072838,Under way using engine,45.7,6.2,356.3,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:57:43,Class A,211911000,54.47071,14.073605,Under way using engine,90.4,9.9,37.2,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:57:46,Class A,211911000,54.470812,14.073762,Under way using engine,107.2,9.8,42.6,49.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:12,Class A,211911000,54.471253,14.075437,Under way using engine,107.2,8.4,88.0,97.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:18,Class A,211911000,54.471238,14.075805,Under way using engine,98.6,7.4,97.3,107.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:22,Class A,211911000,54.471213,14.076027,Under way using engine,78.7,7.0,103.0,113.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:26,Class A,211911000,54.471177,14.076232,Under way using engine,75.0,6.6,108.6,118.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:29,Class A,211911000,54.471145,14.076377,Under way using engine,75.0,6.5,112.0,122.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:43,Class A,211911000,54.470943,14.076965,Under way using engine,61.1,6.0,127.3,137.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:46,Class A,211911000,54.470892,14.077075,Under way using engine,57.9,5.9,130.6,139.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 12:58:50,Class A,211911000,54.470818,14.077213,Under way using engine,51.6,5.7,133.0,143.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:04:26,Class A,211911000,54.465262,14.081613,Under way using engine,82.5,10.3,178.6,183.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:18:57,Class A,211911000,54.448112,14.082508,Under way using engine,35.0,5.2,171.0,178.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:19:06,Class A,211911000,54.447877,14.08255,Under way using engine,42.9,5.9,176.8,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:20:26,Class A,211911000,54.445977,14.079252,Under way using engine,102.9,8.8,275.1,280.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:20:50,Class A,211911000,54.446377,14.077848,Under way using engine,102.9,8.1,315.6,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:30:40,Class A,211911000,54.457768,14.07495,Under way using engine,25.7,9.2,357.3,359.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:30:46,Class A,211911000,54.458035,14.074943,Under way using engine,35.0,9.8,0.3,2.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:31:16,Class A,211911000,54.459633,14.07564,Under way using engine,120.7,13.3,35.5,42.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:35:46,Class A,211911000,54.46894,14.104242,Under way using engine,61.1,11.9,70.1,73.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:01,Class A,211911000,54.469092,14.105558,Under way using engine,90.4,10.9,87.6,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:06,Class A,211911000,54.469082,14.105985,Under way using engine,86.4,10.6,94.8,101.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:07,Class A,211911000,54.469077,14.106068,Under way using engine,90.4,10.6,96.1,103.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:09,Class A,211911000,54.469062,14.106233,Under way using engine,82.5,10.5,98.7,106.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:12,Class A,211911000,54.46903,14.106473,Under way using engine,98.6,10.3,103.9,110.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:13,Class A,211911000,54.469018,14.106552,Under way using engine,94.5,10.2,104.9,112.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:15,Class A,211911000,54.468988,14.106708,Under way using engine,90.4,10.3,108.2,115.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:18,Class A,211911000,54.468955,14.106862,Under way using engine,90.4,10.3,111.0,118.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:19,Class A,211911000,54.468917,14.10701,Under way using engine,78.7,10.2,114.1,121.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:21,Class A,211911000,54.468875,14.107157,Under way using engine,64.5,10.2,116.8,124.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:25,Class A,211911000,54.46878,14.107435,Under way using engine,64.5,10.2,121.3,128.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:27,Class A,211911000,54.468727,14.107568,Under way using engine,57.9,10.2,124.9,130.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:29,Class A,211911000,54.468672,14.107702,Under way using engine,64.5,10.3,126.0,132.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:35,Class A,211911000,54.468483,14.108082,Under way using engine,54.7,10.5,132.7,137.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:37,Class A,211911000,54.468417,14.108203,Under way using engine,48.6,10.5,133.4,139.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:39,Class A,211911000,54.468347,14.10832,Under way using engine,48.6,10.5,135.4,140.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:42,Class A,211911000,54.46824,14.10849,Under way using engine,45.7,10.5,138.1,143.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:45,Class A,211911000,54.468128,14.108652,Under way using engine,57.9,10.6,141.0,145.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:48,Class A,211911000,54.46801,14.108805,Under way using engine,61.1,10.6,143.5,148.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:36:49,Class A,211911000,54.46797,14.108855,Under way using engine,64.5,10.6,144.1,149.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:12,Class A,211911000,54.466942,14.109578,Under way using engine,61.1,10.4,169.7,175.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:13,Class A,211911000,54.466893,14.10959,Under way using engine,35.0,10.4,171.1,176.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:24,Class A,211911000,54.466355,14.10967,Under way using engine,8.7,10.8,177.4,180.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:27,Class A,211911000,54.466205,14.10968,Under way using engine,12.9,10.9,178.0,181.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:31,Class A,211911000,54.466002,14.109688,Under way using engine,8.7,11.0,179.0,181.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:33,Class A,211911000,54.4659,14.10969,Under way using engine,7.5,11.0,179.7,182.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:35,Class A,211911000,54.465798,14.10969,Under way using engine,11.4,11.0,180.0,182.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:39,Class A,211911000,54.465592,14.109688,Under way using engine,3.6,11.2,180.8,183.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:42,Class A,211911000,54.465437,14.109683,Under way using engine,0.0,11.2,181.4,183.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:45,Class A,211911000,54.465282,14.109677,Under way using engine,8.7,11.2,181.5,183.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:48,Class A,211911000,54.465122,14.109667,Under way using engine,3.6,11.8,182.0,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:49,Class A,211911000,54.465065,14.109663,Under way using engine,-2.2,12.0,182.1,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:51,Class A,211911000,54.464952,14.109655,Under way using engine,11.4,12.5,182.2,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:53,Class A,211911000,54.464832,14.109647,Under way using engine,32.5,12.9,182.6,184.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:55,Class A,211911000,54.464708,14.109635,Under way using engine,40.2,13.4,183.5,185.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:37:59,Class A,211911000,54.464448,14.109595,Under way using engine,51.6,14.1,185.8,188.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:43:25,Class A,211911000,54.447145,14.083013,Under way using engine,40.2,7.8,253.4,257.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:43:54,Class A,211911000,54.447045,14.08086,Under way using engine,42.9,10.6,274.7,277.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:43:55,Class A,211911000,54.44705,14.080777,Under way using engine,42.9,10.6,275.9,277.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:43:57,Class A,211911000,54.447062,14.080607,Under way using engine,42.9,10.8,277.1,279.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:43:59,Class A,211911000,54.447077,14.080435,Under way using engine,42.9,10.9,278.5,280.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:44:01,Class A,211911000,54.447095,14.080263,Under way using engine,45.7,11.0,280.3,282.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:44:03,Class A,211911000,54.447115,14.080092,Under way using engine,48.6,11.0,281.3,283.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:44:05,Class A,211911000,54.447137,14.079922,Under way using engine,37.5,11.0,282.8,285.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:44:39,Class A,211911000,54.447997,14.077388,Under way using engine,94.5,10.8,321.4,326.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:44:41,Class A,211911000,54.448078,14.077287,Under way using engine,82.5,10.8,324.1,329.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:49:14,Class A,211911000,54.455107,14.075235,Under way using engine,54.7,8.8,353.7,355.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:49:17,Class A,211911000,54.455233,14.075218,Under way using engine,67.9,9.2,355.7,358.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:49:19,Class A,211911000,54.45532,14.075212,Under way using engine,64.5,9.3,357.5,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:49:37,Class A,211911000,54.456127,14.07541,Under way using engine,71.4,10.0,18.2,23.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:49:54,Class A,211911000,54.456812,14.076082,Under way using engine,71.4,10.1,39.5,46.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:50:14,Class A,211911000,54.457367,14.077373,Under way using engine,54.7,10.3,64.4,70.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:50:16,Class A,211911000,54.457405,14.077525,Under way using engine,57.9,10.4,66.6,71.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:51:03,Class A,211911000,54.457745,14.08142,Under way using engine,11.4,8.9,89.4,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:51:22,Class A,211911000,54.457735,14.08253,Under way using engine,0.0,6.3,91.8,95.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:51:44,Class A,211911000,54.457722,14.08349,Under way using engine,-3.6,4.9,90.8,93.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:52:13,Class A,211911000,54.457722,14.084517,Under way using engine,-2.9,4.1,88.8,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:57:42,Class A,211911000,54.458045,14.093523,Under way using engine,1.1,3.3,85.3,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:58:13,Class A,211911000,54.458077,14.094345,Under way using engine,2.2,3.3,86.1,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 13:58:24,Class A,211911000,54.458088,14.094635,Under way using engine,3.6,3.3,87.0,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:00:02,Class A,211911000,54.458198,14.097245,Under way using engine,-2.2,3.3,85.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:01:02,Class A,211911000,54.45827,14.098875,Under way using engine,14.5,4.2,87.0,92.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:01:14,Class A,211911000,54.458277,14.09933,Under way using engine,5.4,5.1,89.6,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:01:33,Class A,211911000,54.458265,14.100133,Under way using engine,-10.0,5.9,91.3,94.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:01:53,Class A,211911000,54.458262,14.10117,Under way using engine,-8.7,6.4,89.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:02:53,Class A,211911000,54.458298,14.103845,Under way using engine,0.0,4.4,87.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:02:54,Class A,211911000,54.458298,14.103845,Under way using engine,0.0,4.4,87.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:03:02,Class A,211911000,54.458307,14.104155,Under way using engine,-1.1,4.2,87.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:03:23,Class A,211911000,54.458328,14.104838,Under way using engine,-2.2,3.9,87.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:03:44,Class A,211911000,54.458352,14.105482,Under way using engine,0.0,3.8,86.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:03:54,Class A,211911000,54.458363,14.10578,Under way using engine,-2.2,3.7,85.9,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:04:03,Class A,211911000,54.458375,14.106045,Under way using engine,2.9,3.6,85.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:04:33,Class A,211911000,54.458415,14.106917,Under way using engine,-2.9,3.6,85.6,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:04:44,Class A,211911000,54.458428,14.107232,Under way using engine,-2.9,3.6,85.2,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:05:44,Class A,211911000,54.4585,14.108945,Under way using engine,2.2,3.6,86.7,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:05:54,Class A,211911000,54.458512,14.109228,Under way using engine,1.1,3.5,86.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:06:03,Class A,211911000,54.458523,14.109485,Under way using engine,2.9,3.6,86.2,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:06:14,Class A,211911000,54.458537,14.109798,Under way using engine,2.2,3.6,85.4,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:06:44,Class A,211911000,54.458575,14.110653,Under way using engine,-3.6,3.6,84.3,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:07:03,Class A,211911000,54.458598,14.111197,Under way using engine,2.9,3.6,86.4,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:07:12,Class A,211911000,54.458612,14.111455,Under way using engine,0.0,3.6,86.3,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:07:33,Class A,211911000,54.458637,14.112055,Under way using engine,1.1,3.6,85.9,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:08:03,Class A,211911000,54.458675,14.112913,Under way using engine,3.6,3.5,85.7,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:08:12,Class A,211911000,54.458687,14.11317,Under way using engine,5.4,3.6,85.0,91.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:08:32,Class A,211911000,54.458713,14.113738,Under way using engine,2.9,3.6,85.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:09:12,Class A,211911000,54.458767,14.114875,Under way using engine,1.1,3.5,86.5,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:09:32,Class A,211911000,54.458793,14.115448,Under way using engine,-11.4,3.9,85.8,90.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:09:56,Class A,211911000,54.458855,14.116478,Under way using engine,-45.7,7.4,80.4,78.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:00,Class A,211911000,54.458875,14.11666,Under way using engine,-57.9,7.9,78.1,76.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:03,Class A,211911000,54.458913,14.116917,Under way using engine,-54.7,8.4,74.9,72.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:20,Class A,211911000,54.459207,14.118047,Under way using engine,-75.0,9.6,58.0,53.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:23,Class A,211911000,54.459285,14.118235,Under way using engine,-71.4,9.7,54.0,49.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:27,Class A,211911000,54.459398,14.118475,Under way using engine,-82.5,9.7,48.9,44.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:40,Class A,211911000,54.459812,14.11909,Under way using engine,-64.5,9.9,34.2,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:42,Class A,211911000,54.45993,14.119213,Under way using engine,-23.6,9.9,30.0,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:47,Class A,211911000,54.460092,14.119367,Under way using engine,14.5,10.0,28.6,24.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:53,Class A,211911000,54.460343,14.11959,Under way using engine,21.6,10.2,27.3,27.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:10:56,Class A,211911000,54.460513,14.119748,Under way using engine,-14.5,10.4,28.5,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:00,Class A,211911000,54.460687,14.119905,Under way using engine,-40.2,10.5,28.0,27.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:03,Class A,211911000,54.460817,14.120018,Under way using engine,-57.9,10.6,26.1,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:07,Class A,211911000,54.460997,14.120162,Under way using engine,-40.2,10.7,23.2,22.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:10,Class A,211911000,54.46114,14.120265,Under way using engine,-27.9,11.3,22.9,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:12,Class A,211911000,54.461242,14.120335,Under way using engine,-3.6,11.9,21.4,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:17,Class A,211911000,54.46152,14.120515,Under way using engine,1.1,13.3,20.2,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:20,Class A,211911000,54.4617,14.12063,Under way using engine,14.5,14.0,20.0,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:23,Class A,211911000,54.46189,14.12075,Under way using engine,10.0,14.6,20.4,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:29,Class A,211911000,54.462285,14.121005,Under way using engine,-8.7,15.5,20.0,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:30,Class A,211911000,54.462352,14.121048,Under way using engine,-2.2,15.6,20.2,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:31,Class A,211911000,54.46242,14.121092,Under way using engine,-3.6,15.7,20.4,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:32,Class A,211911000,54.46249,14.121133,Under way using engine,-7.5,15.8,20.0,20.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:33,Class A,211911000,54.462558,14.121177,Under way using engine,-7.5,15.9,19.7,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:35,Class A,211911000,54.462698,14.121263,Under way using engine,-8.7,16.0,19.8,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:37,Class A,211911000,54.46284,14.12135,Under way using engine,-11.4,16.2,19.6,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:11:59,Class A,211911000,54.46426,14.122088,Under way using engine,7.5,13.3,15.8,15.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:12,Class A,211911000,54.465,14.122448,Under way using engine,-30.2,12.4,15.5,14.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:12,Class A,211911000,54.465,14.122448,Under way using engine,-35.0,12.4,15.5,14.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:17,Class A,211911000,54.465277,14.122563,Under way using engine,-27.9,12.2,13.2,11.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:23,Class A,211911000,54.465608,14.122678,Under way using engine,8.7,12.1,10.7,9.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:29,Class A,211911000,54.465935,14.122788,Under way using engine,-1.1,12.0,10.9,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:35,Class A,211911000,54.466262,14.122895,Under way using engine,-2.9,12.0,10.6,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:41,Class A,211911000,54.466588,14.123,Under way using engine,2.9,11.9,10.6,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:54,Class A,211911000,54.467292,14.123228,Under way using engine,2.2,11.9,10.3,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:12:59,Class A,211911000,54.467562,14.123312,Under way using engine,2.9,11.8,10.3,10.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:12,Class A,211911000,54.468262,14.123515,Under way using engine,-30.2,11.7,7.6,6.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:17,Class A,211911000,54.468532,14.123568,Under way using engine,2.9,11.7,6.1,4.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:23,Class A,211911000,54.468857,14.123623,Under way using engine,3.6,11.7,5.2,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:29,Class A,211911000,54.46917,14.123675,Under way using engine,-3.6,10.8,5.3,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:35,Class A,211911000,54.469453,14.123722,Under way using engine,2.9,9.9,5.5,4.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:41,Class A,211911000,54.469715,14.123763,Under way using engine,2.2,9.2,5.0,4.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:54,Class A,211911000,54.470228,14.123842,Under way using engine,8.7,8.2,5.5,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:13:59,Class A,211911000,54.470413,14.123873,Under way using engine,2.2,7.9,5.9,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:14:12,Class A,211911000,54.470867,14.123957,Under way using engine,-1.1,7.4,6.2,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:14:24,Class A,211911000,54.471267,14.124032,Under way using engine,5.4,7.1,6.5,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:14:35,Class A,211911000,54.471623,14.124095,Under way using engine,0.0,6.9,5.9,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:14:47,Class A,211911000,54.472007,14.124167,Under way using engine,-7.5,6.8,5.3,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:12,Class A,211911000,54.472788,14.12431,Under way using engine,2.2,6.7,6.0,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:24,Class A,211911000,54.473128,14.124377,Under way using engine,7.5,5.7,6.4,6.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:33,Class A,211911000,54.47335,14.124427,Under way using engine,19.7,5.1,8.0,9.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:35,Class A,211911000,54.473397,14.124438,Under way using engine,23.6,5.0,8.8,9.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:41,Class A,211911000,54.47353,14.124478,Under way using engine,25.7,4.7,10.0,12.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:54,Class A,211911000,54.473797,14.124578,Under way using engine,30.2,4.3,14.6,17.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:15:57,Class A,211911000,54.473853,14.124605,Under way using engine,25.7,4.2,15.6,19.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:02,Class A,211911000,54.473943,14.124653,Under way using engine,35.0,4.0,18.8,21.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:07,Class A,211911000,54.474013,14.124695,Under way using engine,30.2,3.9,19.3,23.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:10,Class A,211911000,54.474065,14.124727,Under way using engine,27.9,3.8,21.2,25.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:13,Class A,211911000,54.474132,14.124772,Under way using engine,30.2,3.8,21.7,27.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:16,Class A,211911000,54.474178,14.124807,Under way using engine,35.0,3.7,24.7,28.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:33,Class A,211911000,54.474427,14.12503,Under way using engine,12.9,3.4,32.3,36.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:54,Class A,211911000,54.474707,14.125358,Under way using engine,5.4,3.4,36.6,39.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:16:56,Class A,211911000,54.474733,14.125392,Under way using engine,6.4,3.5,35.6,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:17:02,Class A,211911000,54.474812,14.125493,Under way using engine,7.5,3.5,37.2,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:17:07,Class A,211911000,54.474875,14.12558,Under way using engine,2.2,3.5,37.4,41.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:17:13,Class A,211911000,54.474953,14.125685,Under way using engine,-1.1,3.5,38.1,41.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:17:33,Class A,211911000,54.47521,14.126042,Under way using engine,0.0,3.5,37.9,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:17:54,Class A,211911000,54.47551,14.126465,Under way using engine,2.2,4.7,39.5,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:18:02,Class A,211911000,54.475655,14.126672,Under way using engine,1.1,5.3,40.0,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:18:13,Class A,211911000,54.475902,14.127023,Under way using engine,-1.1,7.3,39.5,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:18:33,Class A,211911000,54.476547,14.127948,Under way using engine,-1.1,10.1,40.2,40.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:18:54,Class A,211911000,54.477342,14.129088,Under way using engine,-2.9,11.0,40.5,41.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:18,Class A,211911000,54.478312,14.130388,Under way using engine,-35.0,11.1,32.9,31.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:27,Class A,211911000,54.478667,14.130742,Under way using engine,-40.2,11.1,27.8,26.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:30,Class A,211911000,54.478805,14.130862,Under way using engine,-35.0,11.1,25.9,23.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:33,Class A,211911000,54.478992,14.131008,Under way using engine,-37.5,11.1,23.8,21.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:37,Class A,211911000,54.479182,14.131142,Under way using engine,-40.2,11.1,21.2,18.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:40,Class A,211911000,54.479325,14.13123,Under way using engine,-45.7,11.0,19.2,16.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:42,Class A,211911000,54.479423,14.131285,Under way using engine,-48.6,11.0,17.9,15.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:47,Class A,211911000,54.47967,14.131403,Under way using engine,-42.9,11.0,14.9,11.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:50,Class A,211911000,54.47982,14.131462,Under way using engine,-40.2,11.0,12.2,9.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:52,Class A,211911000,54.47992,14.131495,Under way using engine,-45.7,11.0,10.9,8.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:19:56,Class A,211911000,54.480122,14.13155,Under way using engine,-42.9,11.0,7.9,5.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:02,Class A,211911000,54.480427,14.131597,Under way using engine,-48.6,11.0,3.1,0.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:06,Class A,211911000,54.48063,14.131607,Under way using engine,-48.6,11.0,0.7,357.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:10,Class A,211911000,54.480833,14.131597,Under way using engine,-45.7,11.0,357.5,354.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:13,Class A,211911000,54.480935,14.131585,Under way using engine,-42.9,11.0,355.8,352.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:27,Class A,211911000,54.481683,14.131357,Under way using engine,-48.6,10.9,344.6,341.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:30,Class A,211911000,54.48183,14.131282,Under way using engine,-48.6,10.9,342.4,339.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:34,Class A,211911000,54.482022,14.131165,Under way using engine,-45.7,10.9,339.4,336.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:37,Class A,211911000,54.482162,14.131068,Under way using engine,-42.9,10.9,337.9,333.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:40,Class A,211911000,54.482302,14.130962,Under way using engine,-48.6,10.9,335.4,331.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:42,Class A,211911000,54.482392,14.130885,Under way using engine,-48.6,10.9,334.3,330.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:47,Class A,211911000,54.482615,14.13068,Under way using engine,-48.6,10.9,330.2,326.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:50,Class A,211911000,54.482745,14.130543,Under way using engine,-45.7,11.0,328.3,324.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:52,Class A,211911000,54.48283,14.130448,Under way using engine,-40.2,10.9,326.6,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:54,Class A,211911000,54.48283,14.130448,Under way using engine,-40.2,10.9,326.6,322.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:20:56,Class A,211911000,54.482995,14.130248,Under way using engine,-45.7,10.9,324.1,319.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:12,Class A,211911000,54.483592,14.129308,Under way using engine,-42.9,10.9,312.3,307.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:16,Class A,211911000,54.483722,14.129043,Under way using engine,-42.9,10.9,309.1,304.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:20,Class A,211911000,54.483843,14.128767,Under way using engine,-48.6,10.9,306.0,301.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:30,Class A,211911000,54.48411,14.128033,Under way using engine,-48.6,10.9,298.9,294.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:34,Class A,211911000,54.4842,14.127725,Under way using engine,-42.9,10.8,296.0,291.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:37,Class A,211911000,54.484242,14.127568,Under way using engine,-42.9,10.8,294.3,289.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:40,Class A,211911000,54.48432,14.127248,Under way using engine,-42.9,10.8,292.0,286.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:42,Class A,211911000,54.484355,14.127087,Under way using engine,-42.9,10.8,290.2,285.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:47,Class A,211911000,54.48443,14.126677,Under way using engine,-42.9,10.8,286.6,281.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:50,Class A,211911000,54.484468,14.126427,Under way using engine,-42.9,10.8,284.3,279.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:21:52,Class A,211911000,54.484492,14.126258,Under way using engine,-40.2,10.8,282.4,278.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:17,Class A,211911000,54.48456,14.124118,Under way using engine,-21.6,10.8,265.6,261.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:23,Class A,211911000,54.484528,14.123602,Under way using engine,-3.6,10.9,263.0,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:26,Class A,211911000,54.48451,14.123343,Under way using engine,-5.4,10.9,263.4,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:30,Class A,211911000,54.484483,14.122995,Under way using engine,1.1,11.0,262.4,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:34,Class A,211911000,54.484455,14.122647,Under way using engine,0.0,11.0,262.2,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:37,Class A,211911000,54.484433,14.122378,Under way using engine,7.5,11.5,261.7,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:40,Class A,211911000,54.48441,14.122093,Under way using engine,8.7,12.2,262.2,261.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:47,Class A,211911000,54.484348,14.121353,Under way using engine,-2.9,14.0,261.2,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:22:52,Class A,211911000,54.484295,14.120777,Under way using engine,7.5,15.0,261.1,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:05,Class A,211911000,54.484147,14.119168,Under way using engine,-1.1,16.1,260.5,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:11,Class A,211911000,54.484073,14.118398,Under way using engine,6.4,16.4,261.0,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:12,Class A,211911000,54.484062,14.118268,Under way using engine,0.0,16.5,260.8,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:23,Class A,211911000,54.483927,14.116832,Under way using engine,5.4,16.7,261.0,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:29,Class A,211911000,54.483853,14.11604,Under way using engine,-2.9,16.8,261.1,260.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:23:41,Class A,211911000,54.48373,14.114445,Under way using engine,54.7,16.8,265.1,266.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0
+26/11/2024 14:36:12,Class A,211911000,54.48709,13.997292,Under way using engine,-1.1,21.5,272.4,272.0,Unknown,DRBB,GERMAN WARSHIP F261,Military,,14.0,89.0,Undefined,4.6,0,,AIS,29.0,60.0,7.0,7.0

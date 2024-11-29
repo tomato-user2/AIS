@@ -1,0 +1,13 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 16:00:37,Class A,314415000,56.073818,6.792692,Under way using engine,,6.0,185.7,191.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:10:13,Class A,314415000,55.945177,6.781165,Under way using engine,,7.0,172.0,178.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:11:46,Class A,314415000,55.942185,6.78156,Under way using engine,,7.0,176.5,179.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:13:53,Class A,314415000,55.938147,6.78226,Under way using engine,0.0,6.7,176.7,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:18:20,Class A,314415000,55.929518,6.783773,Under way using engine,,7.2,174.1,178.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:21:46,Class A,314415000,55.92236,6.78475,Under way using engine,0.0,7.4,175.2,178.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:28:43,Class A,314415000,55.908097,6.786955,Under way using engine,,7.1,172.0,179.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:30:46,Class A,314415000,55.9041,6.787585,Under way using engine,,7.2,176.0,178.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:32:13,Class A,314415000,55.901175,6.788068,Under way using engine,0.0,7.1,175.6,179.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 17:42:26,Class A,314415000,55.880372,6.79132,Under way using engine,,7.3,176.9,180.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 18:05:26,Class A,314415000,55.838262,6.774372,Under way using engine,,6.8,196.2,194.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 18:14:33,Class A,314415000,55.819762,6.779037,Under way using engine,,7.8,168.6,169.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,

@@ -1,0 +1,4 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 03:59:33,Class A,261053080,55.455975,18.155787,Moored,0.0,0.0,3.2,199.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:59:43,Class A,261053080,55.455975,18.155787,Moored,0.0,0.0,3.2,199.0,8415768,SPLC,PETRO GIANT,Spare 2,,52.0,82.0,GPS,15.0,B3,14/03/2025 22:16:00,AIS,30.0,52.0,35.0,17.0
+26/11/2024 08:14:34,Class A,261053080,55.455948,18.15577,Moored,0.0,0.0,3.2,199.0,8415768,SPLC,PETRO GIANT,Spare 2,,52.0,82.0,GPS,15.0,B3,14/03/2025 22:16:00,AIS,30.0,52.0,35.0,17.0

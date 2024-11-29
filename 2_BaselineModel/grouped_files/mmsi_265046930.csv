@@ -1,0 +1,46 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+26/11/2024 00:08:03,Class A,265046930,55.555698,14.358732,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 00:50:05,Class A,265046930,55.55568,14.358733,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 01:26:07,Class A,265046930,55.55567,14.358757,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:29:04,Class A,265046930,55.555698,14.358753,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:50:06,Class A,265046930,55.555715,14.358807,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 03:56:07,Class A,265046930,55.555695,14.358773,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:17:07,Class A,265046930,55.555695,14.358757,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:23:05,Class A,265046930,55.555688,14.35877,Moored,,0.0,,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+26/11/2024 04:43:15,Class A,265046930,55.555688,14.35877,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 04:59:07,Class A,265046930,55.555697,14.358773,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 09:38:07,Class A,265046930,55.555713,14.358775,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 09:44:05,Class A,265046930,55.555707,14.35877,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 09:50:05,Class A,265046930,55.555697,14.358757,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 14:38:05,Class A,265046930,55.555657,14.35881,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 15:31:18,Class A,265046930,55.555657,14.35881,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 15:32:03,Class A,265046930,55.555695,14.358787,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 15:35:03,Class A,265046930,55.555703,14.358792,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 16:02:04,Class A,265046930,55.55572,14.358758,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 16:08:05,Class A,265046930,55.55571,14.35878,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 16:14:06,Class A,265046930,55.555717,14.358757,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 16:17:06,Class A,265046930,55.555707,14.358747,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 16:25:19,Class A,265046930,55.555707,14.358747,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 17:29:05,Class A,265046930,55.555703,14.358747,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 17:31:19,Class A,265046930,55.555703,14.358747,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 17:43:19,Class A,265046930,55.555703,14.358747,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 17:59:05,Class A,265046930,55.555683,14.358725,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 19:05:04,Class A,265046930,55.555657,14.358743,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 19:19:18,Class A,265046930,55.555657,14.358743,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 20:25:19,Class A,265046930,55.555657,14.358743,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 20:32:04,Class A,265046930,55.555685,14.35874,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 21:37:20,Class A,265046930,55.555685,14.35874,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 21:50:06,Class A,265046930,55.555677,14.358772,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 21:53:03,Class A,265046930,55.555695,14.358753,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 21:56:05,Class A,265046930,55.555662,14.358748,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:01:21,Class A,265046930,55.555662,14.358748,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:05:06,Class A,265046930,55.555672,14.35876,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:11:07,Class A,265046930,55.555678,14.358763,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:19:21,Class A,265046930,55.555678,14.358763,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:26:06,Class A,265046930,55.555678,14.358768,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:29:07,Class A,265046930,55.555687,14.358732,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:32:03,Class A,265046930,55.55568,14.35874,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 22:44:07,Class A,265046930,55.5557,14.358687,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 23:19:21,Class A,265046930,55.5557,14.358687,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 23:26:05,Class A,265046930,55.555703,14.358743,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
+26/11/2024 23:47:04,Class A,265046930,55.555698,14.35875,Moored,,0.0,,,Unknown,SFE5183,PHILAE TWO,Not party to conflict,,6.0,20.0,Internal,2.9,FOR ORDER,,AIS,16.0,4.0,3.0,3.0
