@@ -1,0 +1,53 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+2024-11-26 03:48:30,Class A,211202570,54.17372,9.448725,Under way using engine,0.0,0.0,166.5,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 15:08:31,Class A,211202570,54.17368,9.448725,Under way using engine,0.0,0.0,203.3,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 16:28:32,Class A,211202570,54.173705,9.44873,Under way using engine,0.0,0.0,46.5,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 16:30:11,Class A,211202570,54.1737,9.448725,Under way using engine,0.0,0.0,46.5,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:03:30,Class A,211202570,54.173712,9.448728,Under way using engine,0.0,0.0,43.9,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:40:51,Class A,211202570,54.173722,9.448725,Under way using engine,0.0,0.0,321.7,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:59:51,Class A,211202570,54.173707,9.448715,Under way using engine,0.0,0.0,321.7,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:32:11,Class A,211202570,54.173707,9.448723,Under way using engine,0.0,0.0,65.8,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:32:51,Class A,211202570,54.173707,9.448723,Under way using engine,0.0,0.0,65.8,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:55:31,Class A,211202570,54.173707,9.448718,Under way using engine,0.0,0.0,65.8,58.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:20:11,Class A,211202570,54.173705,9.44872,Under way using engine,0.0,0.0,65.8,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:20:50,Class A,211202570,54.173707,9.448728,Under way using engine,0.0,0.0,65.8,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:21:00,Class A,211202570,54.173707,9.448727,Under way using engine,0.0,0.0,65.8,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:21:11,Class A,211202570,54.173707,9.448728,Under way using engine,0.0,0.0,65.8,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:21:50,Class A,211202570,54.173712,9.44873,Under way using engine,0.0,0.0,65.8,60.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:54:21,Class A,211202570,54.173705,9.44872,Under way using engine,0.0,0.0,50.2,59.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 22:13:11,Class A,211202570,54.17371,9.448733,Under way using engine,0.0,0.0,50.2,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 22:13:19,Class A,211202570,54.17371,9.448733,Under way using engine,0.0,0.0,50.2,61.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:13:50,Class A,211202570,54.17371,9.448733,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:16:50,Class A,211202570,54.173723,9.448728,Under way using engine,0.0,0.0,50.2,62.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:19:12,Class A,211202570,54.173717,9.448725,Under way using engine,0.0,0.0,50.2,61.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:22:30,Class A,211202570,54.173707,9.44872,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:22:51,Class A,211202570,54.173707,9.44872,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:29:22,Class A,211202570,54.17372,9.448742,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:30:10,Class A,211202570,54.173718,9.448743,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:30:41,Class A,211202570,54.173715,9.448737,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:31:10,Class A,211202570,54.173717,9.448735,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:32:50,Class A,211202570,54.17371,9.448732,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:34:51,Class A,211202570,54.173717,9.448728,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:35:11,Class A,211202570,54.173717,9.448732,Under way using engine,0.0,0.0,50.2,58.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:40:50,Class A,211202570,54.173707,9.448728,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:43:11,Class A,211202570,54.173708,9.448728,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:52:51,Class A,211202570,54.173703,9.448733,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:54:11,Class A,211202570,54.173702,9.448735,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:57:30,Class A,211202570,54.173698,9.448733,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 22:58:40,Class A,211202570,54.173695,9.44872,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:00:40,Class A,211202570,54.173693,9.44873,Under way using engine,0.0,0.0,50.2,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:05:01,Class A,211202570,54.173707,9.448725,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:13:31,Class A,211202570,54.17371,9.448727,Under way using engine,0.0,0.0,50.2,61.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:29:21,Class A,211202570,54.173702,9.448718,Under way using engine,0.0,0.0,50.2,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:42:32,Class A,211202570,54.173705,9.448712,Under way using engine,0.0,0.0,38.4,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:44:10,Class A,211202570,54.173705,9.448718,Under way using engine,0.0,0.0,68.6,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:45:00,Class A,211202570,54.173697,9.448713,Under way using engine,0.0,0.0,229.5,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:45:10,Class A,211202570,54.173698,9.448713,Under way using engine,0.0,0.0,229.5,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:45:31,Class A,211202570,54.173698,9.448717,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:46:00,Class A,211202570,54.173697,9.448717,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:46:10,Class A,211202570,54.173695,9.448715,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:48:00,Class A,211202570,54.173692,9.448713,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:48:31,Class A,211202570,54.173692,9.448717,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:49:20,Class A,211202570,54.173692,9.448717,Under way using engine,0.0,0.0,48.1,59.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:49:31,Class A,211202570,54.173692,9.44871,Under way using engine,0.0,0.0,48.1,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0
+2024-11-26 23:52:00,Class A,211202570,54.173702,9.448715,Under way using engine,0.0,0.0,48.1,60.0,Unknown,DLJW,BUTT,Other,No additional information,5.0,12.0,GPS,2.2,KL WESTERLAND,,AIS,10.0,2.0,3.0,2.0

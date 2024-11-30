@@ -1,0 +1,29 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+2024-11-26 02:32:34,Class A,211594520,54.152647,9.374503,Moored,0.0,0.0,20.4,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 02:44:34,Class A,211594520,54.152617,9.3745,Moored,0.0,0.0,54.4,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 03:14:37,Class A,211594520,54.152633,9.374498,Moored,0.0,0.0,54.4,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:02:34,Class A,211594520,54.152642,9.37449,Moored,0.0,0.0,54.4,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:50:13,Class A,211594520,54.152648,9.374485,Under way using engine,0.0,0.0,237.2,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:53:13,Class A,211594520,54.152645,9.374488,Under way using engine,0.0,0.0,237.2,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:55:00,Class A,211594520,54.152697,9.374377,Under way using engine,,0.7,330.1,264.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:55:03,Class A,211594520,54.152707,9.37437,Under way using engine,,0.8,334.7,269.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:55:27,Class A,211594520,54.152783,9.374325,Under way using engine,,0.8,342.6,299.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 04:55:33,Class A,211594520,54.152808,9.37431,Under way using engine,,0.8,342.1,304.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 20:50:20,Class A,211594520,54.152718,9.374422,Under way using engine,,0.3,181.5,284.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 20:50:27,Class A,211594520,54.15271,9.37442,Under way using engine,,0.3,184.1,277.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 20:50:34,Class A,211594520,54.152695,9.374413,Under way using engine,,0.4,185.6,267.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 20:52:34,Class A,211594520,54.152645,9.374487,Under way using engine,0.0,0.0,53.5,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 20:54:34,Class A,211594520,54.152628,9.374492,Moored,0.0,0.0,56.2,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 21:26:44,Class A,211594520,54.152637,9.374493,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 21:44:43,Class A,211594520,54.152633,9.374487,Moored,0.0,0.0,90.1,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 21:56:45,Class A,211594520,54.152635,9.374502,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 22:02:41,Class A,211594520,54.152642,9.374488,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 22:08:43,Class A,211594520,54.15264,9.374487,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 22:11:45,Class A,211594520,54.152635,9.374495,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:02:43,Class A,211594520,54.152642,9.37449,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:08:44,Class A,211594520,54.152637,9.374495,Moored,0.0,0.0,90.1,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:14:43,Class A,211594520,54.152628,9.374503,Moored,0.0,0.0,90.1,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:20:44,Class A,211594520,54.152617,9.374483,Moored,0.0,0.0,90.1,238.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:38:45,Class A,211594520,54.15263,9.374497,Moored,0.0,0.0,71.9,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:41:43,Class A,211594520,54.152635,9.374497,Moored,0.0,0.0,71.9,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0
+2024-11-26 23:42:02,Class A,211594520,54.152635,9.374497,Moored,0.0,0.0,71.9,237.0,Unknown,DBKC,HOCHDONN,Passenger,No additional information,10.0,28.0,GPS,2.2,NOK,,AIS,14.0,14.0,2.0,8.0

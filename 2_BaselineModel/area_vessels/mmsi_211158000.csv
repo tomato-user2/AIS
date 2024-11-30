@@ -1,0 +1,123 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+2024-11-26 01:51:04,Class A,211158000,54.12775,8.8628,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:11:22,Class A,211158000,54.127748,8.862802,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:13:22,Class A,211158000,54.127748,8.862808,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:15:22,Class A,211158000,54.127748,8.86281,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:20:44,Class A,211158000,54.127748,8.862797,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:01:22,Class A,211158000,54.127757,8.86279,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:23:02,Class A,211158000,54.127755,8.86279,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 07:12:24,Class A,211158000,54.127742,8.862803,Engaged in fishing,,0.0,0.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 08:21:23,Class A,211158000,54.12776,8.862802,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 08:31:22,Class A,211158000,54.127747,8.862787,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 08:55:44,Class A,211158000,54.12775,8.862802,Engaged in fishing,0.0,0.1,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 08:56:44,Class A,211158000,54.127745,8.862802,Engaged in fishing,0.0,0.2,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 09:32:43,Class A,211158000,54.127722,8.862797,Engaged in fishing,0.0,0.0,0.0,230.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:18:43,Class A,211158000,54.127723,8.862797,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:49:23,Class A,211158000,54.127748,8.862807,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 17:58:23,Class A,211158000,54.127713,8.862782,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:12:23,Class A,211158000,54.127737,8.862797,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:20:04,Class A,211158000,54.127733,8.862797,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:24:23,Class A,211158000,54.127737,8.862797,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:52:04,Class A,211158000,54.12774,8.862787,Engaged in fishing,0.0,0.5,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 18:53:43,Class A,211158000,54.127735,8.862785,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:27:24,Class A,211158000,54.127745,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:29:24,Class A,211158000,54.127752,8.862795,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:36:43,Class A,211158000,54.127748,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:42:44,Class A,211158000,54.127743,8.862797,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 19:46:24,Class A,211158000,54.127737,8.862802,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 20:12:44,Class A,211158000,54.127747,8.862795,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 20:31:03,Class A,211158000,54.127747,8.8628,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 20:37:04,Class A,211158000,54.127762,8.862797,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 20:56:23,Class A,211158000,54.127745,8.862795,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:00:03,Class A,211158000,54.127745,8.862792,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:00:43,Class A,211158000,54.127743,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:01:03,Class A,211158000,54.12774,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:03:23,Class A,211158000,54.12775,8.862793,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:03:43,Class A,211158000,54.127747,8.862793,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:04:43,Class A,211158000,54.12774,8.862782,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:05:43,Class A,211158000,54.127738,8.862777,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:06:43,Class A,211158000,54.127747,8.862785,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:10:24,Class A,211158000,54.12774,8.862783,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:11:24,Class A,211158000,54.127737,8.86278,Engaged in fishing,0.0,0.1,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:12:03,Class A,211158000,54.12774,8.862787,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:12:24,Class A,211158000,54.127738,8.86279,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:14:03,Class A,211158000,54.127738,8.862788,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:14:24,Class A,211158000,54.12774,8.862792,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:14:43,Class A,211158000,54.127738,8.862793,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:15:22,Class A,211158000,54.127748,8.862788,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:16:03,Class A,211158000,54.127742,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 21:16:22,Class A,211158000,54.127742,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:16:43,Class A,211158000,54.12774,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:17:03,Class A,211158000,54.127742,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:17:22,Class A,211158000,54.127747,8.86279,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:17:43,Class A,211158000,54.127747,8.86278,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:18:03,Class A,211158000,54.127752,8.862783,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:18:43,Class A,211158000,54.127743,8.862783,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:18:54,Class A,211158000,54.127738,8.862782,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:19:22,Class A,211158000,54.127737,8.86278,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:19:43,Class A,211158000,54.127732,8.862785,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:20:43,Class A,211158000,54.127742,8.862783,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:22:43,Class A,211158000,54.127743,8.862775,Engaged in fishing,0.0,0.6,23.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:23:02,Class A,211158000,54.12774,8.862773,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:26:24,Class A,211158000,54.127738,8.862785,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:27:02,Class A,211158000,54.127738,8.862792,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:28:03,Class A,211158000,54.127743,8.862787,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:31:03,Class A,211158000,54.127737,8.862787,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:32:23,Class A,211158000,54.127738,8.862788,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:33:03,Class A,211158000,54.127743,8.862783,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:33:23,Class A,211158000,54.127742,8.862787,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:34:23,Class A,211158000,54.12774,8.862787,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:35:03,Class A,211158000,54.127737,8.86278,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:35:23,Class A,211158000,54.127735,8.86278,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:38:23,Class A,211158000,54.127745,8.862782,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:46:23,Class A,211158000,54.127742,8.862805,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 21:53:03,Class A,211158000,54.127748,8.862798,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:08:02,Class A,211158000,54.127742,8.862795,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:09:24,Class A,211158000,54.127742,8.862793,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:15:53,Class A,211158000,54.12774,8.862797,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:16:04,Class A,211158000,54.12774,8.862797,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:18:04,Class A,211158000,54.127742,8.862805,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:19:04,Class A,211158000,54.127742,8.862798,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:19:23,Class A,211158000,54.12774,8.8628,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:19:42,Class A,211158000,54.12774,8.862802,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:20:23,Class A,211158000,54.127742,8.862795,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:20:44,Class A,211158000,54.127743,8.862792,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:20:53,Class A,211158000,54.127743,8.862792,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:21:04,Class A,211158000,54.127742,8.862793,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:21:23,Class A,211158000,54.12774,8.862797,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:22:04,Class A,211158000,54.12774,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:22:23,Class A,211158000,54.127738,8.862802,Engaged in fishing,0.0,0.3,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:22:44,Class A,211158000,54.127737,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:23:04,Class A,211158000,54.127733,8.862802,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:23:44,Class A,211158000,54.127735,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:24:23,Class A,211158000,54.127735,8.862805,Engaged in fishing,0.0,0.3,333.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:24:44,Class A,211158000,54.127737,8.862802,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:25:23,Class A,211158000,54.127735,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:26:04,Class A,211158000,54.127735,8.8628,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:26:23,Class A,211158000,54.127738,8.862802,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:28:03,Class A,211158000,54.127745,8.862797,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:28:43,Class A,211158000,54.127748,8.862802,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:30:43,Class A,211158000,54.127742,8.862803,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:34:03,Class A,211158000,54.127748,8.8628,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:35:03,Class A,211158000,54.127748,8.8628,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:35:24,Class A,211158000,54.127745,8.862805,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:37:24,Class A,211158000,54.127745,8.862808,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:52:43,Class A,211158000,54.127735,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:57:44,Class A,211158000,54.127742,8.862802,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:58:04,Class A,211158000,54.127743,8.862803,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 22:59:44,Class A,211158000,54.127745,8.862797,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:00:23,Class A,211158000,54.12775,8.8628,Engaged in fishing,0.0,0.0,0.0,231.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:01:23,Class A,211158000,54.12775,8.862795,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:02:23,Class A,211158000,54.127743,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:03:43,Class A,211158000,54.127742,8.8628,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:04:43,Class A,211158000,54.127735,8.862803,Engaged in fishing,0.0,0.0,0.0,232.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:38:03,Class A,211158000,54.127723,8.862815,Engaged in fishing,0.0,0.0,0.0,236.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:39:03,Class A,211158000,54.127725,8.86281,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:40:03,Class A,211158000,54.127728,8.862815,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:40:23,Class A,211158000,54.127727,8.862812,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:42:03,Class A,211158000,54.127737,8.862805,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:43:23,Class A,211158000,54.127743,8.862802,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:46:44,Class A,211158000,54.12773,8.862797,Engaged in fishing,0.0,0.0,0.0,235.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:50:03,Class A,211158000,54.127727,8.862817,Engaged in fishing,0.0,0.0,0.0,234.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:54:44,Class A,211158000,54.127725,8.8628,Engaged in fishing,0.0,0.0,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0
+2024-11-26 23:59:04,Class A,211158000,54.127733,8.862793,Engaged in fishing,0.0,0.2,0.0,233.0,Unknown,DITA,ANTARES,Fishing,,5.0,16.0,GPS,2.1,FISHING GROUND,,AIS,12.0,4.0,4.0,1.0

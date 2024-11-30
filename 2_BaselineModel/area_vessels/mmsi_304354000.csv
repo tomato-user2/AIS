@@ -1,0 +1,687 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+2024-11-26 00:01:07,Class A,304354000,55.490065,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:01:07,Class A,304354000,55.490065,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:04:07,Class A,304354000,55.490092,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:04:07,Class A,304354000,55.490092,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:07:10,Class A,304354000,55.49008,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:07:10,Class A,304354000,55.49008,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:10:10,Class A,304354000,55.490083,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:13:07,Class A,304354000,55.490082,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:16:07,Class A,304354000,55.490063,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:19:07,Class A,304354000,55.490065,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:22:07,Class A,304354000,55.490073,9.484892,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:22:07,Class A,304354000,55.490073,9.484892,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:25:09,Class A,304354000,55.490077,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:28:08,Class A,304354000,55.490067,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:31:07,Class A,304354000,55.490072,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:31:07,Class A,304354000,55.490072,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:34:10,Class A,304354000,55.490073,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:37:08,Class A,304354000,55.490077,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:40:07,Class A,304354000,55.490067,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:40:07,Class A,304354000,55.490067,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:43:08,Class A,304354000,55.490068,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:43:08,Class A,304354000,55.490068,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:46:07,Class A,304354000,55.490072,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:46:07,Class A,304354000,55.490072,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:49:09,Class A,304354000,55.490053,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:52:09,Class A,304354000,55.490067,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:55:08,Class A,304354000,55.490062,9.484923,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:58:09,Class A,304354000,55.49006,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 00:58:09,Class A,304354000,55.49006,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:01:09,Class A,304354000,55.490062,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:01:09,Class A,304354000,55.490062,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:04:07,Class A,304354000,55.49007,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:04:07,Class A,304354000,55.49007,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:07:07,Class A,304354000,55.490072,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:10:07,Class A,304354000,55.490065,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:10:07,Class A,304354000,55.490065,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:13:09,Class A,304354000,55.49006,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:13:09,Class A,304354000,55.49006,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:16:08,Class A,304354000,55.490068,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:16:08,Class A,304354000,55.490068,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:19:07,Class A,304354000,55.490072,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:19:07,Class A,304354000,55.490072,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:25:08,Class A,304354000,55.490065,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:28:06,Class A,304354000,55.490062,9.484898,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:31:06,Class A,304354000,55.490065,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:34:06,Class A,304354000,55.490055,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:37:08,Class A,304354000,55.49005,9.484898,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:40:07,Class A,304354000,55.490065,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:40:07,Class A,304354000,55.490065,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:43:07,Class A,304354000,55.490068,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:46:07,Class A,304354000,55.490073,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:46:07,Class A,304354000,55.490073,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:49:09,Class A,304354000,55.490082,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:52:06,Class A,304354000,55.490063,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:52:06,Class A,304354000,55.490063,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:55:07,Class A,304354000,55.490087,9.484923,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 01:58:08,Class A,304354000,55.49008,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:01:09,Class A,304354000,55.490075,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:04:06,Class A,304354000,55.490075,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:07:08,Class A,304354000,55.490077,9.484927,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:10:08,Class A,304354000,55.490067,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:10:08,Class A,304354000,55.490067,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:13:09,Class A,304354000,55.490062,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:13:09,Class A,304354000,55.490062,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:13:09,Class A,304354000,55.490062,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:16:08,Class A,304354000,55.490062,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:16:08,Class A,304354000,55.490062,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:19:07,Class A,304354000,55.490067,9.484925,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:22:08,Class A,304354000,55.490058,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:22:08,Class A,304354000,55.490058,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:25:08,Class A,304354000,55.490063,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:25:08,Class A,304354000,55.490063,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:25:08,Class A,304354000,55.490063,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:28:08,Class A,304354000,55.490067,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:31:06,Class A,304354000,55.490068,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:31:06,Class A,304354000,55.490068,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:34:06,Class A,304354000,55.490067,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:34:06,Class A,304354000,55.490067,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:37:08,Class A,304354000,55.490063,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:37:08,Class A,304354000,55.490063,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:43:08,Class A,304354000,55.49006,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:46:09,Class A,304354000,55.49006,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:46:09,Class A,304354000,55.49006,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:49:06,Class A,304354000,55.490065,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:49:06,Class A,304354000,55.490065,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:52:08,Class A,304354000,55.490067,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:55:07,Class A,304354000,55.490053,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 02:58:07,Class A,304354000,55.490052,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:01:06,Class A,304354000,55.490058,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:04:09,Class A,304354000,55.49004,9.48489,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:10:08,Class A,304354000,55.49005,9.484893,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:13:06,Class A,304354000,55.490055,9.4849,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:13:06,Class A,304354000,55.490055,9.4849,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:16:08,Class A,304354000,55.490065,9.48488,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:19:09,Class A,304354000,55.490065,9.484897,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:22:08,Class A,304354000,55.49007,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:25:08,Class A,304354000,55.490067,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:28:09,Class A,304354000,55.49006,9.4849,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:31:08,Class A,304354000,55.490058,9.484897,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:31:08,Class A,304354000,55.490058,9.484897,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:34:07,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:37:08,Class A,304354000,55.490067,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:40:07,Class A,304354000,55.490073,9.484895,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:40:07,Class A,304354000,55.490073,9.484895,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:43:07,Class A,304354000,55.49008,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:46:06,Class A,304354000,55.490078,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:49:08,Class A,304354000,55.490068,9.484898,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:52:06,Class A,304354000,55.490065,9.484895,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:55:07,Class A,304354000,55.490082,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 03:55:07,Class A,304354000,55.490082,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:01:08,Class A,304354000,55.490088,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:01:08,Class A,304354000,55.490088,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:01:08,Class A,304354000,55.490088,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:04:07,Class A,304354000,55.490087,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:04:07,Class A,304354000,55.490087,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:07:06,Class A,304354000,55.490082,9.48493,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:07:06,Class A,304354000,55.490082,9.48493,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:10:09,Class A,304354000,55.49008,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:13:07,Class A,304354000,55.490078,9.48489,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:13:07,Class A,304354000,55.490078,9.48489,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:16:06,Class A,304354000,55.490082,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:16:06,Class A,304354000,55.490082,9.484907,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:19:09,Class A,304354000,55.490085,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:22:09,Class A,304354000,55.490077,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:25:07,Class A,304354000,55.490083,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:25:07,Class A,304354000,55.490083,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:28:07,Class A,304354000,55.49009,9.484882,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:31:10,Class A,304354000,55.490075,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:34:08,Class A,304354000,55.490082,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:34:08,Class A,304354000,55.490082,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:37:09,Class A,304354000,55.490095,9.48489,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:37:09,Class A,304354000,55.490095,9.48489,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:40:07,Class A,304354000,55.490075,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:40:07,Class A,304354000,55.490075,9.484905,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:43:08,Class A,304354000,55.49007,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:43:08,Class A,304354000,55.49007,9.484918,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:46:08,Class A,304354000,55.490072,9.48491,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:49:08,Class A,304354000,55.49007,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:49:08,Class A,304354000,55.49007,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:49:08,Class A,304354000,55.49007,9.484913,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:55:09,Class A,304354000,55.49008,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:55:09,Class A,304354000,55.49008,9.484903,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 04:58:08,Class A,304354000,55.490087,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:01:06,Class A,304354000,55.490078,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:01:06,Class A,304354000,55.490078,9.484902,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:04:09,Class A,304354000,55.490077,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:07:09,Class A,304354000,55.490083,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:07:09,Class A,304354000,55.490083,9.484917,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:10:08,Class A,304354000,55.490085,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:10:08,Class A,304354000,55.490085,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:13:06,Class A,304354000,55.49008,9.484937,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:16:07,Class A,304354000,55.490097,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:16:07,Class A,304354000,55.490097,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:19:08,Class A,304354000,55.49008,9.484928,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:19:08,Class A,304354000,55.49008,9.484928,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:25:08,Class A,304354000,55.490093,9.484923,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:25:08,Class A,304354000,55.490093,9.484923,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:25:08,Class A,304354000,55.490093,9.484923,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:28:06,Class A,304354000,55.490088,9.484938,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:31:06,Class A,304354000,55.490083,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:34:07,Class A,304354000,55.49008,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:37:08,Class A,304354000,55.490087,9.484927,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:40:07,Class A,304354000,55.490092,9.484932,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:43:08,Class A,304354000,55.490078,9.484938,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:43:08,Class A,304354000,55.490078,9.484938,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:49:08,Class A,304354000,55.490078,9.48493,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:52:09,Class A,304354000,55.490077,9.484927,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:52:09,Class A,304354000,55.490077,9.484927,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:55:07,Class A,304354000,55.490058,9.48492,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 05:58:08,Class A,304354000,55.490068,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:01:09,Class A,304354000,55.49007,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:01:09,Class A,304354000,55.49007,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:04:07,Class A,304354000,55.490072,9.484922,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:07:08,Class A,304354000,55.490067,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:07:08,Class A,304354000,55.490067,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:07:08,Class A,304354000,55.490067,9.484908,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:10:07,Class A,304354000,55.490063,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:10:07,Class A,304354000,55.490063,9.484912,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:13:09,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:16:09,Class A,304354000,55.490072,9.48495,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:19:08,Class A,304354000,55.490068,9.484952,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:19:08,Class A,304354000,55.490068,9.484952,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:23:06,Class A,304354000,55.490072,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:23:06,Class A,304354000,55.490072,9.484935,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:23:13,Class A,304354000,55.49007,9.484938,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:23:13,Class A,304354000,55.49007,9.484938,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:26:09,Class A,304354000,55.490078,9.484947,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:26:09,Class A,304354000,55.490078,9.484947,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:29:08,Class A,304354000,55.490072,9.484945,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:35:06,Class A,304354000,55.490065,9.484943,Moored,0.0,0.0,,61.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+2024-11-26 06:38:09,Class A,304354000,55.490065,9.484943,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 06:41:07,Class A,304354000,55.49007,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 06:47:06,Class A,304354000,55.49007,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 06:50:07,Class A,304354000,55.490055,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 06:53:08,Class A,304354000,55.490072,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:02:09,Class A,304354000,55.49007,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:05:08,Class A,304354000,55.490075,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:05:08,Class A,304354000,55.490075,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:08:09,Class A,304354000,55.49006,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:08:09,Class A,304354000,55.49006,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:11:08,Class A,304354000,55.490057,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:11:08,Class A,304354000,55.490057,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:14:06,Class A,304354000,55.490053,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:14:06,Class A,304354000,55.490053,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:17:09,Class A,304354000,55.490058,9.484938,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:17:09,Class A,304354000,55.490058,9.484938,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:20:09,Class A,304354000,55.490062,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:23:08,Class A,304354000,55.49005,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:26:07,Class A,304354000,55.490057,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:29:06,Class A,304354000,55.49005,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:32:09,Class A,304354000,55.490063,9.484938,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:35:08,Class A,304354000,55.490048,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:35:08,Class A,304354000,55.490048,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:35:08,Class A,304354000,55.490048,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:38:07,Class A,304354000,55.490058,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:41:08,Class A,304354000,55.490045,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:41:08,Class A,304354000,55.490045,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:47:07,Class A,304354000,55.490072,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:47:07,Class A,304354000,55.490072,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:50:09,Class A,304354000,55.490058,9.484938,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:56:09,Class A,304354000,55.490068,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 07:59:08,Class A,304354000,55.490075,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:02:07,Class A,304354000,55.490063,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:05:09,Class A,304354000,55.49007,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:05:09,Class A,304354000,55.49007,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:08:10,Class A,304354000,55.49006,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:08:10,Class A,304354000,55.49006,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:11:09,Class A,304354000,55.490067,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:14:09,Class A,304354000,55.490072,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:22:07,Class A,304354000,55.49006,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:22:12,Class A,304354000,55.490063,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:25:09,Class A,304354000,55.49007,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:25:09,Class A,304354000,55.49007,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:28:06,Class A,304354000,55.490063,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:28:06,Class A,304354000,55.490063,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:28:06,Class A,304354000,55.490063,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:31:09,Class A,304354000,55.490065,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:31:09,Class A,304354000,55.490065,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:34:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:34:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:34:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:37:09,Class A,304354000,55.490072,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:37:09,Class A,304354000,55.490072,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:40:08,Class A,304354000,55.490068,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:40:08,Class A,304354000,55.490068,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:40:08,Class A,304354000,55.490068,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:43:09,Class A,304354000,55.490082,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:43:09,Class A,304354000,55.490082,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:46:07,Class A,304354000,55.490058,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:49:09,Class A,304354000,55.490055,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:52:09,Class A,304354000,55.490062,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:58:06,Class A,304354000,55.490087,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:58:06,Class A,304354000,55.490087,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 08:58:06,Class A,304354000,55.490087,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:01:07,Class A,304354000,55.49007,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:04:07,Class A,304354000,55.49008,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:04:07,Class A,304354000,55.49008,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:04:07,Class A,304354000,55.49008,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:07:08,Class A,304354000,55.490055,9.48488,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:07:08,Class A,304354000,55.490055,9.48488,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:10:06,Class A,304354000,55.490077,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:10:06,Class A,304354000,55.490077,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:13:07,Class A,304354000,55.490082,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:16:08,Class A,304354000,55.490077,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:16:08,Class A,304354000,55.490077,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:19:09,Class A,304354000,55.49006,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:22:07,Class A,304354000,55.490068,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:22:07,Class A,304354000,55.490068,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:25:09,Class A,304354000,55.490088,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:25:09,Class A,304354000,55.490088,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:25:09,Class A,304354000,55.490088,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:28:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:28:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:28:09,Class A,304354000,55.490073,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:31:08,Class A,304354000,55.490077,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:34:07,Class A,304354000,55.490067,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:37:07,Class A,304354000,55.490075,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:40:07,Class A,304354000,55.49008,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:43:08,Class A,304354000,55.490077,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:46:09,Class A,304354000,55.490083,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:46:09,Class A,304354000,55.490083,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:49:09,Class A,304354000,55.490075,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:52:07,Class A,304354000,55.490083,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:58:07,Class A,304354000,55.49008,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 09:58:07,Class A,304354000,55.49008,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:01:09,Class A,304354000,55.490073,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:04:10,Class A,304354000,55.490085,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:04:10,Class A,304354000,55.490085,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:07:08,Class A,304354000,55.490077,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:07:08,Class A,304354000,55.490077,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:10:10,Class A,304354000,55.490082,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:13:07,Class A,304354000,55.490077,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:16:07,Class A,304354000,55.49008,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:19:06,Class A,304354000,55.490065,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:22:06,Class A,304354000,55.490078,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:25:06,Class A,304354000,55.490082,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:28:07,Class A,304354000,55.490075,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:28:07,Class A,304354000,55.490075,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:31:06,Class A,304354000,55.490078,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:34:08,Class A,304354000,55.490075,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:34:08,Class A,304354000,55.490075,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:37:08,Class A,304354000,55.490075,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:40:08,Class A,304354000,55.490072,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:43:07,Class A,304354000,55.490082,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:43:07,Class A,304354000,55.490082,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:46:06,Class A,304354000,55.490082,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:46:06,Class A,304354000,55.490082,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:46:06,Class A,304354000,55.490082,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:49:08,Class A,304354000,55.490073,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:52:06,Class A,304354000,55.490077,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:52:06,Class A,304354000,55.490077,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:55:09,Class A,304354000,55.49008,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 10:58:08,Class A,304354000,55.490072,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:01:09,Class A,304354000,55.49008,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:04:08,Class A,304354000,55.490068,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:10:07,Class A,304354000,55.490083,9.484888,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:13:08,Class A,304354000,55.49007,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:16:07,Class A,304354000,55.490057,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:19:10,Class A,304354000,55.490067,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:22:06,Class A,304354000,55.490082,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:22:06,Class A,304354000,55.490082,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:22:06,Class A,304354000,55.490082,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:25:08,Class A,304354000,55.490075,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:25:08,Class A,304354000,55.490075,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:25:08,Class A,304354000,55.490075,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:28:07,Class A,304354000,55.490072,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:31:07,Class A,304354000,55.49008,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:31:07,Class A,304354000,55.49008,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:34:08,Class A,304354000,55.490057,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:34:08,Class A,304354000,55.490057,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:37:09,Class A,304354000,55.490068,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:40:08,Class A,304354000,55.490067,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:43:09,Class A,304354000,55.490057,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:43:09,Class A,304354000,55.490057,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:46:07,Class A,304354000,55.490062,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:49:06,Class A,304354000,55.49006,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:49:06,Class A,304354000,55.49006,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:52:07,Class A,304354000,55.49005,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:52:07,Class A,304354000,55.49005,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:55:09,Class A,304354000,55.490053,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:55:09,Class A,304354000,55.490053,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:58:08,Class A,304354000,55.490077,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 11:58:08,Class A,304354000,55.490077,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:01:07,Class A,304354000,55.490052,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:01:07,Class A,304354000,55.490052,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:04:06,Class A,304354000,55.490048,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:04:06,Class A,304354000,55.490048,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:07:09,Class A,304354000,55.490072,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:07:09,Class A,304354000,55.490072,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:10:08,Class A,304354000,55.490043,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:10:08,Class A,304354000,55.490043,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:13:09,Class A,304354000,55.490067,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:13:09,Class A,304354000,55.490067,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:13:09,Class A,304354000,55.490067,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:16:09,Class A,304354000,55.490063,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:19:07,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:19:07,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:25:07,Class A,304354000,55.490062,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:25:07,Class A,304354000,55.490062,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:28:09,Class A,304354000,55.490063,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:28:09,Class A,304354000,55.490063,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:31:09,Class A,304354000,55.490057,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:31:09,Class A,304354000,55.490057,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:34:07,Class A,304354000,55.490065,9.484892,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:34:07,Class A,304354000,55.490065,9.484892,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:37:07,Class A,304354000,55.490072,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:40:08,Class A,304354000,55.490068,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:40:08,Class A,304354000,55.490068,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:43:08,Class A,304354000,55.490053,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:43:08,Class A,304354000,55.490053,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:46:07,Class A,304354000,55.490062,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:46:07,Class A,304354000,55.490062,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:49:09,Class A,304354000,55.490058,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:49:09,Class A,304354000,55.490058,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:52:08,Class A,304354000,55.490058,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:52:08,Class A,304354000,55.490058,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:55:06,Class A,304354000,55.490058,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 12:58:08,Class A,304354000,55.49007,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:04:09,Class A,304354000,55.490068,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:04:10,Class A,304354000,55.490068,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:07:09,Class A,304354000,55.490077,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:10:06,Class A,304354000,55.490072,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:10:06,Class A,304354000,55.490072,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:13:08,Class A,304354000,55.49007,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:13:08,Class A,304354000,55.49007,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:16:08,Class A,304354000,55.490068,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:16:08,Class A,304354000,55.490068,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:19:06,Class A,304354000,55.490065,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:22:07,Class A,304354000,55.49006,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:25:08,Class A,304354000,55.490063,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:25:08,Class A,304354000,55.490063,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:28:06,Class A,304354000,55.490068,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:31:08,Class A,304354000,55.490072,9.484937,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:31:08,Class A,304354000,55.490072,9.484937,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:34:09,Class A,304354000,55.490068,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:34:09,Class A,304354000,55.490068,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:37:08,Class A,304354000,55.490063,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:40:08,Class A,304354000,55.490068,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:43:10,Class A,304354000,55.49006,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:43:10,Class A,304354000,55.49006,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:46:08,Class A,304354000,55.490068,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:50:06,Class A,304354000,55.49007,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:50:06,Class A,304354000,55.49007,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:50:13,Class A,304354000,55.490068,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:50:13,Class A,304354000,55.490068,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:53:07,Class A,304354000,55.490085,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:53:07,Class A,304354000,55.490085,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:56:07,Class A,304354000,55.490072,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:56:07,Class A,304354000,55.490072,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 13:59:09,Class A,304354000,55.49007,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:02:09,Class A,304354000,55.490067,9.484947,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:05:09,Class A,304354000,55.490072,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:05:09,Class A,304354000,55.490072,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:08:09,Class A,304354000,55.490077,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:11:08,Class A,304354000,55.490078,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:14:06,Class A,304354000,55.490078,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:14:06,Class A,304354000,55.490078,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:17:07,Class A,304354000,55.490073,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:17:07,Class A,304354000,55.490073,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:20:07,Class A,304354000,55.490073,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:20:07,Class A,304354000,55.490073,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:23:07,Class A,304354000,55.490077,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:26:06,Class A,304354000,55.490067,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:26:06,Class A,304354000,55.490067,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:29:09,Class A,304354000,55.490068,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:29:09,Class A,304354000,55.490068,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:32:08,Class A,304354000,55.490072,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:35:08,Class A,304354000,55.490065,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:35:08,Class A,304354000,55.490065,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:38:07,Class A,304354000,55.490078,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:41:07,Class A,304354000,55.490075,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:44:09,Class A,304354000,55.490088,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:44:09,Class A,304354000,55.490088,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:47:06,Class A,304354000,55.490078,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:50:07,Class A,304354000,55.490087,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:53:09,Class A,304354000,55.490078,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:56:10,Class A,304354000,55.490078,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 14:59:09,Class A,304354000,55.49008,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:02:09,Class A,304354000,55.490063,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:05:07,Class A,304354000,55.490077,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:05:07,Class A,304354000,55.490077,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:08:06,Class A,304354000,55.490073,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:11:06,Class A,304354000,55.490078,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:14:08,Class A,304354000,55.490068,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:17:07,Class A,304354000,55.490053,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:20:08,Class A,304354000,55.490053,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:20:08,Class A,304354000,55.490055,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:23:07,Class A,304354000,55.490075,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:23:07,Class A,304354000,55.490075,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:26:09,Class A,304354000,55.490055,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:32:07,Class A,304354000,55.490068,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:35:06,Class A,304354000,55.490055,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:35:06,Class A,304354000,55.490055,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:38:08,Class A,304354000,55.490077,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:38:08,Class A,304354000,55.490077,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:41:08,Class A,304354000,55.490055,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:44:09,Class A,304354000,55.490055,9.484885,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:47:07,Class A,304354000,55.490052,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:47:07,Class A,304354000,55.490052,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:50:07,Class A,304354000,55.490063,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:58:07,Class A,304354000,55.490058,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:58:11,Class A,304354000,55.49006,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 15:58:11,Class A,304354000,55.49006,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:04:08,Class A,304354000,55.490047,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:04:08,Class A,304354000,55.490047,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:04:08,Class A,304354000,55.490047,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:07:08,Class A,304354000,55.490057,9.484892,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:10:08,Class A,304354000,55.490048,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:10:08,Class A,304354000,55.490048,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:13:06,Class A,304354000,55.490062,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:16:09,Class A,304354000,55.490065,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:16:09,Class A,304354000,55.490065,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:16:09,Class A,304354000,55.490065,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:19:08,Class A,304354000,55.490067,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:19:08,Class A,304354000,55.490067,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:22:06,Class A,304354000,55.49007,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:22:06,Class A,304354000,55.49007,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:25:09,Class A,304354000,55.490075,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:28:07,Class A,304354000,55.490063,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:31:07,Class A,304354000,55.490075,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:31:07,Class A,304354000,55.490075,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:34:06,Class A,304354000,55.490073,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:37:07,Class A,304354000,55.490065,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:40:10,Class A,304354000,55.490072,9.484893,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:43:09,Class A,304354000,55.490065,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:43:09,Class A,304354000,55.490065,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:46:08,Class A,304354000,55.490068,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:46:08,Class A,304354000,55.490068,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:49:06,Class A,304354000,55.49008,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:52:08,Class A,304354000,55.490083,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:55:09,Class A,304354000,55.490073,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:55:09,Class A,304354000,55.490073,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 16:58:07,Class A,304354000,55.490078,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:01:10,Class A,304354000,55.49008,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:01:10,Class A,304354000,55.49008,9.484925,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:04:07,Class A,304354000,55.490075,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:04:07,Class A,304354000,55.490075,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:07:08,Class A,304354000,55.490087,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:07:08,Class A,304354000,55.490087,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:10:07,Class A,304354000,55.490087,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:10:07,Class A,304354000,55.490087,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:13:09,Class A,304354000,55.490085,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:16:06,Class A,304354000,55.490087,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:19:10,Class A,304354000,55.490087,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:22:08,Class A,304354000,55.490097,9.484938,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:25:07,Class A,304354000,55.490098,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:28:08,Class A,304354000,55.49011,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:28:08,Class A,304354000,55.49011,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:31:08,Class A,304354000,55.490125,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:34:08,Class A,304354000,55.490113,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:37:07,Class A,304354000,55.490113,9.484953,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:37:07,Class A,304354000,55.490113,9.484953,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:37:08,Class A,304354000,55.490113,9.484953,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:40:09,Class A,304354000,55.490112,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:40:09,Class A,304354000,55.490112,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:40:09,Class A,304354000,55.490112,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:43:09,Class A,304354000,55.490087,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:43:09,Class A,304354000,55.490087,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:46:07,Class A,304354000,55.490103,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:49:08,Class A,304354000,55.490083,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:52:09,Class A,304354000,55.490077,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:52:09,Class A,304354000,55.490077,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:55:09,Class A,304354000,55.490087,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:55:09,Class A,304354000,55.490087,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 17:58:07,Class A,304354000,55.490087,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:01:07,Class A,304354000,55.490088,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:04:08,Class A,304354000,55.490068,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:07:06,Class A,304354000,55.49007,9.484932,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:10:10,Class A,304354000,55.490075,9.48489,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:13:08,Class A,304354000,55.490068,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:16:08,Class A,304354000,55.490063,9.484893,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:19:09,Class A,304354000,55.490078,9.484883,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:25:06,Class A,304354000,55.490075,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:28:07,Class A,304354000,55.490075,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:28:07,Class A,304354000,55.490075,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:34:09,Class A,304354000,55.490073,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:34:09,Class A,304354000,55.490073,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:37:07,Class A,304354000,55.490078,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:40:07,Class A,304354000,55.490068,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:43:07,Class A,304354000,55.49007,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:43:07,Class A,304354000,55.49007,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:46:08,Class A,304354000,55.490073,9.484888,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:46:08,Class A,304354000,55.490073,9.484888,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:49:08,Class A,304354000,55.49007,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:49:08,Class A,304354000,55.49007,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:52:09,Class A,304354000,55.49006,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:55:07,Class A,304354000,55.490077,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:55:07,Class A,304354000,55.490077,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 18:58:06,Class A,304354000,55.490078,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:01:07,Class A,304354000,55.49006,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:04:09,Class A,304354000,55.490068,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:04:09,Class A,304354000,55.490068,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:07:08,Class A,304354000,55.490068,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:07:08,Class A,304354000,55.490068,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:10:08,Class A,304354000,55.490063,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:13:07,Class A,304354000,55.490088,9.484887,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:13:07,Class A,304354000,55.490088,9.484887,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:16:07,Class A,304354000,55.490062,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:16:07,Class A,304354000,55.490062,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:16:07,Class A,304354000,55.490062,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:19:06,Class A,304354000,55.490068,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:19:06,Class A,304354000,55.490068,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:22:06,Class A,304354000,55.490082,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:22:06,Class A,304354000,55.490082,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:25:06,Class A,304354000,55.490068,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:25:06,Class A,304354000,55.490068,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:28:08,Class A,304354000,55.490072,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:31:07,Class A,304354000,55.490062,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:31:07,Class A,304354000,55.490062,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:37:09,Class A,304354000,55.490078,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:40:09,Class A,304354000,55.490062,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:40:09,Class A,304354000,55.490062,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:43:09,Class A,304354000,55.490067,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:46:09,Class A,304354000,55.490083,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:49:09,Class A,304354000,55.490077,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:52:09,Class A,304354000,55.490057,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:55:08,Class A,304354000,55.490062,9.484892,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:55:08,Class A,304354000,55.490062,9.484892,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 19:58:07,Class A,304354000,55.49006,9.484893,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:01:07,Class A,304354000,55.490072,9.484887,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:01:07,Class A,304354000,55.490072,9.484887,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:04:06,Class A,304354000,55.490077,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:04:06,Class A,304354000,55.490077,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:07:08,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:07:08,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:10:07,Class A,304354000,55.49008,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:13:07,Class A,304354000,55.490073,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:13:07,Class A,304354000,55.490073,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:16:07,Class A,304354000,55.49006,9.484895,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:19:08,Class A,304354000,55.49006,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:19:08,Class A,304354000,55.49006,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:22:09,Class A,304354000,55.490077,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:22:09,Class A,304354000,55.490077,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:25:08,Class A,304354000,55.490057,9.484888,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:25:08,Class A,304354000,55.490057,9.484888,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:28:09,Class A,304354000,55.490073,9.48489,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:31:06,Class A,304354000,55.490063,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:31:06,Class A,304354000,55.490063,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:34:07,Class A,304354000,55.490063,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:40:08,Class A,304354000,55.490063,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:43:10,Class A,304354000,55.490067,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:43:10,Class A,304354000,55.490067,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:46:07,Class A,304354000,55.490078,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:49:08,Class A,304354000,55.490075,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:57:07,Class A,304354000,55.49006,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:57:07,Class A,304354000,55.49006,9.484903,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 20:57:10,Class A,304354000,55.490063,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:00:09,Class A,304354000,55.490055,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:00:09,Class A,304354000,55.490055,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:00:09,Class A,304354000,55.490055,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:03:09,Class A,304354000,55.490065,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:03:09,Class A,304354000,55.490065,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:06:07,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:06:07,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:09:07,Class A,304354000,55.49008,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:12:08,Class A,304354000,55.490092,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:12:08,Class A,304354000,55.490092,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:15:10,Class A,304354000,55.490088,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:15:10,Class A,304354000,55.490088,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:21:08,Class A,304354000,55.490072,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:24:07,Class A,304354000,55.490087,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:27:07,Class A,304354000,55.490088,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:30:08,Class A,304354000,55.490077,9.4849,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:33:08,Class A,304354000,55.490077,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:36:10,Class A,304354000,55.490083,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:39:10,Class A,304354000,55.490078,9.48493,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:42:07,Class A,304354000,55.490072,9.484885,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:42:07,Class A,304354000,55.490072,9.484885,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:45:09,Class A,304354000,55.490088,9.484872,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:48:09,Class A,304354000,55.490082,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:51:08,Class A,304354000,55.490065,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:54:10,Class A,304354000,55.490075,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:54:10,Class A,304354000,55.490075,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 21:57:07,Class A,304354000,55.490068,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:00:06,Class A,304354000,55.490068,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:03:08,Class A,304354000,55.490062,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:03:08,Class A,304354000,55.490062,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:06:06,Class A,304354000,55.490053,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:06:06,Class A,304354000,55.490053,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:09:06,Class A,304354000,55.490072,9.484918,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:12:06,Class A,304354000,55.490058,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:12:06,Class A,304354000,55.490058,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:15:09,Class A,304354000,55.490065,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:18:08,Class A,304354000,55.490067,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:21:08,Class A,304354000,55.490058,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:25:07,Class A,304354000,55.490073,9.484907,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:25:11,Class A,304354000,55.490072,9.484905,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:28:07,Class A,304354000,55.490062,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:28:07,Class A,304354000,55.490062,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:31:08,Class A,304354000,55.49007,9.48488,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:34:09,Class A,304354000,55.490077,9.484897,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:37:07,Class A,304354000,55.49007,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:37:07,Class A,304354000,55.49007,9.484922,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:41:10,Class A,304354000,55.49007,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:41:10,Class A,304354000,55.49007,9.484912,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:41:13,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:41:13,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:41:13,Class A,304354000,55.490068,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:47:09,Class A,304354000,55.490073,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:47:09,Class A,304354000,55.490073,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:47:09,Class A,304354000,55.490073,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:50:09,Class A,304354000,55.490073,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:50:11,Class A,304354000,55.490057,9.484933,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:53:10,Class A,304354000,55.49006,9.48491,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 22:59:10,Class A,304354000,55.490065,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:02:11,Class A,304354000,55.490052,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:02:11,Class A,304354000,55.490052,9.484935,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:10:12,Class A,304354000,55.490052,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:13:09,Class A,304354000,55.490055,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:19:07,Class A,304354000,55.49005,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:19:07,Class A,304354000,55.49005,9.484927,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:22:09,Class A,304354000,55.490047,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:22:09,Class A,304354000,55.490047,9.484928,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:28:09,Class A,304354000,55.490047,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:28:09,Class A,304354000,55.490047,9.484913,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:31:09,Class A,304354000,55.490052,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:31:09,Class A,304354000,55.490052,9.484915,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:34:06,Class A,304354000,55.490058,9.484917,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:40:08,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:43:09,Class A,304354000,55.490047,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:43:09,Class A,304354000,55.490047,9.484898,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:46:09,Class A,304354000,55.490055,9.48492,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:49:07,Class A,304354000,55.490037,9.484902,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:52:07,Class A,304354000,55.490052,9.484923,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:55:08,Class A,304354000,55.490058,9.484942,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
+2024-11-26 23:58:08,Class A,304354000,55.49004,9.484908,Moored,0.0,0.0,,61.0,9136125,V2QS5,LUMEN,Cargo,,13.0,90.0,GPS,5.5,DKKOL,25/11/2024 18:50:00,AIS,77.0,13.0,3.0,10.0
