@@ -1,7 +1,0 @@
-# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
-26/11/2024 21:02:01,Class A,211310410,54.126958,8.861193,Moored,,0.0,217.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 21:12:39,Class A,211310410,54.126958,8.861193,Moored,,0.0,217.0,,Unknown,DIRV,DITHMARSCHEN 1,Fishing,,5.0,18.0,Internal,2.5,FISHING GROUND,,AIS,15.0,3.0,4.0,1.0
-26/11/2024 21:18:39,Class A,211310410,54.126958,8.861193,Moored,,0.0,217.0,,Unknown,DIRV,DITHMARSCHEN 1,Fishing,,5.0,18.0,Internal,2.5,FISHING GROUND,,AIS,15.0,3.0,4.0,1.0
-26/11/2024 21:19:56,Class A,211310410,54.126992,8.861168,Moored,,0.0,244.0,,Unknown,DIRV,DITHMARSCHEN 1,Fishing,,5.0,18.0,Internal,2.5,FISHING GROUND,,AIS,15.0,3.0,4.0,1.0
-26/11/2024 21:29:02,Class A,211310410,54.126972,8.861143,Moored,,0.0,276.2,,Unknown,DIRV,DITHMARSCHEN 1,Fishing,,5.0,18.0,Internal,2.5,FISHING GROUND,,AIS,15.0,3.0,4.0,1.0
-26/11/2024 21:38:01,Class A,211310410,54.126975,8.861108,Moored,,0.0,341.5,,Unknown,DIRV,DITHMARSCHEN 1,Fishing,,5.0,18.0,Internal,2.5,FISHING GROUND,,AIS,15.0,3.0,4.0,1.0

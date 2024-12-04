@@ -1,6 +1,0 @@
-# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
-26/11/2024 01:41:56,Class A,230018000,55.950615,16.9952,Restricted maneuverability,0.0,0.2,149.2,224.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 01:42:05,Class A,230018000,55.950613,16.995198,Restricted maneuverability,0.0,0.2,139.8,224.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 01:42:16,Class A,230018000,55.95061,16.995202,Restricted maneuverability,0.0,0.1,73.0,224.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 01:42:35,Class A,230018000,55.950615,16.995197,Restricted maneuverability,0.0,0.4,298.7,223.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 01:51:57,Class A,230018000,55.950607,16.995212,Restricted maneuverability,0.0,0.2,50.7,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,

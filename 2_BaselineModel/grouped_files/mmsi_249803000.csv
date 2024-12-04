@@ -1,5 +1,0 @@
-# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
-26/11/2024 00:21:15,Class A,249803000,56.115042,14.850445,At anchor,0.0,0.1,63.2,224.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-26/11/2024 01:18:31,Class A,249803000,56.115042,14.850445,At anchor,0.0,0.1,63.2,224.0,9431032,9HA2013,NIKE,Tanker,,17.0,122.0,GPS,5.4,RIGA FOR ORDERS,17/11/2024 21:00:00,AIS,98.0,24.0,10.0,7.0
-26/11/2024 02:30:20,Class A,249803000,56.115023,14.850337,At anchor,0.0,0.1,65.3,222.0,9431032,9HA2013,NIKE,Tanker,,17.0,122.0,GPS,5.4,RIGA FOR ORDERS,17/11/2024 21:00:00,AIS,98.0,24.0,10.0,7.0
-26/11/2024 05:21:18,Class A,249803000,56.115058,14.85047,At anchor,0.0,0.0,112.7,217.0,9431032,9HA2013,NIKE,Tanker,,17.0,122.0,GPS,5.4,RIGA FOR ORDERS,17/11/2024 21:00:00,AIS,98.0,24.0,10.0,7.0

@@ -1,4 +1,0 @@
-# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
-02/09/2024 00:00:02,Class A,354537000,54.415393,11.803383,Constrained by her draught,0.0,17.7,94.6,95.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-02/09/2024 00:00:03,Class A,354537000,54.415393,11.803383,Constrained by her draught,0.0,17.7,94.6,95.0,8918966,HPRL,MSC MANDY III,Cargo,,32.0,237.0,GPS,11.7,BE ANR > LT KLJ,02/09/2024 19:00:00,AIS,194.0,43.0,22.0,10.0
-02/09/2024 00:00:03,Class A,354537000,54.415393,11.803383,Constrained by her draught,0.0,17.7,94.6,95.0,8918966,HPRL,MSC MANDY III,Cargo,,32.0,237.0,GPS,11.7,BE ANR > LT KLJ,02/09/2024 19:00:00,AIS,194.0,43.0,22.0,10.0
