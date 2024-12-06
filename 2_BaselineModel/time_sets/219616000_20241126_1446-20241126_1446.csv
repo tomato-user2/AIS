@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-26 14:46:30,Class A,219616000,55.137962,7.534157,Under way using engine,0.0,1.7,57.7,13.0,7719832,OUWK2,MV ARCTIC HUNTER,Cargo,,9.0,41.0,GPS,3.7,NORTH SEA,26/11/2024 17:00:00,AIS,6.0,35.0,5.0,4.0,17.0

@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-26 19:44:12,Class A,257082000,55.473917,7.369145,Under way using engine,,10.2,8.2,12.0,9279446,LANT7,EMBLA,Tanker,No additional information,13.0,80.0,GPS,4.2,NOHRY,27/11/2024 22:00:00,AIS,72.0,8.0,7.0,6.0,12.0

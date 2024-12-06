@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-25 18:25:43,Class A,219115000,55.227133,7.036367,Under way using engine,2.2,13.2,178.1,182.0,9775763,OWHH2,VENTA MAERSK,Cargo,Category X,36.0,200.0,GPS,11.6,FIKTK-DEBRV,26/11/2024 01:30:00,AIS,161.0,39.0,18.0,18.0,14.0

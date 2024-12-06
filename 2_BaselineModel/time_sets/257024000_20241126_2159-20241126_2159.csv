@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-26 21:59:32,Class A,257024000,55.583422,7.000073,Under way using engine,,7.9,294.8,293.0,9579482,3YHO,ISLAND CAPTAIN,Other,,20.0,93.0,GPS,6.5,ELDFISK,23/11/2024 16:00:00,AIS,13.0,80.0,9.0,11.0,18.0

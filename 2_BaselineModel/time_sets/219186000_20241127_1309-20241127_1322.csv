@@ -1,0 +1,4 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-27 13:09:13,Class A,219186000,55.44882,7.353062,Under way using engine,2.2,10.6,93.9,95.0,9198056,OYPR2,ESVAGT DEE,SAR,,,,GPS,5.1,ESBJERG,28/11/2024 08:00:00,AIS,,,,,0.0
+2024-11-27 13:17:22,Class A,219186000,55.44737,7.395578,Under way using engine,-21.6,10.5,93.1,94.0,9198056,OYPR2,ESVAGT DEE,SAR,,,,GPS,5.1,ESBJERG,28/11/2024 08:00:00,AIS,,,,,0.0
+2024-11-27 13:22:14,Class A,219186000,55.446453,7.420865,Under way using engine,17.9,10.7,94.2,96.0,9198056,OYPR2,ESVAGT DEE,SAR,,,,GPS,5.1,ESBJERG,28/11/2024 08:00:00,AIS,,,,,0.0

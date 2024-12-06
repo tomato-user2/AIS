@@ -15,10 +15,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 2**: [Article: AIS, ship behaviour prediction]
 
   - **[[Link](https://www.sciencedirect.com/science/article/pii/S0951832021003409)](https://www.sciencedirect.com/science/article/pii/S0951832021003409)**
-  - **Objective**: An AIS-based deep learning framework for regional ship behavior prediction
-  - **Methods**: Recurrent neural networks (RNNs) ([44]) are designed to handle sequence data. The general RNN architecture is visualized in Fig. 2. As historical AIS trajectories are multivariate time series, RNNs are chosen to serve as the main deep learning architecture in the framework utilized in this study. RNNs are capable of handling time series of variable length, and can be combined with other architectures to achieve various goals. 
-  - **Outcomes**:
-  - **Relation to the Project**: 
+  - **Objective**: To develop a deep learning framework that predicts the future trajectories of ships in a region, aiding proactive collision avoidance and enhancing maritime safety.
+  - **Methods**: The framework clusters historical AIS data using a Variational Recurrent Autoencoder (VRAE) and the HDBSCAN algorithm to group similar ship behaviors. It trains sequence-to-sequence models with attention mechanisms on localized clusters of ship trajectories for enhanced predictive accuracy.
+  - **Outcomes**: The approach successfully predicted 30-minute trajectories of ships, achieving higher accuracy than global models trained on entire datasets. The attention-based sequence-to-sequence models provided effective predictions even for complex maritime traffic scenarios.
+  - **Relation to the Project**: This study provides a practical framework for handling maritime AIS data, clustering it into meaningful patterns, and using localized predictive models for trajectory forecasting. The methods and insights can guide similar predictive tasks using temporal data in maritime and other domains.
 
 - **Source 3**: [AIS database]
 

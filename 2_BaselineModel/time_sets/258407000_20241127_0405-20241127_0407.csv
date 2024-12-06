@@ -1,0 +1,4 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-27 04:05:17,Class A,258407000,55.362387,7.423218,Under way using engine,,7.9,178.1,183.0,7638519,LGNY3,SILVER FIRDA,Cargo,,11.0,63.0,GPS,4.5,CUXHAVEN,27/11/2024 14:30:00,AIS,53.0,10.0,9.0,2.0,20.0
+2024-11-27 04:06:27,Class A,258407000,55.359823,7.423415,Under way using engine,0.0,7.8,175.9,180.0,7638519,LGNY3,SILVER FIRDA,Cargo,,11.0,63.0,GPS,4.5,CUXHAVEN,27/11/2024 14:30:00,AIS,53.0,10.0,9.0,2.0,20.0
+2024-11-27 04:07:57,Class A,258407000,55.356413,7.423663,Under way using engine,0.0,7.9,177.9,180.0,7638519,LGNY3,SILVER FIRDA,Cargo,,11.0,63.0,GPS,4.5,CUXHAVEN,27/11/2024 14:30:00,AIS,53.0,10.0,9.0,2.0,20.0

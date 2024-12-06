@@ -1,0 +1,4 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-27 16:35:43,Class A,636023265,55.023735,7.341523,Under way using engine,0.0,11.3,352.1,356.0,9947146,5LMV7,MSC ANITA,Cargo,Category X,51.0,366.0,GPS,13.2,GDYNIA,30/11/2024 09:00:00,AIS,113.0,253.0,30.0,21.0,0.0
+2024-11-27 16:48:23,Class A,636023265,55.063558,7.335233,Under way using engine,-0.7,11.2,354.4,358.0,9947146,5LMV7,MSC ANITA,Cargo,Category X,51.0,366.0,GPS,13.2,GDYNIA,30/11/2024 09:00:00,AIS,113.0,253.0,30.0,21.0,0.0
+2024-11-27 16:49:23,Class A,636023265,55.06667,7.334803,Under way using engine,-0.0,11.3,355.2,358.0,9947146,5LMV7,MSC ANITA,Cargo,Category X,51.0,366.0,GPS,13.2,GDYNIA,30/11/2024 09:00:00,AIS,113.0,253.0,30.0,21.0,0.0
