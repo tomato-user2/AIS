@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 00:11:53,Class A,244341000,55.328853,7.427232,Under way using engine,0.0,7.4,257.1,265.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,0.0

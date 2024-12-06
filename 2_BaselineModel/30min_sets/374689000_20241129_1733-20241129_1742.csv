@@ -1,0 +1,29 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-29 17:33:33,Class A,374689000,55.073525,7.64395,Restricted maneuverability,,4.6,40.7,21.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:33:39,Class A,374689000,55.073632,7.644063,Restricted maneuverability,,4.5,35.5,18.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:33:46,Class A,374689000,55.073755,7.644188,Restricted maneuverability,,4.4,31.7,13.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:34:16,Class A,374689000,55.0743,7.64448,Restricted maneuverability,,4.0,13.4,352.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:34:23,Class A,374689000,55.07442,7.644487,Restricted maneuverability,,3.8,7.4,346.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:34:36,Class A,374689000,55.074642,7.644458,Restricted maneuverability,,3.7,358.2,338.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:34:43,Class A,374689000,55.074752,7.644423,Restricted maneuverability,,3.6,353.5,336.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:34:49,Class A,374689000,55.074842,7.644385,Restricted maneuverability,,3.5,350.8,333.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:36:02,Class A,374689000,55.075688,7.643392,Restricted maneuverability,,2.9,312.6,289.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:36:06,Class A,374689000,55.075717,7.64332,Restricted maneuverability,,2.9,310.4,286.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:36:16,Class A,374689000,55.075778,7.643115,Restricted maneuverability,,2.8,302.3,281.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:23,Class A,374689000,55.075837,7.641508,Restricted maneuverability,,3.2,259.4,243.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:33,Class A,374689000,55.075787,7.641263,Restricted maneuverability,,3.2,253.4,236.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:36,Class A,374689000,55.075767,7.641197,Restricted maneuverability,,3.2,251.0,235.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:40,Class A,374689000,55.075748,7.641118,Restricted maneuverability,,3.3,250.5,232.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:43,Class A,374689000,55.075717,7.641028,Restricted maneuverability,,3.3,246.5,229.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:43,Class A,374689000,55.075717,7.641028,Restricted maneuverability,,3.3,246.5,229.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:37:50,Class A,374689000,55.07567,7.640895,Restricted maneuverability,,3.3,242.9,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:38:19,Class A,374689000,55.075343,7.640357,Restricted maneuverability,,3.3,220.4,209.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:38:53,Class A,374689000,55.074742,7.639843,Restricted maneuverability,0.0,4.7,205.1,211.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:39:23,Class A,374689000,55.073938,7.639157,Restricted maneuverability,0.0,6.8,207.4,210.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:39:44,Class A,374689000,55.073302,7.638575,Restricted maneuverability,0.0,7.7,208.2,209.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:40:23,Class A,374689000,55.071995,7.63724,Restricted maneuverability,,8.5,212.7,215.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:41:03,Class A,374689000,55.070585,7.63561,Restricted maneuverability,0.0,9.0,213.4,215.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,54.0
+2024-11-29 17:41:18,Class A,374689000,55.070585,7.63561,Restricted maneuverability,0.0,9.0,213.4,215.0,9394301,HOAL,GLOMAR SUPPORTER,Dredging,,16.0,60.0,GPS,5.8,KEEP MIN CPA 0.7 NM,28/11/2024 16:00:00,AIS,24.0,36.0,6.0,10.0,54.0
+2024-11-29 17:41:23,Class A,374689000,55.069908,7.634848,Restricted maneuverability,0.0,9.1,213.2,216.0,9394301,HOAL,GLOMAR SUPPORTER,Dredging,,16.0,60.0,GPS,5.8,KEEP MIN CPA 0.7 NM,28/11/2024 16:00:00,AIS,24.0,36.0,6.0,10.0,54.0
+2024-11-29 17:41:44,Class A,374689000,55.069158,7.633985,Restricted maneuverability,0.0,9.3,213.3,214.0,9394301,HOAL,GLOMAR SUPPORTER,Dredging,,16.0,60.0,GPS,5.8,KEEP MIN CPA 0.7 NM,28/11/2024 16:00:00,AIS,24.0,36.0,6.0,10.0,54.0
+2024-11-29 17:42:03,Class A,374689000,55.068435,7.633147,Restricted maneuverability,0.0,9.4,213.8,215.0,9394301,HOAL,GLOMAR SUPPORTER,Dredging,,16.0,60.0,GPS,5.8,KEEP MIN CPA 0.7 NM,28/11/2024 16:00:00,AIS,24.0,36.0,6.0,10.0,54.0

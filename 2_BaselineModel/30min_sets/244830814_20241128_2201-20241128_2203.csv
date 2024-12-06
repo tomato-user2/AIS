@@ -1,0 +1,3 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 22:01:43,Class A,244830814,55.389063,7.534422,Under way using engine,1.1,8.1,270.2,272.0,9758557,PCZI,BIGLIFT BAFFIN,Cargo,No additional information,42.0,173.0,GPS,5.7,SKAGEN ANCHORAGE,30/11/2024 08:00:00,AIS,25.0,148.0,21.0,21.0,4.0
+2024-11-28 22:03:23,Class A,244830814,55.389093,7.527865,Under way using engine,1.1,8.1,270.4,272.0,9758557,PCZI,BIGLIFT BAFFIN,Cargo,No additional information,42.0,173.0,GPS,5.7,SKAGEN ANCHORAGE,30/11/2024 08:00:00,AIS,25.0,148.0,21.0,21.0,4.0

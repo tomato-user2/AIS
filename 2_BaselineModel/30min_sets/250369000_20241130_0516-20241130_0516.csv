@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-30 05:16:17,Class A,250369000,55.218483,7.02226,Engaged in fishing,,3.2,272.9,262.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,25.0

@@ -1,0 +1,21 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-30 14:26:41,Class A,250369000,55.115512,7.034105,Engaged in fishing,,8.7,255.2,254.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:26:50,Class A,250369000,55.115417,7.033428,Engaged in fishing,,8.6,255.7,251.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:27:11,Class A,250369000,55.115223,7.032103,Engaged in fishing,,8.5,256.3,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:27:41,Class A,250369000,55.114953,7.030175,Engaged in fishing,,8.4,256.8,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:27:50,Class A,250369000,55.114865,7.029572,Engaged in fishing,0.0,8.7,256.2,255.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:28:11,Class A,250369000,55.114687,7.02818,Engaged in fishing,0.0,8.3,255.0,252.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:28:20,Class A,250369000,55.114598,7.027513,Engaged in fishing,0.0,8.5,256.1,255.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:28:41,Class A,250369000,55.114438,7.026285,Engaged in fishing,0.0,8.2,258.0,252.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:28:50,Class A,250369000,55.114327,7.025633,Engaged in fishing,,8.5,252.7,250.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:29:11,Class A,250369000,55.114148,7.024262,Engaged in fishing,,8.3,256.3,249.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:29:50,Class A,250369000,55.113815,7.021895,Engaged in fishing,,7.7,254.9,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:31:10,Class A,250369000,55.113112,7.016703,Engaged in fishing,,9.0,253.7,256.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:31:41,Class A,250369000,55.112847,7.014648,Engaged in fishing,,8.6,255.4,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:31:50,Class A,250369000,55.112777,7.014052,Engaged in fishing,,8.5,260.1,251.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:32:40,Class A,250369000,55.112292,7.010825,Engaged in fishing,0.0,8.5,256.7,252.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:32:50,Class A,250369000,55.1122,7.010135,Engaged in fishing,,8.9,257.4,254.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:33:10,Class A,250369000,55.112027,7.008837,Engaged in fishing,0.0,8.3,258.2,255.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:34:10,Class A,250369000,55.111497,7.004847,Engaged in fishing,,8.6,258.3,251.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:34:50,Class A,250369000,55.111102,7.002132,Engaged in fishing,,8.9,257.2,253.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
+2024-11-30 14:35:10,Class A,250369000,55.110912,7.000678,Engaged in fishing,,8.8,258.0,255.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,44.0
