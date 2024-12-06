@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 12:37:59,Class A,219043000,55.453188,7.49167,Under way using engine,1.1,9.1,292.6,297.0,9536882,OUMF2,ESVAGT CHRISTINA,SAR,,12.0,46.0,Combined GPS/GLONASS,4.5,TAMBAR OIL FIELD,29/11/2024 19:00:00,AIS,17.0,29.0,5.0,7.0,4.0

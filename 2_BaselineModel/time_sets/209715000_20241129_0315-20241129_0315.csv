@@ -1,0 +1,6 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-29 03:15:18,Class A,209715000,55.514042,7.37699,Under way using engine,0.0,18.3,356.2,359.0,9234991,P3CJ9,ELBSKIPPER,Cargo,Category X,22.0,135.0,Undefined,8.0,NOOSL,29/11/2024 17:00:00,AIS,124.0,11.0,20.0,2.0,4.0
+2024-11-29 03:15:36,Class A,209715000,55.515558,7.376807,Under way using engine,0.0,18.3,355.9,359.0,9234991,P3CJ9,ELBSKIPPER,Cargo,Category X,22.0,135.0,Undefined,8.0,NOOSL,29/11/2024 17:00:00,AIS,124.0,11.0,20.0,2.0,4.0
+2024-11-29 03:15:48,Class A,209715000,55.51657,7.376698,Under way using engine,0.0,18.3,356.2,359.0,9234991,P3CJ9,ELBSKIPPER,Cargo,Category X,22.0,135.0,Undefined,8.0,NOOSL,29/11/2024 17:00:00,AIS,124.0,11.0,20.0,2.0,4.0
+2024-11-29 03:15:53,Class A,209715000,55.516995,7.376645,Under way using engine,0.0,18.3,356.0,359.0,9234991,P3CJ9,ELBSKIPPER,Cargo,Category X,22.0,135.0,Undefined,8.0,NOOSL,29/11/2024 17:00:00,AIS,124.0,11.0,20.0,2.0,4.0
+2024-11-29 03:15:53,Class A,209715000,55.516995,7.376645,Under way using engine,0.0,18.3,356.0,359.0,9234991,P3CJ9,ELBSKIPPER,Cargo,Category X,22.0,135.0,Undefined,8.0,NOOSL,29/11/2024 17:00:00,AIS,124.0,11.0,20.0,2.0,4.0

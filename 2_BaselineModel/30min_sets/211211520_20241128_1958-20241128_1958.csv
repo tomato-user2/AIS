@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 19:58:35,Class A,211211520,55.485585,7.154755,Under way using engine,0.0,15.2,195.1,194.0,Unknown,DRHO,GERMAN WARSHIP A516,Military,,16.0,101.0,GPS,3.9,Unknown,03/07/2025 12:50:00,AIS,66.0,35.0,2.0,14.0,4.0

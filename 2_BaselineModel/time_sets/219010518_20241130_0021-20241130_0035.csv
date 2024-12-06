@@ -1,0 +1,22 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-30 00:21:26,Class A,219010518,55.51334,7.394293,Under way using engine,-82.5,2.5,143.5,162.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:22:53,Class A,219010518,55.512585,7.39571,Under way using engine,-51.6,2.9,125.3,137.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:23:41,Class A,219010518,55.512315,7.396763,Under way using engine,-35.0,3.0,106.0,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:23:43,Class A,219010518,55.512288,7.396832,Under way using engine,-17.9,3.0,115.6,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:24:16,Class A,219010518,55.512133,7.39759,Under way using engine,12.9,3.0,108.8,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:24:43,Class A,219010518,55.511985,7.398193,Under way using engine,45.7,3.0,115.5,133.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:24:50,Class A,219010518,55.51195,7.398345,Under way using engine,14.5,2.9,119.1,130.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:26:03,Class A,219010518,55.511567,7.4,Under way using engine,-35.0,3.0,117.2,128.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:26:07,Class A,219010518,55.511557,7.400082,Under way using engine,21.6,3.1,110.9,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:27:50,Class A,219010518,55.510975,7.402515,Under way using engine,7.5,3.1,120.6,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:29:30,Class A,219010518,55.510327,7.40486,Under way using engine,-11.4,3.2,117.5,130.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:29:37,Class A,219010518,55.510282,7.405032,Under way using engine,16.1,3.2,115.3,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:30:30,Class A,219010518,55.509953,7.406257,Under way using engine,-27.9,3.0,112.7,128.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:32:41,Class A,219010518,55.50914,7.409322,Under way using engine,0.0,3.1,119.3,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:33:17,Class A,219010518,55.508928,7.410165,Under way using engine,11.4,3.1,118.8,128.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:33:37,Class A,219010518,55.508822,7.410628,Under way using engine,67.9,3.0,116.1,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:34:03,Class A,219010518,55.508665,7.411242,Under way using engine,25.7,3.1,115.0,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:34:13,Class A,219010518,55.508612,7.411477,Under way using engine,-21.6,3.1,107.8,130.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:34:30,Class A,219010518,55.50852,7.411848,Under way using engine,71.4,3.1,110.8,132.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:34:41,Class A,219010518,55.508457,7.4121,Under way using engine,-51.6,3.1,109.6,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0
+2024-11-30 00:35:30,Class A,219010518,55.50816,7.413218,Under way using engine,37.5,3.2,114.1,129.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,39.0

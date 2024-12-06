@@ -1,0 +1,3 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-30 23:52:27,Class A,258514000,55.526233,7.457613,Under way using engine,-10.0,9.9,118.4,122.0,9325738,LMWS,ISLAND PATRIOT,Cargo,,19.0,87.0,GPS,6.4,ESBJERG,01/12/2024 06:00:00,AIS,20.0,67.0,8.0,11.0,11.0
+2024-11-30 23:58:26,Class A,258514000,55.518607,7.483027,Under way using engine,-10.0,9.9,116.6,120.0,9325738,LMWS,ISLAND PATRIOT,Cargo,,19.0,87.0,GPS,6.4,ESBJERG,01/12/2024 06:00:00,AIS,20.0,67.0,8.0,11.0,11.0

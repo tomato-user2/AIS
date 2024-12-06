@@ -1,5 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-29 03:03:15,Class A,235003400,55.880383,7.239542,Engaged in fishing,,4.2,2.3,,9087154,MSVW3,OUR HAZEL,Other,No additional information,8.0,14.0,GPS,,HVIDE SANDE,08/10/2025 15:30:00,AIS,10.0,4.0,4.0,4.0,24.0
-2024-11-29 03:03:24,Class A,235003400,55.880533,7.239555,Engaged in fishing,,3.7,0.2,,9087154,MSVW3,OUR HAZEL,Other,No additional information,8.0,14.0,GPS,,HVIDE SANDE,08/10/2025 15:30:00,AIS,10.0,4.0,4.0,4.0,24.0
-2024-11-29 03:09:35,Class A,235003400,55.886928,7.239057,Engaged in fishing,,4.3,7.4,,9087154,MSVW3,OUR HAZEL,Other,No additional information,8.0,14.0,GPS,,HVIDE SANDE,08/10/2025 15:30:00,AIS,10.0,4.0,4.0,4.0,24.0
-2024-11-29 03:24:24,Class A,235003400,55.901958,7.237955,Engaged in fishing,,2.9,354.8,,9087154,MSVW3,OUR HAZEL,Other,No additional information,8.0,14.0,GPS,,HVIDE SANDE,08/10/2025 15:30:00,AIS,10.0,4.0,4.0,4.0,24.0

@@ -1,0 +1,3 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-29 14:55:17,Class A,219028965,55.063508,7.240945,Restricted maneuverability,0.0,0.2,323.8,55.0,9294006,OZAV2,NORTHERN MARIA,Other,No additional information,16.0,75.0,GPS,4.9,SYLWIN ALPHA,28/11/2024 18:00:00,AIS,13.0,62.0,9.0,7.0,100.0
+2024-11-29 15:00:37,Class A,219028965,55.06347,7.241045,Restricted maneuverability,0.0,0.1,298.3,55.0,9294006,OZAV2,NORTHERN MARIA,Other,No additional information,16.0,75.0,GPS,4.9,SYLWIN ALPHA,28/11/2024 18:00:00,AIS,13.0,62.0,9.0,7.0,100.0

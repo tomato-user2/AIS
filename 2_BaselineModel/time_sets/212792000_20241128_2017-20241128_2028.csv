@@ -1,0 +1,3 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 20:17:13,Class A,212792000,55.962935,7.12545,Under way using engine,0.0,12.2,339.0,341.0,9754422,5BVM4,FREYJA W,Cargo,,22.0,138.0,GPS,6.6,NOGJM,30/11/2024 18:00:00,AIS,124.0,14.0,6.0,16.0,58.0
+2024-11-28 20:28:32,Class A,212792000,55.99937,7.101613,Under way using engine,0.0,12.4,341.6,343.0,9754422,5BVM4,FREYJA W,Cargo,,22.0,138.0,GPS,6.6,NOGJM,30/11/2024 18:00:00,AIS,124.0,14.0,6.0,16.0,58.0

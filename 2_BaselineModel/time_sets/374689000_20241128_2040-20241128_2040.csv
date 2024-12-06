@@ -1,0 +1,2 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 20:40:12,Class A,374689000,55.035153,7.566125,Restricted maneuverability,0.0,4.3,229.9,236.0,9394301,HOAL,GLOMAR SUPPORTER,Dredging,,16.0,60.0,GPS,5.8,KEEP MIN CPA 0.7 NM,28/11/2024 16:00:00,AIS,24.0,36.0,6.0,10.0,25.0

@@ -1,0 +1,15 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-30 21:35:27,Class A,258514000,55.842057,7.21138,Under way using engine,8.7,9.7,156.4,161.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:43:47,Class A,258514000,55.821162,7.226412,Under way using engine,16.1,9.9,160.0,163.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:44:06,Class A,258514000,55.820323,7.226987,Under way using engine,7.5,9.9,159.4,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:44:27,Class A,258514000,55.819477,7.227527,Under way using engine,-12.9,9.8,160.3,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:44:47,Class A,258514000,55.818617,7.228065,Under way using engine,3.6,9.9,160.8,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:45:27,Class A,258514000,55.816925,7.229187,Under way using engine,12.9,9.6,158.6,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:45:47,Class A,258514000,55.816087,7.229722,Under way using engine,-8.7,9.7,160.3,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:46:06,Class A,258514000,55.815243,7.230265,Under way using engine,2.9,9.8,160.4,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:46:27,Class A,258514000,55.814412,7.23082,Under way using engine,3.6,9.5,159.6,163.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:47:27,Class A,258514000,55.811893,7.23245,Under way using engine,-11.4,9.7,161.3,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:48:06,Class A,258514000,55.810205,7.233532,Under way using engine,-2.2,9.7,160.6,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:48:27,Class A,258514000,55.809315,7.234103,Under way using engine,2.9,9.7,161.1,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:49:06,Class A,258514000,55.80769,7.235205,Under way using engine,6.4,9.5,158.4,164.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0
+2024-11-30 21:49:47,Class A,258514000,55.805985,7.23622,Under way using engine,-2.2,9.7,162.0,166.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,2.0

@@ -1,0 +1,4 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 10:36:25,Class A,219029785,55.02743,7.635188,Under way using engine,0.7,10.4,223.5,225.0,9621704,OZPA2,WIND OSPREY,Undefined,,49.0,160.0,GPS,5.8,"BKR OWF,GER",28/11/2024 19:00:00,AIS,16.0,144.0,34.0,15.0,7.0
+2024-11-28 10:40:06,Class A,219029785,55.019125,7.623033,Under way using engine,-1.6,10.4,220.1,220.0,9621704,OZPA2,WIND OSPREY,Undefined,,49.0,160.0,GPS,5.8,"BKR OWF,GER",28/11/2024 19:00:00,AIS,16.0,144.0,34.0,15.0,7.0
+2024-11-28 10:46:36,Class A,219029785,55.00458,7.601638,Under way using engine,0.7,10.6,219.9,219.0,9621704,OZPA2,WIND OSPREY,Undefined,,49.0,160.0,GPS,5.8,"BKR OWF,GER",28/11/2024 19:00:00,AIS,16.0,144.0,34.0,15.0,7.0

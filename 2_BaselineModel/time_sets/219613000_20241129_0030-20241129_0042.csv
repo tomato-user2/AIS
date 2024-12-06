@@ -1,0 +1,95 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-29 00:30:12,Class A,219613000,55.005567,7.716217,Under way using engine,,0.1,110.8,6.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:15,Class A,219613000,55.005567,7.716217,Under way using engine,,0.1,8.7,9.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:19,Class A,219613000,55.005567,7.716217,Under way using engine,,0.1,121.1,12.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:19,Class A,219613000,55.005567,7.716217,Under way using engine,,0.1,121.1,12.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:29,Class A,219613000,55.005567,7.716217,Under way using engine,,0.1,19.6,20.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:39,Class A,219613000,55.00555,7.716217,Under way using engine,,0.3,193.7,31.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:49,Class A,219613000,55.005533,7.7162,Under way using engine,,0.2,225.0,40.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:52,Class A,219613000,55.005533,7.7162,Under way using engine,,0.3,208.5,45.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:30:55,Class A,219613000,55.005533,7.7162,Under way using engine,,0.2,212.6,47.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:02,Class A,219613000,55.005533,7.716183,Under way using engine,,0.3,227.0,55.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:05,Class A,219613000,55.005533,7.716183,Under way using engine,,0.3,235.7,58.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:09,Class A,219613000,55.005533,7.716167,Under way using engine,,0.2,277.6,62.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:12,Class A,219613000,55.005517,7.716167,Under way using engine,,0.4,225.8,65.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:15,Class A,219613000,55.005533,7.716167,Under way using engine,,0.3,238.9,69.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:19,Class A,219613000,55.005517,7.71615,Under way using engine,,0.3,248.0,72.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:22,Class A,219613000,55.005517,7.71615,Under way using engine,,0.2,249.8,75.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:25,Class A,219613000,55.005517,7.71615,Under way using engine,,0.2,297.3,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:32,Class A,219613000,55.005533,7.71615,Under way using engine,,0.1,291.3,85.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:36,Class A,219613000,55.005533,7.71615,Under way using engine,,0.1,87.8,88.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:39,Class A,219613000,55.005533,7.71615,Under way using engine,,0.1,5.6,91.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:42,Class A,219613000,55.005533,7.71615,Under way using engine,,0.2,48.6,94.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:45,Class A,219613000,55.005533,7.71615,Under way using engine,,0.2,46.6,96.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:49,Class A,219613000,55.005533,7.716167,Under way using engine,,0.3,50.7,98.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:52,Class A,219613000,55.005533,7.716183,Under way using engine,,0.3,50.5,101.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:31:59,Class A,219613000,55.005533,7.7162,Under way using engine,,0.3,56.3,103.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:02,Class A,219613000,55.005533,7.716217,Under way using engine,,0.4,69.7,105.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:05,Class A,219613000,55.00555,7.716217,Under way using engine,,0.4,63.1,106.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:12,Class A,219613000,55.00555,7.716233,Under way using engine,,0.4,63.5,109.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:12,Class A,219613000,55.00555,7.716233,Under way using engine,,0.4,63.5,109.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:15,Class A,219613000,55.00555,7.71625,Under way using engine,,0.4,77.5,111.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:26,Class A,219613000,55.00555,7.716267,Under way using engine,,0.3,56.0,115.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:26,Class A,219613000,55.00555,7.716267,Under way using engine,,0.3,56.0,115.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:29,Class A,219613000,55.00555,7.716283,Under way using engine,,0.4,71.2,116.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:29,Class A,219613000,55.00555,7.716283,Under way using engine,,0.4,71.2,116.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:36,Class A,219613000,55.005567,7.7163,Under way using engine,,0.4,68.0,119.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:36,Class A,219613000,55.005567,7.7163,Under way using engine,,0.4,68.0,119.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:39,Class A,219613000,55.005567,7.7163,Under way using engine,,0.2,31.8,120.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:43,Class A,219613000,55.005567,7.716317,Under way using engine,,0.3,58.0,121.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:45,Class A,219613000,55.005567,7.7163,Under way using engine,,0.2,37.6,122.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:49,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,51.6,123.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:49,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,51.6,123.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:52,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,42.9,124.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:56,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,26.5,126.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:59,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,36.0,127.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:32:59,Class A,219613000,55.005567,7.716317,Under way using engine,,0.2,36.0,127.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:02,Class A,219613000,55.005583,7.716317,Under way using engine,,0.1,16.9,128.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:09,Class A,219613000,55.005583,7.716333,Under way using engine,,0.2,21.7,130.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:12,Class A,219613000,55.005583,7.716333,Under way using engine,,0.3,54.0,130.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:15,Class A,219613000,55.005583,7.716333,Under way using engine,,0.2,28.0,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:19,Class A,219613000,55.005583,7.71635,Under way using engine,,0.3,50.2,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:23,Class A,219613000,55.0056,7.71635,Under way using engine,,0.2,28.9,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:26,Class A,219613000,55.0056,7.71635,Under way using engine,0.0,0.2,52.6,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:32,Class A,219613000,55.0056,7.716367,Under way using engine,0.0,0.3,51.3,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:36,Class A,219613000,55.0056,7.716367,Under way using engine,0.0,0.2,18.8,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:33:56,Class A,219613000,55.005617,7.716383,Under way using engine,0.0,0.2,25.9,132.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:05,Class A,219613000,55.005633,7.716417,Under way using engine,0.0,0.3,47.5,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:05,Class A,219613000,55.005633,7.716417,Under way using engine,0.0,0.3,47.5,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:15,Class A,219613000,55.005633,7.716417,Under way using engine,0.0,0.2,36.5,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:26,Class A,219613000,55.00565,7.716433,Under way using engine,0.0,0.2,48.7,132.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:36,Class A,219613000,55.00565,7.71645,Under way using engine,0.0,0.2,45.9,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:36,Class A,219613000,55.00565,7.71645,Under way using engine,0.0,0.2,45.9,131.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:56,Class A,219613000,55.005667,7.716467,Under way using engine,0.0,0.3,25.8,132.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,98.0
+2024-11-29 00:34:59,Class A,219613000,55.005667,7.716467,Under way using engine,0.0,0.3,25.8,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:35:05,Class A,219613000,55.005667,7.716467,Under way using engine,0.0,0.2,47.9,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:35:15,Class A,219613000,55.005683,7.716483,Under way using engine,0.0,0.3,58.3,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:35:15,Class A,219613000,55.005683,7.716483,Under way using engine,0.0,0.3,58.3,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:35:26,Class A,219613000,55.005683,7.7165,Under way using engine,0.0,0.2,28.9,131.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:35:56,Class A,219613000,55.005717,7.716533,Under way using engine,0.0,0.2,31.6,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:36:05,Class A,219613000,55.005717,7.716533,Under way using engine,0.0,0.2,35.3,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:36:15,Class A,219613000,55.005717,7.71655,Under way using engine,0.0,0.1,43.8,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:36:26,Class A,219613000,55.005733,7.71655,Under way using engine,0.0,0.2,47.2,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:36:37,Class A,219613000,55.005733,7.716567,Under way using engine,0.0,0.2,51.1,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:36:56,Class A,219613000,55.00575,7.716567,Under way using engine,0.0,0.1,27.1,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:37:15,Class A,219613000,55.00575,7.7166,Under way using engine,0.0,0.2,44.8,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:37:26,Class A,219613000,55.00575,7.7166,Under way using engine,0.0,0.2,26.9,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:37:56,Class A,219613000,55.005767,7.716617,Under way using engine,0.0,0.2,34.2,131.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:05,Class A,219613000,55.005783,7.716617,Under way using engine,0.0,0.1,10.5,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:15,Class A,219613000,55.005783,7.716633,Under way using engine,0.0,0.1,38.0,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:15,Class A,219613000,55.005783,7.716633,Under way using engine,0.0,0.1,38.0,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:26,Class A,219613000,55.005783,7.716633,Under way using engine,0.0,0.2,43.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:26,Class A,219613000,55.005783,7.716633,Under way using engine,0.0,0.2,43.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:46,Class A,219613000,55.0058,7.71665,Under way using engine,0.0,0.2,25.8,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:56,Class A,219613000,55.0058,7.716667,Under way using engine,0.0,0.1,39.3,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:38:56,Class A,219613000,55.0058,7.716667,Under way using engine,0.0,0.1,39.3,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:39:15,Class A,219613000,55.0058,7.716667,Under way using engine,0.0,0.1,18.9,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:39:56,Class A,219613000,55.005817,7.7167,Under way using engine,0.0,0.1,132.1,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:40:15,Class A,219613000,55.005833,7.716717,Under way using engine,0.0,0.2,47.2,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:40:26,Class A,219613000,55.005833,7.716717,Under way using engine,0.0,0.1,16.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:41:15,Class A,219613000,55.00585,7.71675,Under way using engine,0.0,0.1,44.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:41:15,Class A,219613000,55.00585,7.71675,Under way using engine,0.0,0.1,44.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:41:55,Class A,219613000,55.005867,7.716783,Under way using engine,0.0,0.2,64.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:41:55,Class A,219613000,55.005867,7.716783,Under way using engine,0.0,0.2,64.4,132.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:42:06,Class A,219613000,55.005867,7.7168,Under way using engine,0.0,0.0,133.0,133.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0
+2024-11-29 00:42:15,Class A,219613000,55.005867,7.7168,Under way using engine,0.0,0.1,134.3,134.0,9703473,OWGH2,ESVAGT FARADAY,Other,,18.0,84.0,Integrated navigation system,6.2,BUTENDIEK OWF,27/11/2024 03:00:00,AIS,15.0,69.0,9.0,9.0,98.0

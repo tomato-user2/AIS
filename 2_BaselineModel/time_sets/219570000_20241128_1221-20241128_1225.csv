@@ -1,0 +1,4 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-11-28 12:21:05,Class A,219570000,55.135277,7.59108,Under way using engine,0.0,10.2,232.4,232.0,8862569,OXQL2,SOELOEVEN,Spare 1,,9.0,46.0,GPS,5.2,NORDLICHT OWF,28/11/2024 22:00:00,AIS,24.0,22.0,3.0,6.0,7.0
+2024-11-28 12:24:05,Class A,219570000,55.129967,7.579413,Under way using engine,,10.3,230.8,231.0,8862569,OXQL2,SOELOEVEN,Spare 1,,9.0,46.0,GPS,5.2,NORDLICHT OWF,28/11/2024 22:00:00,AIS,24.0,22.0,3.0,6.0,7.0
+2024-11-28 12:25:05,Class A,219570000,55.128233,7.575547,Under way using engine,,10.1,230.7,231.0,8862569,OXQL2,SOELOEVEN,Spare 1,,9.0,46.0,GPS,5.2,NORDLICHT OWF,28/11/2024 22:00:00,AIS,24.0,22.0,3.0,6.0,7.0
