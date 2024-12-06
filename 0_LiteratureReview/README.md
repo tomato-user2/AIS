@@ -22,8 +22,12 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 3**: [AIS database]
 
-  - **[[Link](http://web.ais.dk/aisdata/)](http://web.ais.dk/aisdata/)**
-  - **Objective**: Index of /aisdata
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**: Database for AIS input data
+  - **[[Link](https://github.com/GlobalFishingWatch/vessel-scoring)](https://github.com/GlobalFishingWatch/vessel-scoring)**
+  - **Objective**: To evaluate and compare heuristic and machine learning models, including logistic regression and multi-window approaches, for detecting fishing activities using AIS data.
+  - **Methods**: Three models were compared:
+
+    Heuristic Model: Uses correlations between fishing likelihood and features like speed and course standard deviations over one-hour windows.
+    Generic Logistic Model: Expands on the heuristic model with higher-order features and a 12-hour time window for improved expressiveness.
+    Multi-Window, Gear-Type-Specific Model: Uses multiple time windows (0.5–24 hours) and gear-specific training to refine predictions, incorporating additional features like daylight presence.
+  - **Outcomes**: The multi-window, gear-specific model significantly improved performance, especially for purse seiners, compared to the heuristic and generic logistic models. It demonstrated high recall and precision for gear types like longliners and trawlers. Future plans include exploring random forests, neural networks, and deep learning techniques to enhance detection further.
+  - **Relation to the Project**: This study demonstrates advanced approaches to detecting activity patterns from AIS data. Its insights into feature engineering, time-window selection, and gear-specific models are directly relevant to projects aiming to classify vessel activities or detect behavioral patterns.
