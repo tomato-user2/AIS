@@ -8,11 +8,12 @@
 3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps.
 - steps: grouping by vessel (show little map tiles of the xx min sets)
 - (within the model): filtering by area; creating xxmin sets of equal Navigational Status 
+- as an intermediate result, from extracting data from 6 day data files (~17GB) got this number of 15min slots: {'Under way using engine': 3037, 'Engaged in fishing': 469, 'Restricted maneuverability': 651, 'Moored': 176, 'Under way sailing': 33}
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
 - logistic regression for simplicity
 - NN
-- addad a lot of visualizations and stuff to understand input - output
+- added a lot of visualizations and stuff to understand input - output
 
 5. **Model Definition and Evaluation**: Discuss the models you've implemented, the feature engineering steps you've taken, and how you evaluated their performance. Include a screenshot of the code you used to implement the model.
 
