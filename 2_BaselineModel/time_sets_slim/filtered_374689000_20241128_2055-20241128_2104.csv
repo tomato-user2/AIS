@@ -1,0 +1,6 @@
+Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading
+2024-11-28 20:55:53,374689000,55.03359,7.548292,Restricted maneuverability,4.7,19.4,17.0
+2024-11-28 20:56:53,374689000,55.034863,7.549085,Restricted maneuverability,4.9,20.0,18.0
+2024-11-28 20:57:53,374689000,55.036152,7.549878,Restricted maneuverability,5.0,20.5,18.0
+2024-11-28 21:04:20,374689000,55.04172,7.558147,Restricted maneuverability,4.2,123.2,138.0
+2024-11-28 21:04:46,374689000,55.041342,7.558747,Restricted maneuverability,4.1,140.1,156.0

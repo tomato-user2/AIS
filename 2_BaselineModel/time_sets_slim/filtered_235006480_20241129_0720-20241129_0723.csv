@@ -1,0 +1,4 @@
+Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading
+2024-11-29 07:20:28,235006480,55.481437,7.284295,Under way using engine,8.0,88.6,84.0
+2024-11-29 07:22:55,235006480,55.48152,7.29391,Under way using engine,8.1,90.0,85.0
+2024-11-29 07:23:04,235006480,55.48152,7.294498,Under way using engine,8.1,90.1,84.0
