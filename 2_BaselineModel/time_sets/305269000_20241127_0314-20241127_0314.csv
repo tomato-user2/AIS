@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-27 03:14:54,Class A,305269000,55.375293,7.474207,Under way using engine,0.0,8.9,154.6,151.0,9136137,V2QQ8,NAOS,Cargo,No additional information,13.0,90.0,GPS,6.1,DEHAM,27/11/2024 20:00:00,AIS,76.0,14.0,7.0,6.0,18.0

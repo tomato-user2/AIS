@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-25 23:44:26,Class A,220446000,55.458553,7.045332,Under way using engine,0.2,4.9,271.9,265.0,9198044,OVOK2,ESVAGT CONNECTOR,SAR,,15.0,57.0,Combined GPS/GLONASS,5.4,GORM FIELD,26/11/2024 09:00:00,AIS,19.0,38.0,9.0,6.0,22.0

@@ -1,3 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 20:15:01,Class A,219042000,55.515568,7.44332,Under way using engine,27.9,8.3,296.6,301.0,9536870,OULY2,ESVAGT CAPRI,SAR,,12.0,46.0,GPS,4.5,TEAL GUILLEMOT FIELD,30/11/2024 12:00:00,AIS,21.0,25.0,6.0,6.0,10.0
-2024-11-28 20:20:32,Class A,219042000,55.520873,7.42433,Under way using engine,35.0,8.0,294.7,301.0,9536870,OULY2,ESVAGT CAPRI,SAR,,12.0,46.0,GPS,4.5,TEAL GUILLEMOT FIELD,30/11/2024 12:00:00,AIS,21.0,25.0,6.0,6.0,10.0

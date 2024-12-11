@@ -1,3 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-29 21:46:44,Class A,246777000,55.101268,7.238045,Moored,-5.4,0.0,70.6,291.0,9260134,PCJM,MPI RESOLUTION,Other,,38.0,130.0,GPS,4.1,DAN TYSK OWF,28/11/2024 18:30:00,AIS,22.0,108.0,18.0,20.0,126.0
-2024-11-29 21:55:40,Class A,246777000,55.101268,7.238045,Moored,-1.6,0.0,181.8,291.0,9260134,PCJM,MPI RESOLUTION,Other,,38.0,130.0,GPS,4.1,DAN TYSK OWF,28/11/2024 18:30:00,AIS,22.0,108.0,18.0,20.0,126.0

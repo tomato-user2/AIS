@@ -1,3 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 21:49:33,Class A,219171000,55.089235,7.602478,Under way using engine,0.0,7.9,229.5,229.0,6923826,OUJZ2,FORTUNA PUFFIN,SAR,,7.0,34.0,GPS,3.5,GUARD HE DREIHT,29/11/2024 07:00:00,AIS,20.0,14.0,2.0,5.0,9.0
-2024-11-28 21:54:53,Class A,219171000,55.0813,7.587275,Under way using engine,,8.0,225.7,229.0,6923826,OUJZ2,FORTUNA PUFFIN,SAR,,7.0,34.0,GPS,3.5,GUARD HE DREIHT,29/11/2024 07:00:00,AIS,20.0,14.0,2.0,5.0,9.0

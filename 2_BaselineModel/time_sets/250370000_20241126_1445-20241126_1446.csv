@@ -1,5 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-26 14:45:38,Class A,250370000,55.799612,7.000052,Under way using engine,,8.0,177.2,181.0,Unknown,EI6110,HEATHER JANE II,Fishing,,8.0,25.0,GPS,4.5,EEMSHAVEN,22/07/2025 03:30:00,AIS,16.0,9.0,4.0,4.0,126.0
-2024-11-26 14:45:46,Class A,250370000,55.799325,7.000082,Under way using engine,,7.8,175.9,176.0,Unknown,EI6110,HEATHER JANE II,Fishing,,8.0,25.0,GPS,4.5,EEMSHAVEN,22/07/2025 03:30:00,AIS,16.0,9.0,4.0,4.0,126.0
-2024-11-26 14:46:16,Class A,250370000,55.79823,7.000148,Under way using engine,,7.9,179.0,177.0,Unknown,EI6110,HEATHER JANE II,Fishing,,8.0,25.0,GPS,4.5,EEMSHAVEN,22/07/2025 03:30:00,AIS,16.0,9.0,4.0,4.0,126.0
-2024-11-26 14:46:28,Class A,250370000,55.797818,7.000265,Under way using engine,,7.4,173.3,215.0,Unknown,EI6110,HEATHER JANE II,Fishing,,8.0,25.0,GPS,4.5,EEMSHAVEN,22/07/2025 03:30:00,AIS,16.0,9.0,4.0,4.0,126.0

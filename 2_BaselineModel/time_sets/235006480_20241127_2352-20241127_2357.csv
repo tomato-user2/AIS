@@ -1,4 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-27 23:52:58,Class A,235006480,55.523113,7.302543,Under way using engine,0.0,2.8,53.8,46.0,9274965,MCBU7,HEATHER K K771,Fishing,,6.0,16.0,GPS,4.0,FISHING GROUNDS,23/03/2025 13:30:00,AIS,10.0,6.0,3.0,3.0,39.0
-2024-11-27 23:54:28,Class A,235006480,55.523373,7.303613,Under way using engine,0.0,2.5,59.2,37.0,9274965,MCBU7,HEATHER K K771,Fishing,,6.0,16.0,GPS,4.0,FISHING GROUNDS,23/03/2025 13:30:00,AIS,10.0,6.0,3.0,3.0,39.0
-2024-11-27 23:57:31,Class A,235006480,55.52373,7.305512,Under way using engine,,2.0,76.5,40.0,9274965,MCBU7,HEATHER K K771,Fishing,,6.0,16.0,GPS,4.0,FISHING GROUNDS,23/03/2025 13:30:00,AIS,10.0,6.0,3.0,3.0,39.0

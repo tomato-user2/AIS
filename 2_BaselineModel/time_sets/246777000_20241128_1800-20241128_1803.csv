@@ -1,4 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 18:00:16,Class A,246777000,55.103307,7.255067,Restricted maneuverability,2.9,0.5,277.3,320.0,9260134,PCJM,MPI RESOLUTION,Other,,38.0,130.0,GPS,4.1,DAN TYSK OWF,28/11/2024 18:30:00,AIS,22.0,108.0,18.0,20.0,15.0
-2024-11-28 18:03:26,Class A,246777000,55.103347,7.254268,Restricted maneuverability,2.9,0.6,284.3,318.0,9260134,PCJM,MPI RESOLUTION,Other,,38.0,130.0,GPS,4.1,DAN TYSK OWF,28/11/2024 18:30:00,AIS,22.0,108.0,18.0,20.0,15.0
-2024-11-28 18:03:56,Class A,246777000,55.103347,7.254122,Restricted maneuverability,4.5,0.5,278.2,319.0,9260134,PCJM,MPI RESOLUTION,Other,,38.0,130.0,GPS,4.1,DAN TYSK OWF,28/11/2024 18:30:00,AIS,22.0,108.0,18.0,20.0,15.0

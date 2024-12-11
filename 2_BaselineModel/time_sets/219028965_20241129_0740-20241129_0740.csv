@@ -1,3 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-29 07:40:38,Class A,219028965,55.062562,7.24294,Restricted maneuverability,,0.3,192.6,223.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,71.0
-2024-11-29 07:40:58,Class A,219028965,55.062523,7.242955,Restricted maneuverability,0.0,0.4,195.4,225.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,71.0

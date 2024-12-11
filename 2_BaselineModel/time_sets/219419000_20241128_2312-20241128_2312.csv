@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-28 23:12:31,Class A,219419000,55.472917,7.1134,Under way using engine,6.4,13.7,96.7,98.0,9613707,OZEI2,ESVAGT HEIDI,Other,Category Y,18.0,84.0,GPS,5.5,ESBJERG,29/11/2024 06:00:00,AIS,12.0,72.0,9.0,9.0,0.0

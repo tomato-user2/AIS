@@ -1,5 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-30 13:36:04,Class A,250369000,55.11558,7.044837,Engaged in fishing,,1.1,221.2,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,84.0
-2024-11-30 13:36:51,Class A,250369000,55.115697,7.044487,Engaged in fishing,,1.5,313.2,226.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,84.0
-2024-11-30 13:36:56,Class A,250369000,55.115713,7.044462,Engaged in fishing,,1.7,316.4,223.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,84.0
-2024-11-30 13:38:07,Class A,250369000,55.115393,7.043297,Engaged in fishing,,3.1,255.2,240.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,84.0

@@ -1,4 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-27 00:23:20,Class A,219029726,55.445267,7.291017,Under way using engine,-5.4,11.0,275.1,277.0,9613692,OZDT2,ESVAGT LEAH,Other,No additional information,18.0,84.0,GPS,5.4,DK OFFSHORE,27/11/2024 07:00:00,AIS,12.0,72.0,9.0,9.0,9.0
-2024-11-27 00:23:31,Class A,219029726,55.4453,7.290133,Under way using engine,0.0,10.9,273.0,277.0,9613692,OZDT2,ESVAGT LEAH,Other,No additional information,18.0,84.0,GPS,5.4,DK OFFSHORE,27/11/2024 07:00:00,AIS,12.0,72.0,9.0,9.0,9.0
-2024-11-27 00:26:30,Class A,219029726,55.44605,7.273767,Under way using engine,-1.1,10.6,274.3,277.0,9613692,OZDT2,ESVAGT LEAH,Other,No additional information,18.0,84.0,GPS,5.4,DK OFFSHORE,27/11/2024 07:00:00,AIS,12.0,72.0,9.0,9.0,9.0

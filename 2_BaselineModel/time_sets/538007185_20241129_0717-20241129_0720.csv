@@ -1,5 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-29 07:17:20,Class A,538007185,55.057515,7.05857,Under way using engine,0.0,12.5,341.3,339.0,9412646,V7AR5,NIKOS N,Cargo,No additional information,32.0,190.0,GPS,8.4,DEBRB>PLSZZ,01/12/2024 10:00:00,AIS,159.0,31.0,16.0,16.0,1.0
-2024-11-29 07:17:29,Class A,538007185,55.058003,7.05828,Under way using engine,0.0,12.5,341.3,339.0,9412646,V7AR5,NIKOS N,Cargo,No additional information,32.0,190.0,GPS,8.4,DEBRB>PLSZZ,01/12/2024 10:00:00,AIS,159.0,31.0,16.0,16.0,1.0
-2024-11-29 07:18:00,Class A,538007185,55.059692,7.057268,Under way using engine,0.0,12.5,341.1,339.0,9412646,V7AR5,NIKOS N,Cargo,No additional information,32.0,190.0,GPS,8.4,DEBRB>PLSZZ,01/12/2024 10:00:00,AIS,159.0,31.0,16.0,16.0,1.0
-2024-11-29 07:20:59,Class A,538007185,55.069385,7.051503,Under way using engine,0.0,12.4,341.3,339.0,9412646,V7AR5,NIKOS N,Cargo,No additional information,32.0,190.0,GPS,8.4,DEBRB>PLSZZ,01/12/2024 10:00:00,AIS,159.0,31.0,16.0,16.0,1.0

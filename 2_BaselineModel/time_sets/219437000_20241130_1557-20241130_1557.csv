@@ -1,2 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-30 15:57:31,Class A,219437000,55.999428,7.000287,Moored,2.2,20.8,210.4,211.0,9262089,OWKM2,BEGONIA SEAWAYS,Cargo,Category Z,30.0,231.0,GPS,6.9,BEGNE,31/12/2024 13:00:00,AIS,139.0,92.0,15.0,15.0,124.0

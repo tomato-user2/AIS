@@ -1,4 +1,0 @@
-Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
-2024-11-26 18:55:14,Class A,265022000,55.935203,7.00112,Under way using engine,0.0,18.4,214.5,213.0,9884679,SBTK,BOTNIA ENABLER,Cargo,Category X,36.0,242.0,GPS,8.3,BEZEE,27/11/2024 12:00:00,AIS,155.0,87.0,21.0,15.0,1.0
-2024-11-26 18:55:19,Class A,265022000,55.934848,7.000698,Under way using engine,0.0,18.5,211.7,212.0,9884679,SBTK,BOTNIA ENABLER,Cargo,Category X,36.0,242.0,GPS,8.3,BEZEE,27/11/2024 12:00:00,AIS,155.0,87.0,21.0,15.0,1.0
-2024-11-26 18:55:26,Class A,265022000,55.93434,7.000132,Under way using engine,0.0,18.4,216.3,212.0,9884679,SBTK,BOTNIA ENABLER,Cargo,Category X,36.0,242.0,GPS,8.3,BEZEE,27/11/2024 12:00:00,AIS,155.0,87.0,21.0,15.0,1.0
