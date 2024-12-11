@@ -5,10 +5,8 @@ Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading
 2024-11-28 10:15:35,257341000,55.661317,7.641633,Restricted maneuverability,0.1,0.0,0.0
 2024-11-28 10:15:55,257341000,55.66132,7.641623,Restricted maneuverability,0.1,46.0,1.0
 2024-11-28 10:16:04,257341000,55.661318,7.64162,Restricted maneuverability,0.1,46.0,1.0
-2024-11-28 10:16:04,257341000,55.661318,7.64162,Restricted maneuverability,0.1,46.0,1.0
 2024-11-28 10:16:15,257341000,55.661323,7.641627,Restricted maneuverability,0.1,46.0,1.0
 2024-11-28 10:16:25,257341000,55.661323,7.641623,Restricted maneuverability,0.2,64.4,1.0
-2024-11-28 10:16:44,257341000,55.66132,7.641617,Restricted maneuverability,0.0,0.0,0.0
 2024-11-28 10:16:44,257341000,55.66132,7.641617,Restricted maneuverability,0.0,0.0,0.0
 2024-11-28 10:16:55,257341000,55.661317,7.641622,Restricted maneuverability,0.0,0.0,0.0
 2024-11-28 10:17:04,257341000,55.661315,7.641625,Restricted maneuverability,0.4,76.9,1.0
@@ -69,7 +67,6 @@ Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading
 2024-11-28 10:24:05,257341000,55.661328,7.64164,Restricted maneuverability,0.0,1.0,1.0
 2024-11-28 10:24:24,257341000,55.661327,7.64164,Restricted maneuverability,0.2,92.0,2.0
 2024-11-28 10:24:44,257341000,55.66133,7.641627,Restricted maneuverability,0.5,54.1,1.0
-2024-11-28 10:24:44,257341000,55.66133,7.641627,Restricted maneuverability,0.5,54.1,1.0
 2024-11-28 10:24:45,257341000,55.66133,7.641627,Restricted maneuverability,0.5,54.1,1.0
 2024-11-28 10:24:46,257341000,55.66133,7.641627,Restricted maneuverability,0.5,54.1,1.0
 2024-11-28 10:24:54,257341000,55.661333,7.641615,Restricted maneuverability,0.1,46.0,1.0
@@ -97,7 +94,6 @@ Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading
 2024-11-28 10:26:54,257341000,55.661345,7.641625,Restricted maneuverability,0.3,72.5,1.0
 2024-11-28 10:27:05,257341000,55.661342,7.641622,Restricted maneuverability,0.0,1.0,1.0
 2024-11-28 10:27:15,257341000,55.661347,7.641622,Restricted maneuverability,0.1,45.0,0.0
-2024-11-28 10:27:35,257341000,55.661347,7.641618,Restricted maneuverability,0.2,63.4,0.0
 2024-11-28 10:27:35,257341000,55.661347,7.641618,Restricted maneuverability,0.2,63.4,0.0
 2024-11-28 10:27:44,257341000,55.661345,7.641617,Restricted maneuverability,0.0,0.0,0.0
 2024-11-28 10:27:54,257341000,55.661347,7.641625,Restricted maneuverability,0.0,0.0,0.0
