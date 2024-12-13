@@ -1,0 +1,92 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D,Time_Group
+2024-05-23 00:00:21,Class A,219025535,55.776202,7.613455,Engaged in fishing,0.0,0.3,314.2,79.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:00:30,Class A,219025535,55.776198,7.613447,Engaged in fishing,0.0,0.4,278.3,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:00:40,Class A,219025535,55.776197,7.613438,Engaged in fishing,0.0,0.2,219.0,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:00:51,Class A,219025535,55.7762,7.61343,Engaged in fishing,0.0,0.2,,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:00,Class A,219025535,55.776203,7.613422,Engaged in fishing,0.0,0.2,297.2,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:10,Class A,219025535,55.776208,7.613413,Engaged in fishing,0.0,0.2,,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:21,Class A,219025535,55.776213,7.61341,Engaged in fishing,0.0,0.2,,76.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:30,Class A,219025535,55.776215,7.613405,Engaged in fishing,0.0,0.3,177.1,77.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:40,Class A,219025535,55.776212,7.613395,Engaged in fishing,0.0,0.6,177.3,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:01:51,Class A,219025535,55.776213,7.613385,Engaged in fishing,0.0,0.1,,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:02:00,Class A,219025535,55.776212,7.61338,Engaged in fishing,0.0,0.1,,78.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:02:11,Class A,219025535,55.776212,7.613373,Engaged in fishing,0.0,0.1,,79.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:02:21,Class A,219025535,55.776212,7.613365,Engaged in fishing,0.0,0.1,,80.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:02:30,Class A,219025535,55.776213,7.613363,Engaged in fishing,0.0,0.3,335.8,81.0,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,,76
+2024-05-23 00:02:38,Class A,219025535,55.776213,7.613363,Engaged in fishing,0.0,0.3,335.8,81.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:02:40,Class A,219025535,55.776217,7.613365,Engaged in fishing,0.0,0.3,262.7,82.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:00,Class A,219025535,55.776227,7.613368,Engaged in fishing,0.0,0.2,,84.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:11,Class A,219025535,55.776237,7.613377,Engaged in fishing,0.0,0.2,,85.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:21,Class A,219025535,55.776243,7.613382,Engaged in fishing,0.0,0.4,211.8,87.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:30,Class A,219025535,55.776243,7.613383,Engaged in fishing,0.0,0.5,341.9,88.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:40,Class A,219025535,55.77624,7.613387,Engaged in fishing,0.0,0.3,134.3,90.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:03:51,Class A,219025535,55.776245,7.613392,Engaged in fishing,0.0,0.5,13.9,90.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:00,Class A,219025535,55.77624,7.613398,Engaged in fishing,0.0,0.4,134.7,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:11,Class A,219025535,55.776247,7.613408,Engaged in fishing,0.0,0.4,36.6,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:20,Class A,219025535,55.776245,7.613417,Engaged in fishing,0.0,0.3,63.8,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:31,Class A,219025535,55.776247,7.613427,Engaged in fishing,0.0,0.3,67.7,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:41,Class A,219025535,55.776248,7.613438,Engaged in fishing,0.0,0.3,63.6,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:04:51,Class A,219025535,55.776253,7.613453,Engaged in fishing,0.0,0.2,51.3,92.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:00,Class A,219025535,55.776255,7.613467,Engaged in fishing,0.0,0.4,57.5,92.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:11,Class A,219025535,55.776262,7.613485,Engaged in fishing,0.0,0.3,83.5,94.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:20,Class A,219025535,55.776268,7.613497,Engaged in fishing,0.0,0.3,35.2,94.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:31,Class A,219025535,55.776272,7.613517,Engaged in fishing,0.0,0.2,95.2,96.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:41,Class A,219025535,55.776277,7.613542,Engaged in fishing,0.0,0.1,,96.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:05:51,Class A,219025535,55.776278,7.613565,Engaged in fishing,0.0,0.3,127.1,96.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:06:11,Class A,219025535,55.77629,7.61362,Engaged in fishing,0.0,0.3,75.4,96.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:06:20,Class A,219025535,55.776292,7.61365,Engaged in fishing,0.0,0.3,94.8,95.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:06:31,Class A,219025535,55.776297,7.613682,Engaged in fishing,0.0,0.8,40.3,94.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:06:41,Class A,219025535,55.7763,7.613713,Engaged in fishing,0.0,0.8,98.8,93.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:06:51,Class A,219025535,55.776308,7.613743,Engaged in fishing,0.0,0.5,68.3,92.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:07:11,Class A,219025535,55.776315,7.613808,Engaged in fishing,0.0,0.5,108.4,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:07:20,Class A,219025535,55.776318,7.61384,Engaged in fishing,0.0,0.5,78.1,92.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:07:31,Class A,219025535,55.776325,7.613873,Engaged in fishing,0.0,0.5,77.4,91.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:07:41,Class A,219025535,55.776333,7.613917,Engaged in fishing,0.0,0.3,62.7,90.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:07:51,Class A,219025535,55.776338,7.613958,Engaged in fishing,0.0,0.8,72.7,90.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:00,Class A,219025535,55.776345,7.613992,Engaged in fishing,0.0,0.3,89.6,88.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:11,Class A,219025535,55.776355,7.614037,Engaged in fishing,0.0,0.5,83.0,86.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:20,Class A,219025535,55.77636,7.614077,Engaged in fishing,,0.6,89.2,83.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:31,Class A,219025535,55.776365,7.614115,Engaged in fishing,,0.3,67.1,80.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:36,Class A,219025535,55.776365,7.614115,Engaged in fishing,,0.3,67.1,80.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:41,Class A,219025535,55.776367,7.614155,Engaged in fishing,,0.6,77.6,78.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:08:51,Class A,219025535,55.776372,7.614197,Engaged in fishing,,0.3,65.1,76.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:00,Class A,219025535,55.77638,7.614228,Engaged in fishing,,0.4,83.1,73.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:11,Class A,219025535,55.776388,7.614273,Engaged in fishing,,0.8,49.5,70.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:20,Class A,219025535,55.776392,7.614308,Engaged in fishing,,0.8,66.2,67.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:31,Class A,219025535,55.776405,7.614345,Engaged in fishing,,0.9,71.1,63.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:41,Class A,219025535,55.77642,7.614388,Engaged in fishing,,1.0,70.4,58.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:09:51,Class A,219025535,55.776433,7.614427,Engaged in fishing,,1.2,57.7,51.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:01,Class A,219025535,55.776448,7.614452,Engaged in fishing,,1.1,47.4,45.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:11,Class A,219025535,55.776462,7.614482,Engaged in fishing,,0.6,42.4,39.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:20,Class A,219025535,55.776472,7.614512,Engaged in fishing,,0.3,44.7,34.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:30,Class A,219025535,55.776483,7.614538,Engaged in fishing,,0.6,38.3,28.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:41,Class A,219025535,55.776502,7.614568,Engaged in fishing,,0.7,36.5,22.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:10:51,Class A,219025535,55.77652,7.614593,Engaged in fishing,,0.3,31.8,17.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:01,Class A,219025535,55.776537,7.614608,Engaged in fishing,,0.2,30.4,11.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:11,Class A,219025535,55.776555,7.614622,Engaged in fishing,,0.2,44.1,5.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:20,Class A,219025535,55.77657,7.61463,Engaged in fishing,,0.3,4.4,1.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:30,Class A,219025535,55.776585,7.614643,Engaged in fishing,,0.3,13.1,356.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:41,Class A,219025535,55.776598,7.614655,Engaged in fishing,,0.3,36.4,351.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:11:51,Class A,219025535,55.776608,7.614667,Engaged in fishing,,0.5,64.2,347.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:01,Class A,219025535,55.77662,7.61468,Engaged in fishing,,0.3,38.3,345.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:11,Class A,219025535,55.776632,7.614695,Engaged in fishing,,0.4,15.3,342.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:20,Class A,219025535,55.77664,7.614703,Engaged in fishing,,0.2,41.9,341.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:30,Class A,219025535,55.776645,7.614715,Engaged in fishing,,0.2,55.9,339.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:41,Class A,219025535,55.776655,7.614737,Engaged in fishing,,0.4,30.7,337.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:12:51,Class A,219025535,55.776663,7.614755,Engaged in fishing,0.0,0.4,28.4,337.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:01,Class A,219025535,55.776668,7.614773,Engaged in fishing,0.0,0.1,,337.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:11,Class A,219025535,55.776672,7.614787,Engaged in fishing,0.0,0.5,99.3,337.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:20,Class A,219025535,55.776677,7.6148,Engaged in fishing,0.0,0.4,49.2,337.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:30,Class A,219025535,55.776678,7.614817,Engaged in fishing,0.0,0.1,,338.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:41,Class A,219025535,55.776678,7.614833,Engaged in fishing,0.0,0.1,,339.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:13:51,Class A,219025535,55.776678,7.614848,Engaged in fishing,0.0,0.2,,341.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:01,Class A,219025535,55.776678,7.614863,Engaged in fishing,0.0,0.2,,342.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:11,Class A,219025535,55.77668,7.614882,Engaged in fishing,0.0,0.0,,343.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:20,Class A,219025535,55.776677,7.614883,Engaged in fishing,0.0,0.3,86.4,346.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:30,Class A,219025535,55.776678,7.614897,Engaged in fishing,,0.1,,348.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:36,Class A,219025535,55.776678,7.614897,Engaged in fishing,,0.1,,348.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:41,Class A,219025535,55.776675,7.614915,Engaged in fishing,,0.1,,350.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:14:51,Class A,219025535,55.776672,7.61493,Engaged in fishing,,0.0,,352.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:15:01,Class A,219025535,55.77667,7.614943,Engaged in fishing,,0.3,99.8,353.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:15:11,Class A,219025535,55.77667,7.614962,Engaged in fishing,,0.3,78.0,356.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76
+2024-05-23 00:15:20,Class A,219025535,55.776665,7.61497,Engaged in fishing,,0.4,139.3,358.0,Unknown,OXJO,BIRGITTE MARTINE,Fishing,,8.0,32.0,Internal,5.5,Unknown,,AIS,20.0,12.0,4.0,4.0,76

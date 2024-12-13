@@ -1,18 +1,22 @@
 # Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
-28/11/2024 06:22:49,Class A,219021578,55.009588,7.717743,Under way using engine,,0.0,259.9,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:23:19,Class A,219021578,55.009587,7.717712,Under way using engine,,0.0,255.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:23:49,Class A,219021578,55.009577,7.717687,Under way using engine,,0.0,246.4,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:24:29,Class A,219021578,55.009573,7.717663,Under way using engine,,0.0,247.1,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:24:40,Class A,219021578,55.009572,7.717653,Under way using engine,,0.0,253.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:24:49,Class A,219021578,55.009573,7.717643,Under way using engine,,0.0,254.5,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:25:09,Class A,219021578,55.00957,7.717628,Under way using engine,,0.0,262.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-28/11/2024 06:25:19,Class A,219021578,55.009567,7.717628,Under way using engine,,0.5,264.7,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-29/11/2024 06:18:50,Class A,219021578,55.044282,7.763257,Under way using engine,,0.0,319.4,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-29/11/2024 06:19:41,Class A,219021578,55.044293,7.763275,Under way using engine,,0.0,324.8,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-29/11/2024 06:21:00,Class A,219021578,55.044277,7.763257,Under way using engine,,0.5,335.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:05:16,Class A,219021578,55.032485,7.838903,Under way using engine,,0.4,115.5,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:06:16,Class A,219021578,55.032453,7.839078,Under way using engine,,1.1,119.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:06:36,Class A,219021578,55.032438,7.839147,Under way using engine,,0.0,102.6,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:08:06,Class A,219021578,55.032402,7.83929,Under way using engine,,0.0,108.7,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:08:16,Class A,219021578,55.032402,7.83932,Under way using engine,,0.0,98.9,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
-30/11/2024 06:08:36,Class A,219021578,55.032397,7.839357,Under way using engine,,0.0,110.3,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+23/05/2024 05:16:43,Class A,219021578,55.000525,7.824398,Under way using engine,,0.5,265.5,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+23/05/2024 05:16:54,Class A,219021578,55.000525,7.824398,Under way using engine,,0.5,265.5,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:17:13,Class A,219021578,55.000528,7.82429,Under way using engine,,0.7,273.1,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:17:23,Class A,219021578,55.000527,7.824247,Under way using engine,,0.0,262.4,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:17:35,Class A,219021578,55.000527,7.824203,Under way using engine,,0.0,270.3,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:17:53,Class A,219021578,55.000522,7.824153,Under way using engine,,0.6,273.3,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:04,Class A,219021578,55.00052,7.824118,Under way using engine,,0.0,272.2,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:13,Class A,219021578,55.000518,7.824083,Under way using engine,,0.6,270.5,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:23,Class A,219021578,55.00052,7.824035,Under way using engine,,0.0,270.0,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:35,Class A,219021578,55.00052,7.82398,Under way using engine,,0.5,267.5,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:43,Class A,219021578,55.000522,7.82394,Under way using engine,,0.4,261.3,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:18:53,Class A,219021578,55.000518,7.823917,Under way using engine,,0.5,268.8,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:19:13,Class A,219021578,55.000525,7.823822,Under way using engine,,0.6,273.5,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:19:23,Class A,219021578,55.000523,7.823777,Under way using engine,,0.4,272.7,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:19:35,Class A,219021578,55.000528,7.823743,Under way using engine,,0.4,270.4,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:19:43,Class A,219021578,55.000525,7.82371,Under way using engine,,0.5,269.9,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:19:53,Class A,219021578,55.000527,7.823672,Under way using engine,,0.4,267.7,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:20:04,Class A,219021578,55.000523,7.823618,Under way using engine,,0.4,263.9,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:20:13,Class A,219021578,55.000522,7.823585,Under way using engine,,0.5,273.8,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:20:35,Class A,219021578,55.000523,7.823507,Under way using engine,,0.4,259.0,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
+23/05/2024 05:20:43,Class A,219021578,55.000522,7.823465,Under way using engine,,0.5,268.7,,Unknown,OX2994,ESVAGT WIND 3,HSC,,4.0,12.0,GPS,1.0,BUTENDIEK,15/05/2024 13:30:00,AIS,6.0,6.0,2.0,2.0
