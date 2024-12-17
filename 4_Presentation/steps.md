@@ -5,14 +5,16 @@
 2. **Literature Review**: Indicate solutions you've found that are related to your project.
 --> see literatur review
 
-3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps.
-- steps: grouping by vessel (show little map tiles of the xx min sets)
-- (within the model): filtering by area; creating xxmin sets of equal Navigational Status 
-- as an intermediate result, from extracting data from 6 day data files (~17GB) got this number of 15min slots (time sets): {'Under way using engine': 3037, 'Engaged in fishing': 469, 'Restricted maneuverability': 651, 'Moored': 176, 'Under way sailing': 33}
-- these contain reports of several things at irregular times, each entry has: **Timestamp**,Type of mobile, MMSI, **Latitude**, **Longitude**, **Navigational status(TARGET)**, **ROT**, **SOG**, **COG**, **Heading**, IMO, Callsign, Name, Ship type, Cargo type, Width, Length, Type of position fixing device, Draught, Destination, ETA, Data source type, A, B, C, D, Time_Group
-    - from the above I plan to use the items in bold writing, I plan to take care of the irregularity of reporting in the model script
+3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps:
 
-3b. **Note on missing values**: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
+1. grouping by vessel
+2. filtering by area
+3. creating XXmin sets of equal Navigational Status (variable), these contain reports of several things at irregular times, each entry has: **Timestamp**,Type of mobile, MMSI, **Latitude**, **Longitude**, **Navigational status(TARGET)**, **ROT**, **SOG**, **COG**, **Heading**, IMO, Callsign, Name, Ship type, Cargo type, Width, Length, Type of position fixing device, Draught, Destination, ETA, Data source type, A, B, C, D, Time_Group
+    - from the above I plan to use the items in bold writing
+
+4. **Note on missing values**: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
+5. standardizing the sets to exactly the same length and time interval (example for 15min: 14:50 exactly and 10s interval)
+future: Try different time length and different area?
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
 - logistic regression for simplicity (why did i scrap that again?...)
