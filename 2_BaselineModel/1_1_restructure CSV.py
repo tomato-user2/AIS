@@ -1,35 +1,27 @@
 import os
 import pandas as pd
 import numpy as np
-from math import radians, sin, cos, sqrt, atan2, degrees
+from math import radians, degrees, sin, cos, sqrt, atan2, log, tan, pi
 
-# Constants
-EARTH_RADIUS_NM = 3440.065  # Nautical miles
-
-# Functions to calculate distance and bearing
-def haversine(lat1, lon1, lat2, lon2):
-    """Calculate the great-circle distance between two points in nautical miles."""
+# Loxodrome distance and bearing calculations
+def loxodrome_distance(lat1, lon1, lat2, lon2):
+    """Calculate the loxodrome distance between two points in nautical miles."""
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlat = lat2 - lat1
     dlon = lon2 - lon1
-    a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
-    c = 2 * atan2(sqrt(a), sqrt(1 - a))
-    return EARTH_RADIUS_NM * c
+    mean_lat = (lat1 + lat2) / 2
+    distance = sqrt(dlat**2 + (dlon * cos(mean_lat))**2) * EARTH_RADIUS_NM
+    return distance
 
-def calculate_bearing(lat1, lon1, lat2, lon2):
-    """Calculate the initial bearing between two points."""
+def loxodrome_bearing(lat1, lon1, lat2, lon2):
+    """Calculate the loxodrome bearing between two points in degrees."""
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlon = lon2 - lon1
-    x = sin(dlon) * cos(lat2)
-    y = cos(lat1) * sin(lat2) - sin(lat1) * cos(lat2) * cos(dlon)
-    initial_bearing = atan2(x, y)
-    return (degrees(initial_bearing) + 360) % 360
+    mean_lat = (lat1 + lat2) / 2
+    bearing = atan2(dlon, dlat * cos(mean_lat))
+    return (degrees(bearing) + 360) % 360
 
-# Process files
-input_folder = "path/to/your/folder"
-output_folder = "path/to/output/folder"
-os.makedirs(output_folder, exist_ok=True)
-
+# Update the loop in the script
 for file in os.listdir(input_folder):
     if file.endswith(".csv"):
         file_path = os.path.join(input_folder, file)
@@ -47,9 +39,9 @@ for file in os.listdir(input_folder):
             lat2, lon2 = df.iloc[i]['Latitude'], df.iloc[i]['Longitude']
             time_diff = (df.iloc[i]['Timestamp'] - df.iloc[i - 1]['Timestamp']).total_seconds() / 3600  # in hours
             
-            # Calculate speed and direction
-            distance = haversine(lat1, lon1, lat2, lon2)
-            dirs.append(calculate_bearing(lat1, lon1, lat2, lon2))
+            # Calculate speed and direction using loxodrome calculations
+            distance = loxodrome_distance(lat1, lon1, lat2, lon2)
+            dirs.append(loxodrome_bearing(lat1, lon1, lat2, lon2))
             spds.append(distance / time_diff if time_diff > 0 else 0)
         
         # Append NaN for the first row
