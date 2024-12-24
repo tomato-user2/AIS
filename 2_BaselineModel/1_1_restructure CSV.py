@@ -25,8 +25,8 @@ def loxodrome_bearing(lat1, lon1, lat2, lon2):
     return (degrees(bearing) + 360) % 360
 
 # Process files
-input_folder = "path/to/your/folder"  # Replace with the path to your input folder
-output_folder = "path/to/output/folder"  # Replace with the path to your output folder
+input_folder = "time_sets_standardized"  # Replace with the path to your input folder
+output_folder = "time_sets_postomov"  # Replace with the path to your output folder
 os.makedirs(output_folder, exist_ok=True)
 
 for file in os.listdir(input_folder):
