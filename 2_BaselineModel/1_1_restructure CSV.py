@@ -36,7 +36,7 @@ for file in os.listdir(input_folder):
         df = pd.read_csv(file_path)
 
         # Ensure data is sorted by timestamp
-        df['Timestamp'] = pd.to_datetime(df['Timestamp'])
+        df['Timestamp'] = pd.to_datetime(df['Timestamp'], format='%Y-%m-%d %H:%M:%S', errors='coerce')
         df = df.sort_values('Timestamp')
 
         # Calculate DIR and SPD

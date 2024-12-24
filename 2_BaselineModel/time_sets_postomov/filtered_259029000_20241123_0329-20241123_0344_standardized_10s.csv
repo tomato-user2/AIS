@@ -1,5 +1,5 @@
 Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading,DIR,SPD
-2024-11-23 03:29:15,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,,
+2024-11-23 03:29:15,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
 2024-11-23 03:29:25,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
 2024-11-23 03:29:35,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
 2024-11-23 03:29:45,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
@@ -88,4 +88,4 @@ Timestamp,MMSI,Latitude,Longitude,Navigational status,SOG,COG,Heading,DIR,SPD
 2024-11-23 03:43:35,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
 2024-11-23 03:43:45,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
 2024-11-23 03:43:55,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
-2024-11-23 03:44:05,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,0.0,0.0
+2024-11-23 03:44:05,259029000.0,57.622912,10.7762,Under way using engine,9.0,2.9,1.0,,
