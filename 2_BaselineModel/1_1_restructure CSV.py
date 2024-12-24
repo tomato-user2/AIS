@@ -21,7 +21,7 @@ def loxodrome_bearing(lat1, lon1, lat2, lon2):
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlon = lon2 - lon1
     mean_lat = (lat1 + lat2) / 2
-    dlat = lat2 - lat1  # Ensure dlat is defined here
+    dlat = lat2 - lat1
     bearing = atan2(dlon, dlat * cos(mean_lat))
     return (degrees(bearing) + 360) % 360
 
@@ -42,19 +42,19 @@ for file in os.listdir(input_folder):
         # Calculate DIR and SPD
         dirs = []
         spds = []
-        for i in range(1, len(df)):
-            lat1, lon1 = df.iloc[i - 1]['Latitude'], df.iloc[i - 1]['Longitude']
-            lat2, lon2 = df.iloc[i]['Latitude'], df.iloc[i]['Longitude']
-            time_diff = (df.iloc[i]['Timestamp'] - df.iloc[i - 1]['Timestamp']).total_seconds() / 3600  # in hours
+        for i in range(len(df) - 1):  # Stop at the second-to-last row
+            lat1, lon1 = df.iloc[i]['Latitude'], df.iloc[i]['Longitude']
+            lat2, lon2 = df.iloc[i + 1]['Latitude'], df.iloc[i + 1]['Longitude']
+            time_diff = (df.iloc[i + 1]['Timestamp'] - df.iloc[i]['Timestamp']).total_seconds() / 3600  # in hours
             
             # Calculate speed and direction using loxodrome calculations
             distance = loxodrome_distance(lat1, lon1, lat2, lon2)
             dirs.append(loxodrome_bearing(lat1, lon1, lat2, lon2))
             spds.append(distance / time_diff if time_diff > 0 else 0)
         
-        # Append NaN for the first row
-        df['DIR'] = [np.nan] + dirs
-        df['SPD'] = [np.nan] + spds
+        # Append NaN for the last row (no movement data after the last point)
+        df['DIR'] = dirs + [np.nan]
+        df['SPD'] = spds + [np.nan]
 
         # Save the processed file
         output_path = os.path.join(output_folder, file)
