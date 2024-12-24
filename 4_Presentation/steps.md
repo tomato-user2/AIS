@@ -13,6 +13,7 @@
     - from the above I plan to use the items in bold writing
 4. Missing values: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
 5. standardizing the sets to exactly the same length and time interval (example for 15min: 14:50 exactly and 10s interval)
+6. Trials to get more precise movement data out of the position data to use instead of COG and SOG failed so far because of inaccuracies calculating bearing and distanc3 between very close positions. Maybe try again later.
 future: Try different time length and different area?
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
@@ -20,6 +21,7 @@ future: Try different time length and different area?
 - random forest (here I split two-ways: 1 model looks at every line seperately and 1 model looks at every time-set (aggregated) sepearately)
 - results were: 
 - added a lot of visualizations and stuff to understand input - output
+- this uses every input so far plus the aggregated inputs, like mean, but in the real model I plan to use only the movement data COG, SOG and Heading if present.
 
 5. **Model Definition and Evaluation**:
   - working on LSTM
