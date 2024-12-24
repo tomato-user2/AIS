@@ -21,6 +21,7 @@ def loxodrome_bearing(lat1, lon1, lat2, lon2):
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlon = lon2 - lon1
     mean_lat = (lat1 + lat2) / 2
+    dlat = lat2 - lat1  # Ensure dlat is defined here
     bearing = atan2(dlon, dlat * cos(mean_lat))
     return (degrees(bearing) + 360) % 360
 
