@@ -1,7 +1,10 @@
 import os
 import pandas as pd
 import numpy as np
-from math import radians, degrees, sin, cos, sqrt, atan2, log, tan, pi
+from math import radians, degrees, sin, cos, sqrt, atan2
+
+# Constants
+EARTH_RADIUS_NM = 3440.065  # Nautical miles
 
 # Loxodrome distance and bearing calculations
 def loxodrome_distance(lat1, lon1, lat2, lon2):
@@ -21,7 +24,11 @@ def loxodrome_bearing(lat1, lon1, lat2, lon2):
     bearing = atan2(dlon, dlat * cos(mean_lat))
     return (degrees(bearing) + 360) % 360
 
-# Update the loop in the script
+# Process files
+input_folder = "path/to/your/folder"  # Replace with the path to your input folder
+output_folder = "path/to/output/folder"  # Replace with the path to your output folder
+os.makedirs(output_folder, exist_ok=True)
+
 for file in os.listdir(input_folder):
     if file.endswith(".csv"):
         file_path = os.path.join(input_folder, file)
