@@ -23,6 +23,10 @@ future: Try different time length and different area?
 
 5. **Model Definition and Evaluation**:
   - working on LSTM
+    - with position the model had moderate results, but as it should be possible to apply it anywhere, it is necessary to ignore posittion and see only movement
+    - only movement (starting point as 0) did not have any good results (not learning), even worse when class weights were introduced, commented out class weights again
+    - tried normalizing each column separately - not very different
+    - tried looking at only differentiating between "Under way using engine" and "Engaged in fishing". -with class weights: medium results - without class weights, with undersampling:
    Discuss the models you've implemented, the feature engineering steps you've taken, and how you evaluated their performance. Include a screenshot of the code you used to implement the model.
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
