@@ -32,7 +32,8 @@ future: Try different time length and different area?
     Noticed the last layer used "softmax", which was probably from the earlier multi-classification approach. I changed it to "sigmoid" and let the tuner and the LSTM without tuner run again. Result is worse, reverting to "softmax"
     - noticed that the ROC curve looks a lot better in the tuned model while other metrics are pretty much the same.
     - reviewing exactly how the data is "vectorized", maybe information goes missing.\*
-    - tried instead only to flatten the input datasets (each vessels 15-min set goes into one row but this time complete, not in the form of mean values or slope). Interesting that it runs as fast as before (must be a lot more values)
+    - tried instead only to flatten the input datasets (each vessels 15-min set goes into one row but this time complete, not in the form of mean values or slope). Interesting that it runs as fast as before (must be a lot more values) Results were very much the same as before.
+    - Trying a different architecture (CNN for example?)
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
