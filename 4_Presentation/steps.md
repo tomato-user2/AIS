@@ -33,7 +33,10 @@ future: Try different time length and different area?
     - noticed that the ROC curve looks a lot better in the tuned model while other metrics are pretty much the same.
     - reviewing exactly how the data is "vectorized", maybe information goes missing.\*
     - tried instead only to flatten the input datasets (each vessels 15-min set goes into one row but this time complete, not in the form of mean values or slope). Interesting that it runs as fast as before (must be a lot more values) Results were very much the same as before.
-    - Trying a different architecture (CNN for example?)
+    - Trying a different architecture (CNN for example?) - CNN brought same result (more overfitting)
+    - I thought I had already introduced the subtracting of the initial course (so that it doesn't get evaluated which initial direction the vessel is going) I can't find it again
+    - wasn'sure if I normalized the values correctly, revisited that: results got significantly better
+    - 
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
