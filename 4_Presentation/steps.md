@@ -35,8 +35,9 @@ future: Try different time length and different area?
     - tried instead only to flatten the input datasets (each vessels 15-min set goes into one row but this time complete, not in the form of mean values or slope). Interesting that it runs as fast as before (must be a lot more values) Results were very much the same as before.
     - Trying a different architecture (CNN for example?) - CNN brought same result (more overfitting)
     - I thought I had already introduced the subtracting of the initial course (so that it doesn't get evaluated which initial direction the vessel is going) I can't find it again
-    - wasn'sure if I normalized the values correctly, revisited that: results got significantly better
+    - wasn'sure if I normalized the values correctly, revisited that: results got significantly better for 1_5
     - build a new tuner approach (the old had not really given any fruitful results as can be seen above)
+    - added subtraction of initial course and cyclical encoding of course values to 1_5, 1_6 and the baseline models
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
