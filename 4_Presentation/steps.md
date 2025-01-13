@@ -40,6 +40,7 @@ future: Try different time length and different area?
     - added subtraction of initial course and cyclical encoding of course values to 1_5, 1_6 and the baseline models
     - added flattening again (1_5f) (see above, it was somehow removed), this time I notice strong divergence of training and validation loss and accuracy. with the flattened data the model tends to overfit much stronger.
     - many attempts have now always revolved around the accuracy of 0,8.
+    - maximum confusion, noticed that previously used models were no LSTMs after all? Used first LSTM now? But similar results. Just takes longer.
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
@@ -48,6 +49,7 @@ future: Try different time length and different area?
     - Challenge with missing values and standardization of datasets took a long time.
     - Both of the above points lead to the model not being very flexible (e.g. changing the timeslot from 15min to a shorter or longer period would make all the data preprocessing necessary again, although I think the script for that is quite easily usable, but it would take time to calculate)
     - Hyperparameter tuning (also with keras tuner) seemed not to be worth the effort as the results were not significantly better than the starting point.
+    - Difficulty with the shape of the data, should one used aggregated or flattened data, how are the timestamps seen by the model?
 
 10. **Discussion**: Reflect on the performance of your models compared to the baseline, and discuss any limitations and future work.
 
