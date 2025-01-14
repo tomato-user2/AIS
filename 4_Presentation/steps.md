@@ -30,6 +30,7 @@ future: Try different time length and different area?
     - after some unsatisfying results I found that datasets from all vessels got thrown together in one database, predictions were then made not with the set of one vessel but with one timetamp, which was not what I intended, so I changed the approach by combining each 15min-dataset of one vessel into a vector which is then combined in a database where each row (each vector) represents a 15min time-slot of one vessel with a uniform nav-status. This instantly got better results.
     - tried keras tuner with this vectorized model. Frustratingly results were not better than the starting point.
     Noticed the last layer used "softmax", which was probably from the earlier multi-classification approach. I changed it to "sigmoid" and let the tuner and the LSTM without tuner run again. Result is worse, reverting to "softmax"
+    - noticed that even when clearly stated that it is binary classification, chatGPT tended to use softmax in suggestions quite often, the results don't differ very much, so it seems using sigmoid is not so important after all
     - noticed that the ROC curve looks a lot better in the tuned model while other metrics are pretty much the same.
     - reviewing exactly how the data is "vectorized", maybe information goes missing.\*
     - tried instead only to flatten the input datasets (each vessels 15-min set goes into one row but this time complete, not in the form of mean values or slope). Interesting that it runs as fast as before (must be a lot more values) Results were very much the same as before.
@@ -40,7 +41,9 @@ future: Try different time length and different area?
     - added subtraction of initial course and cyclical encoding of course values to 1_5, 1_6 and the baseline models
     - added flattening again (1_5f) (see above, it was somehow removed), this time I notice strong divergence of training and validation loss and accuracy. with the flattened data the model tends to overfit much stronger.
     - many attempts have now always revolved around the accuracy of 0,8.
-    - maximum confusion, noticed that previously used models were no LSTMs after all? Used first LSTM now? But similar results. Just takes longer.
+    - maximum confusion, noticed that previously used models 1_5, 1_5f, 1_6 were no LSTMs after all? LSTMed 1_5f again. Similar results. Just takes longer. And a lot of overfitteing (since flattening)
+    - As I kind of reached a dead end with the earlier approaches and could not reliably say that the data is processed the right way / a meaningful way, I try a new approach from scratch.
+    
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
