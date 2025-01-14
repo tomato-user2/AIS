@@ -43,6 +43,7 @@ future: Try different time length and different area?
     - many attempts have now always revolved around the accuracy of 0,8.
     - maximum confusion, noticed that previously used models 1_5, 1_5f, 1_6 were no LSTMs after all? LSTMed 1_5f again. Similar results. Just takes longer. And a lot of overfitteing (since flattening)
     - As I kind of reached a dead end with the earlier approaches and could not reliably say that the data is processed the right way / a meaningful way, I try a new approach from scratch. It has around the same results, but more even distribution of false pos/neg
+    - also put the filtering out of columns and the subtraction of the initial course in the preprocessing process for better control
     - ran baseline model again with current configuration of dataset and it got same results as the NN with aggregated values, so either I manage to get some good results out of a Deep Learning model with every timestep considered or I can abandon that (Deep Learning with the aggregated features is definitely overkill)
 
 
