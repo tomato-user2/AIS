@@ -27,7 +27,7 @@ future: Try different time length and different area?
     - only movement (starting point as 0) did not have any good results (not learning), even worse when class weights were introduced, commented out class weights again
     - tried normalizing each column separately - not very different
     - tried looking at only differentiating between "Under way using engine" and "Engaged in fishing". -with class weights: medium results - without class weights, with undersampling: medium results. 
-    - after some unsatisfying results I found that datasets from all vessels got thrown together in one database, predictions were then made not with the set of one vessel but with one timetamp, which was not what I intended, so I changed the approach by combining each 15min-dataset of one vessel into a vector which is then combined in a database where each row (each vector) represents a 15min time-slot of one vessel with a uniform nav-status. This instantly got better results.
+    - after some unsatisfying results I found that datasets from all vessels got thrown together in one database, predictions were then made not with the set of one vessel but with one timetamp, which was not what I intended, so I changed the approach by combining each 15min-dataset of one vessel into a vector which is then combined in a database where each row (each vector) represents a 15min time-slot of one vessel with a uniform nav-status. This instantly got better results. (aggregated values only)
     - tried keras tuner with this vectorized model. Frustratingly results were not better than the starting point.
     Noticed the last layer used "softmax", which was probably from the earlier multi-classification approach. I changed it to "sigmoid" and let the tuner and the LSTM without tuner run again. Result is worse, reverting to "softmax"
     - noticed that even when clearly stated that it is binary classification, chatGPT tended to use softmax in suggestions quite often, the results don't differ very much, so it seems using sigmoid is not so important after all
@@ -42,8 +42,9 @@ future: Try different time length and different area?
     - added flattening again (1_5f) (see above, it was somehow removed), this time I notice strong divergence of training and validation loss and accuracy. with the flattened data the model tends to overfit much stronger.
     - many attempts have now always revolved around the accuracy of 0,8.
     - maximum confusion, noticed that previously used models 1_5, 1_5f, 1_6 were no LSTMs after all? LSTMed 1_5f again. Similar results. Just takes longer. And a lot of overfitteing (since flattening)
-    - As I kind of reached a dead end with the earlier approaches and could not reliably say that the data is processed the right way / a meaningful way, I try a new approach from scratch.
-    
+    - As I kind of reached a dead end with the earlier approaches and could not reliably say that the data is processed the right way / a meaningful way, I try a new approach from scratch. It has around the same results, but more even distribution of false pos/neg
+    - ran baseline model again with current configuration of dataset and it got same results as the NN with aggregated values, so either I manage to get some good results out of a Deep Learning model with every timestep considered or I can abandon that (Deep Learning with the aggregated features is definitely overkill)
+
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
