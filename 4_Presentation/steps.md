@@ -10,10 +10,11 @@
    - grouping by vessel
    - filtering by area (area selection where there is open sea, no confusing port, and seperately one anchorage area)
    - creating XXmin sets of equal Navigational Status (variable), these contain reports of several things at irregular times, each entry has: **Timestamp**,Type of mobile, MMSI, Latitude, Longitude, **Navigational status(TARGET)**, ROT, **SOG**, **COG**, **Heading**, IMO, Callsign, Name, Ship type, Cargo type, Width, Length, Type of position fixing device, Draught, Destination, ETA, Data source type, A, B, C, D, Time_Group
-    - from the above I plan to use the items in bold writing
+    - from the above I plan to use the items in bold writing because the model should be as general as possible and features like coordinates would work against that.
    - Missing values: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
    - standardizing the sets to exactly the same length and time interval (example for 15min: 14:50 exactly and 10s interval)
-future: Try different time length and different area?
+   - deleting columns from tables that are not needed like positions.
+   - setting the initial course to zero for the datasets to be better comparable. That means from every course and heading value the initial course value is subtracted
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
 - logistic regression for simplicity (why did i scrap that again?...)
@@ -61,8 +62,12 @@ future: Try different time length and different area?
     - Difficulty with the shape of the data, should one use aggregated or flattened data, how are the timestamps seen by the model?
 
 10. **Discussion**: Reflect on the performance of your models compared to the baseline, and discuss any limitations and future work.
+    - Future Work
+       - More vessel categories
+       - more features like wind
+       - 
 
-11. **Q&A**: Be prepared to answer questions from the audience or instructor.
+12. **Q&A**: Be prepared to answer questions from the audience or instructor.
 
 \* For example, if you had two CSV files (representing two vessels), each file would contribute one row to the final dataset, and the structure of each row would look like this:
 SOG_mean	SOG_min	SOG_max	SOG_std	SOG_slope	COG_mean	COG_min	COG_max	COG_std	COG_slope	Heading_mean	Heading_min	Heading_max	Heading_std
