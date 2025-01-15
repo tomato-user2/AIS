@@ -48,7 +48,8 @@ future: Try different time length and different area?
     - ran baseline model again with current configuration of dataset and it got same results as the NN with aggregated values, so either I manage to get some good results out of a Deep Learning model with every timestep considered or I can abandon that (Deep Learning with the aggregated features is definitely overkill)
     - experimented with image recognition instead (first result not so good, 0,75)
     - When looking at the images i noticed fishing vessels having high speed and straight course i have to check if maybe those are wrong datasets. Notice that high speeds were present about one hundred knots have to check that too. Maybe with a refined dataset i can achieve better results.
-
+    - Additionally this was the first time i could really visually see what the model was doing when i saw the images off the time sets by quickly looking through them i could see that there is more variance in the engine sets than i thought and i saw what could have been the problem before that is of course there are a lot of vessels going straight ahead with eight knots or something in the one category and as well in the other category for those cases it would really be necessary to look at longer time slots to be able to differentiate them.
+    - so with a refined dataset and the existing models i think that i am at the end of the developments of models with a small time slot and could experiment further with longer time sets, e.g. 2h with minute steps.
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
