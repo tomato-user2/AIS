@@ -7,12 +7,12 @@
 
 3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps:
 
-1. grouping by vessel
-2. filtering by area (area selection where there is open sea, no confusing port, and seperately one anchorage area)
-3. creating XXmin sets of equal Navigational Status (variable), these contain reports of several things at irregular times, each entry has: **Timestamp**,Type of mobile, MMSI, **Latitude**, **Longitude**, **Navigational status(TARGET)**, **ROT**, **SOG**, **COG**, **Heading**, IMO, Callsign, Name, Ship type, Cargo type, Width, Length, Type of position fixing device, Draught, Destination, ETA, Data source type, A, B, C, D, Time_Group
+   - grouping by vessel
+   - filtering by area (area selection where there is open sea, no confusing port, and seperately one anchorage area)
+   - creating XXmin sets of equal Navigational Status (variable), these contain reports of several things at irregular times, each entry has: **Timestamp**,Type of mobile, MMSI, Latitude, Longitude, **Navigational status(TARGET)**, ROT, **SOG**, **COG**, **Heading**, IMO, Callsign, Name, Ship type, Cargo type, Width, Length, Type of position fixing device, Draught, Destination, ETA, Data source type, A, B, C, D, Time_Group
     - from the above I plan to use the items in bold writing
-4. Missing values: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
-5. standardizing the sets to exactly the same length and time interval (example for 15min: 14:50 exactly and 10s interval)
+   - Missing values: Interpolation for Columns with Less Than 50% Missing Values: For each file, after deleting the files with more or equal than 50% of a columns missing, we’ll check the percentage of missing values per column and apply interpolation after time for those columns where less than 50% of the values are missing.
+   - standardizing the sets to exactly the same length and time interval (example for 15min: 14:50 exactly and 10s interval)
 future: Try different time length and different area?
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
@@ -20,6 +20,7 @@ future: Try different time length and different area?
 - random forest (here I split two-ways: 1 model looks at every line seperately and 1 model looks at every time-set (aggregated) sepearately)
 - results were: 
 - added a lot of visualizations and stuff to understand input - output
+- a separate baseline for images?
 
 5. **Model Definition and Evaluation**:
   - working on LSTM
@@ -45,6 +46,8 @@ future: Try different time length and different area?
     - As I kind of reached a dead end with the earlier approaches and could not reliably say that the data is processed the right way / a meaningful way, I try a new approach from scratch. It has around the same results, but more even distribution of false pos/neg
     - also put the filtering out of columns and the subtraction of the initial course in the preprocessing process for better control
     - ran baseline model again with current configuration of dataset and it got same results as the NN with aggregated values, so either I manage to get some good results out of a Deep Learning model with every timestep considered or I can abandon that (Deep Learning with the aggregated features is definitely overkill)
+    - experimented with image recognition instead (first result not so good, 0,75)
+    - When looking at the images i noticed fishing vessels having high speed and straight course i have to check if maybe those are wrong datasets. Notice that high speeds were present about one hundred knots have to check that too. Maybe with a refined dataset i can achieve better results.
 
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
@@ -54,7 +57,7 @@ future: Try different time length and different area?
     - Challenge with missing values and standardization of datasets took a long time.
     - Both of the above points lead to the model not being very flexible (e.g. changing the timeslot from 15min to a shorter or longer period would make all the data preprocessing necessary again, although I think the script for that is quite easily usable, but it would take time to calculate)
     - Hyperparameter tuning (also with keras tuner) seemed not to be worth the effort as the results were not significantly better than the starting point.
-    - Difficulty with the shape of the data, should one used aggregated or flattened data, how are the timestamps seen by the model?
+    - Difficulty with the shape of the data, should one use aggregated or flattened data, how are the timestamps seen by the model?
 
 10. **Discussion**: Reflect on the performance of your models compared to the baseline, and discuss any limitations and future work.
 
