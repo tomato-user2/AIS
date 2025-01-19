@@ -61,10 +61,13 @@
     - In the map tiles i introduced some changes i removed the background it is now transparent. I introduced color coding for speed called speed color coded trajectories.
     - Iran these images through the image model again results were first around zero point seven and later a little bit better than the fifteen minutes sets at around zero point eight but still not satisfying.
     - The color coding was a good step i think because no additionally to the path you can also see that speed of the vessel in the images.
-    - As all the models did not produce any better results than the fifteen minutes sets i tried again to write a new model from script with the help of chatGPT
+    - As all the models did not produce any better results than the fifteen minutes sets i tried again to write a new model (2_2) from script with the help of chatGPT
     - I did not expect much of the new approach but the first time i ran it over the database it seemed to produce the breakthrough i had hoped for.
     - By looking through the changes i noticed for the first time that a sliding window approach was used. That might have been the most important optimization.
     - A detailed description of how the now best performing model is handling the data is included in the file.
+    - Tried training the 2_2 with 15min sets and a sequence length of 30 --> 0.85, not perfect but still the best within the 15min set models.
+    - Tried 2_2 with 15min sets early stopping to 15 and sequence length to 45 (thats the half of the time of the set, like in the 2h sets with 60)
+    - Was interested to see how the model trained on the 2h sets would perform on the 15 min set (to evaluate the need for a different training for the dynamic approach (see future work below))
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
@@ -79,6 +82,7 @@
 10. **Discussion**: Reflect on the performance of your models compared to the baseline, and discuss any limitations and future work.
     - Future Work
        - More vessel categories
+       - Approach the timeslot more dynamically (e.g. for a radar application you rarely have 2h of information, but it slowly builds up, so you could step by step improve the quality of the prediction the more data it collects, starting at 5min, then 15, then 30 or even fluent without fixed steps "sliding window which is growing bigger with time"??) (training could maybe work by creating varying timesets from 5min to 1 or 2h?, then scaling the timesteps and the sliding window dynamically?)
        - more features like wind
        - Predict vessels movement like in literature review source number three.
 
