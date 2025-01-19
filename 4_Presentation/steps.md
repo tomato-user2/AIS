@@ -19,9 +19,11 @@
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
 - logistic regression for simplicity (why did i scrap that again?...)
-- random forest (here I split two-ways: 1 model looks at every line seperately and 1 model looks at every time-set (aggregated) sepearately)
-- results were: about 0.8 accuracy
-- added a lot of visualizations and stuff to understand input - output
+- random forest (here I split two-ways: 1 model looks at every line and 1 model looks at every time-set (aggregated) sepearately)
+- tested on 15min and 2h sets
+- results were: between 0.68 and 0.78 in accuracy, but some classes were not recognized at all. (Reminder:insert confusion matrix image)
+- approaches with the position (Lat/Lon) still in held better results, but still certain classes were not recognized
+- added a lot of visualizations and stuff to understand input - output and feature importance (Reminder: add feature importance image)
 
 5. **Model Definition and Evaluation**:
   - working on LSTM
