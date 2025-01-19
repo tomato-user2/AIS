@@ -68,6 +68,7 @@
     - Tried training the 2_2 with 15min sets and a sequence length of 30 --> 0.85, not perfect but still the best within the 15min set models.
     - Tried 2_2 with 15min sets early stopping to 15 and sequence length to 45 (thats the half of the time of the set, like in the 2h sets with 60)
     - Was interested to see how the model trained on the 2h sets would perform on the 15 min set (to evaluate the need for a different training for the dynamic approach (see future work below)), but as the data input structure is different, it was not possible to directy use the models interchangeably, to have a useable product, I would need to produce a dynamic model somehow.
+    - trying to assess the wrongly categorized csv and then display the corresponding color-coded trajectory
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
