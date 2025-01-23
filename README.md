@@ -1,22 +1,29 @@
-# [Your Project Title Here]
+# AIS based prediction of vessel status
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/annewoelfl/AIS]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+AIS data is transmitted and recorded in vast quantities.
+Therefore it is a convenient source for training models that are envisioned to perform tasks like predicting:
+- the current (or past) status of a vessel
+- the future path or reaction of the vessel
+- movement patterns of different vessel types
+with the purpose to have a useful application for safety or security evaluations (early warning for coastal authorities, detecting illegal fishing or as additional information for other mariners on their gadgets, e.g. radar) or maybe to develop realistic behaviour patterns for synthetic traffic in simulators.
+
+The scope of this project here is limited to a specific binary classification: Between vessels engaged in fishing and vessels underway using engine.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Time series binary classification]
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** [LSTM_2_2 on the 2h dataset}
+- **Evaluation Metric:** [accuracy, precision, recall, f1-score]
+- **Result:** [99%, 0.99, 0.98, 0.99]
 
 ## Documentation
 
