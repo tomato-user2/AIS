@@ -11,9 +11,10 @@ Therefore it is a convenient source for training models that are envisioned to p
 - the current (or past) status of a vessel
 - the future path or reaction of the vessel
 - movement patterns of different vessel types
+
 with the purpose to have a useful application for safety or security evaluations (early warning for coastal authorities, detecting illegal fishing or as additional information for other mariners on their gadgets, e.g. radar) or maybe to develop realistic behaviour patterns for synthetic traffic in simulators.
 
-The scope of this project here is limited to a specific binary classification: Between vessels engaged in fishing and vessels underway using engine.
+The scope of this project here is limited to a specific binary classification: Between vessels engaged in fishing and vessels underway using engine. For this task the models are trained on either 1-min records with 10sec intervals or 2h records with 1min intervals containing only course, heading and speed.
 
 ### Task Type
 
