@@ -16,6 +16,8 @@ with the purpose to have a useful application for safety or security evaluations
 
 The scope of this project here is limited to a specific binary classification: Between vessels engaged in fishing and vessels underway using engine. For this task the models are trained on either 1-min records with 10sec intervals or 2h records with 1min intervals containing only course, heading and speed.
 
+The datasets come from the Danish Maritime Authority under http://web.ais.dk/aisdata/
+
 ### Task Type
 
 [Time series binary classification]
