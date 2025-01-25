@@ -18,7 +18,6 @@
    - deleting not needed columns
 
 4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
-- logistic regression for simplicity (why did i scrap that again?...)
 - random forest (here I split two-ways: 1 model looks at every line and 1 model looks at every time-set (aggregated) sepearately)
 - tested on 15min and 2h sets
 - results were: between 0.68 and 0.78 in accuracy, but some classes were not recognized at all. (Reminder:insert confusion matrix image)
@@ -62,13 +61,13 @@
     - Iran these images through the image model again results were first around zero point seven and later a little bit better than the fifteen minutes sets at around zero point eight but still not satisfying.
     - The color coding was a good step i think because no additionally to the path you can also see that speed of the vessel in the images.
     - As all the models did not produce any better results than the fifteen minutes sets i tried again to write a new model (2_2) from script with the help of chatGPT
-    - I did not expect much of the new approach but the first time i ran it over the database it seemed to produce the breakthrough i had hoped for.
+    - I did not expect much of the new approach but the first time i ran it over the database it seemed to produce the breakthrough i had hoped for. Results are now 0.99 in accuracy, f1 score and precision. Recall at 0.98. Intensive trials with the code showed no problems so the result seems valid.
     - By looking through the changes i noticed for the first time that a sliding window approach was used. That might have been the most important optimization.
     - A detailed description of how the now best performing model is handling the data is included in the file.
     - Tried training the 2_2 with 15min sets and a sequence length of 30 --> 0.85, not perfect but still the best within the 15min set models.
     - Tried 2_2 with 15min sets early stopping to 15 and sequence length to 45 (thats the half of the time of the set, like in the 2h sets with 60)
     - Was interested to see how the model trained on the 2h sets would perform on the 15 min set (to evaluate the need for a different training for the dynamic approach (see future work below)), but as the data input structure is different, it was not possible to directy use the models interchangeably, to have a useable product, I would need to produce a dynamic model somehow.
-    - trying to assess the wrongly categorized csv and then display the corresponding color-coded trajectory
+    - trying to assess the wrongly categorized csv and then display the corresponding color-coded trajectory so that the results are easily visible.
 
 8. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
 
