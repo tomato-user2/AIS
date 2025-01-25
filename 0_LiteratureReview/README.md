@@ -20,7 +20,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: The approach successfully predicted 30-minute trajectories of ships, achieving higher accuracy than global models trained on entire datasets. The attention-based sequence-to-sequence models provided effective predictions even for complex maritime traffic scenarios.
   - **Relation to the Project**: This study provides a practical framework for handling maritime AIS data, clustering it into meaningful patterns, and using localized predictive models for trajectory forecasting. The methods and insights can guide similar predictive tasks using temporal data in maritime and other domains.
 
-- **Source 3**: [AIS database]
+- **Source 3**: [Fishing watch - Vessel Scoring]
 
   - **[[Link](https://github.com/GlobalFishingWatch/vessel-scoring)](https://github.com/GlobalFishingWatch/vessel-scoring)**
   - **Objective**: To evaluate and compare heuristic and machine learning models, including logistic regression and multi-window approaches, for detecting fishing activities using AIS data.
