@@ -187,7 +187,7 @@ def create_presentation():
     content.text = "Thank you for your attention! We welcome your questions."
 
     # Save the presentation
-    presentation.save("ML_Project_Presentation.pptx")
+    presentation.save("4_Presentation/ML_Project_Presentation.pptx")
 
 if __name__ == "__main__":
     create_presentation()
