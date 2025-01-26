@@ -21,10 +21,10 @@ graph TB
     G --> N[Using Aggregated Data]
     G --> O[Using All Data]
 
-    click I href "./2hbaseline_rf_all.ipynb"
-    click J href "./2hbaseline_rf_aggr_only_fish.ipynb"
-    click K href "./2hbaseline_rf_only_fish.ipynb"
-    click M href "./15minbaseline_rf_aggregated_all.ipynb"
+    click I href "https://github.com/annewoelfl/AIS/blob/f18a3ca9df7f349af134f5629b7d6fb8620a5cbe/2_BaselineModel/2hbaseline_rf_all.ipynb"
+    click J href "https://github.com/annewoelfl/AIS/blob/f18a3ca9df7f349af134f5629b7d6fb8620a5cbe/2_BaselineModel/2hbaseline_rf_aggr_only_fish.ipynb"
+    click K href "https://github.com/annewoelfl/AIS/blob/f18a3ca9df7f349af134f5629b7d6fb8620a5cbe/2_BaselineModel/2hbaseline_rf_only_fish.ipynb"
+    click M href "https://github.com/annewoelfl/AIS/blob/f18a3ca9df7f349af134f5629b7d6fb8620a5cbe/2_BaselineModel/15minbaseline_rf_aggregated_all.ipynb"
 
     class I,J,K,M blueText;
     
