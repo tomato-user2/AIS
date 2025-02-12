@@ -2,6 +2,8 @@ Large files not retained here.
 
 "input" is the final dataset (the "output" of the data processing and the "input" for the model 2_2). The initial data input from the web page was in "downloaded_zips", but is too large to be kept here.
 
+IMPORTANT: The final step (moving the finished files to "input" is not done here, but in the first part of the model script, this is a safeguard to have full control of which files go into "input" and thus into the model.)
+
 It works like this:
 ```mermaid
 graph TD;
